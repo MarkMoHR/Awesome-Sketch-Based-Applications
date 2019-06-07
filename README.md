@@ -43,6 +43,8 @@ A collection of sketch based applications.
 | [FaceShop: Deep Sketch-based Face Image Editing](https://arxiv.org/pdf/1804.08972.pdf) | SIGGRAPH 2018 | [[project]](https://home.inf.unibe.ch/~porteni/projects/faceshop/) |
 | [Sparse, Smart Contours to Represent and Edit Images](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dekel_Sparse_Smart_Contours_CVPR_2018_paper.pdf) | CVPR 2018 | [[project]](https://contour2im.github.io/) |
 | [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589) | 1806.03589 | [[project]](http://jiahuiyu.com/deepfill2/) |
+| [SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch](https://arxiv.org/pdf/1902.06838.pdf) | 1902.06838 | [[code]](https://github.com/run-youngjoo/SC-FEGAN) |
+| [Fashion Editing with Multi-scale Attention Normalization](https://arxiv.org/pdf/1906.00884.pdf) | 1906.00884 |  |
 
 
 ## 3. Sketch Based Image Retrieval (SBIR)
