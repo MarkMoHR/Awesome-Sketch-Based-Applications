@@ -15,6 +15,7 @@ A collection of sketch based applications.
 - [4. Sketch Based 3D Shape Retrieval](#4-sketch-based-3d-shape-retrieval)
 - [5. Sketch Based 3D Shape Modeling](#5-sketch-based-3d-shape-modeling)
 - [6. Sketch Completion](#6-sketch-completion)
+- [7. Sketch Segmentation and Perceptual Grouping](#7-sketch-segmentation-and-perceptual-grouping)
 
 ---
 
@@ -98,8 +99,25 @@ A collection of sketch based applications.
 | [SketchGAN: Joint Sketch Completion and Recognition with Generative Adversarial Network](https://orca-mwe.cf.ac.uk/121532/1/SketchGAN_CVPR2019.pdf) | CVPR 2019 |  |
 
 
+## 7. Sketch Segmentation and Perceptual Grouping
 
+- Object-Level
 
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Free Hand-Drawn Sketch Segmentation](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/16-2012-eccv-sketch-segmenation.pdf) | ECCV 2012 |  |
+| [Data-driven Segmentation and Labeling of Freehand Sketches](https://scholars.cityu.edu.hk/files/15839162/9_5915645_TOG_Data_driven_postprint.pdf) | SIGGRAPH Asia 2014 | [[code]](http://sweb.cityu.edu.hk/hongbofu/projects/SketchSegmentationLabeling_SA14/src_global_interpretation.zip) [[project]](http://sweb.cityu.edu.hk/hongbofu/projects/SketchSegmentationLabeling_SA14) [[dataset]](http://sweb.cityu.edu.hk/hongbofu/projects/SketchSegmentationLabeling_SA14/Sketch_dataset.zip) |
+| [Making Better Use of Edges via Perceptual Grouping](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Qi_Making_Better_Use_2015_CVPR_paper.pdf) | CVPR 2015 |  |
+| [Example-Based Sketch Segmentation and Labeling Using CRFs](http://homes.esat.kuleuven.be/~konijn/publications/2016/a151-schneider.pdf) | TOG 2016 | |
+| [Sketchsegnet: A Rnn Model for Labeling Sketch Strokes](https://ieeexplore.ieee.org/abstract/document/8516988) | MLSP 2018 |  |
+| [Universal Sketch Perceptual Grouping](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ke_LI_Universal_Sketch_Perceptual_ECCV_2018_paper.pdf) / [Toward Deep Universal Sketch Perceptual Grouper](https://ieeexplore.ieee.org/abstract/document/8626530) | ECCV 2018 / TIP 2019 | [[code]](https://github.com/KeLi-SketchX/Universal-sketch-perceptual-grouping) |
+| [Fast Sketch Segmentation and Labeling With Deep Learning](https://ieeexplore.ieee.org/abstract/document/8565976) | CGA 2019 |  |
+| [Stroke-based sketched symbol reconstruction and segmentation](https://arxiv.org/pdf/1901.03427.pdf) | 1901.03427 |  |
 
+- Scene-Level
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [SketchyScene: Richly-Annotated Scene Sketches](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqing_Zou_SketchyScene_Richly-Annotated_Scene_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/SketchyScene/SketchyScene) |
 
 
