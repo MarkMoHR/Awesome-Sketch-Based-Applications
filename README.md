@@ -66,7 +66,7 @@ A collection of sketch based applications.
 | [Generative Model for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/1904.08542) | CVPRW 2019 |  |
 | [Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval](https://ieeexplore.ieee.org/abstract/document/8694004) | TIP 2019 |  |
 | [Stacked Semantic-Guided Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/1904.01971) | 1904.01971 |  |
-| [Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/1904.03208) | 1904.03208 |  |
+| [Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/1904.03208) | ICCV 2019 |  |
 | [Semantic Adversarial Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/1905.02327) | 1905.02327 |  |
 
 
