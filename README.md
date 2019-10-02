@@ -29,6 +29,7 @@ A collection of sketch based applications.
 | [Image Generation from Sketch Constraint Using Contextual GAN](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongyi_Lu_Image_Generation_from_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/elliottwu/sText2Image) [[project]](https://elliottwu.com/projects/sketch/) |
 | [Multi-Instance Sketch to Image Synthesis With Progressive Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8698864) | IEEE Access 2019 |  |
 | [Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation](http://www.robots.ox.ac.uk/~tvg/publications/2019/ICCV_ISF_camera_ready.pdf) | ICCV 2019 |  [[code]](https://github.com/arnabgho/iSketchNFill) [[project]](https://arnabgho.github.io/iSketchNFill/) |
+| [An Unpaired Sketch-to-Photo Translation Model](https://arxiv.org/abs/1909.08313) | 1909.08313 |  [[code]](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation) |
 
 ### 1.2 Style-based Synthesis
 
