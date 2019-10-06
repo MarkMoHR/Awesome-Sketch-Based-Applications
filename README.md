@@ -113,10 +113,15 @@ A collection of sketch based applications.
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan="2"><strong>Pixelwise</strong></td>
+    <td rowspan=3"><strong>Pixelwise</strong></td>
     <td> <a href="https://ieeexplore.ieee.org/abstract/document/8565976">Fast Sketch Segmentation and Labeling With Deep Learning</a> </td> 
     <td> CGA 2019 </td> 
     <td> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/8784880">SPFusionNet: Sketch Segmentation Using Multi-modal Data Fusion</a> </td> 
+    <td> ICME 2019 </td> 
+    <td>  </td>
   </tr>
   <tr>
     <td> <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqing_Zou_SketchyScene_Richly-Annotated_Scene_ECCV_2018_paper.pdf">SketchyScene: Richly-Annotated Scene Sketches</a> (scene-level) </td> 
@@ -141,8 +146,8 @@ A collection of sketch based applications.
     <td> </td>
   </tr>
   <tr>
-    <td> <a href="https://ieeexplore.ieee.org/abstract/document/8516988">Sketchsegnet: A Rnn Model for Labeling Sketch Strokes</a> </td> 
-    <td> MLSP 2018 </td> 
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/8766108">SketchSegNet+: An End-to-End Learning of RNN for Multi-Class Sketch Semantic Segmentation</a> </td> 
+    <td> IEEE Access 2019 </td> 
     <td> </td>
   </tr>
   <tr>
