@@ -16,6 +16,8 @@ A collection of sketch based applications.
 - [5. Sketch Based 3D Shape Modeling](#5-sketch-based-3d-shape-modeling)
 - [6. Sketch Completion](#6-sketch-completion)
 - [7. Sketch Segmentation and Perceptual Grouping](#7-sketch-segmentation-and-perceptual-grouping)
+- [8. Sketch Based Transfer Learning](#8-sketch-based-transfer-learning)
+
 
 ---
 
@@ -188,3 +190,11 @@ A collection of sketch based applications.
   </tr>
   
 </table>
+
+
+
+## 8. Sketch Based Transfer Learning
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) | WACV 2020 |  |
