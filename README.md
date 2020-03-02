@@ -107,6 +107,7 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [SketchGAN: Joint Sketch Completion and Recognition with Generative Adversarial Network](https://orca-mwe.cf.ac.uk/121532/1/SketchGAN_CVPR2019.pdf) | CVPR 2019 |  |
+| [Joint Gap Detection and Inpainting of Line Drawings](http://iizuka.cs.tsukuba.ac.jp/projects/inpainting/data/inpainting_cvpr2017.pdf) | CVPR 2017 | [[project]](http://iizuka.cs.tsukuba.ac.jp/projects/inpainting/en/) [[code]](https://github.com/kaidlc/CVPR2017_linedrawings) |
 
 
 ## 7. Sketch Segmentation and Perceptual Grouping
