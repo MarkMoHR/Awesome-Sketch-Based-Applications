@@ -34,7 +34,7 @@ A collection of sketch based applications.
 | [Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ghosh_Interactive_Sketch__Fill_Multiclass_Sketch-to-Image_Translation_ICCV_2019_paper.pdf) | ICCV 2019 |  [[code]](https://github.com/arnabgho/iSketchNFill) [[project]](https://arnabgho.github.io/iSketchNFill/) |
 | [An Unpaired Sketch-to-Photo Translation Model](https://arxiv.org/abs/1909.08313) | 1909.08313 |  [[code]](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation) |
 | [LinesToFacePhoto: Face Photo Generation from Lines with Conditional Self-Attention Generative Adversarial Network](https://arxiv.org/pdf/1910.08914.pdf) | ACM MM 2019 |  |
-| [SketchyCOCO: Image Generation from Freehand Scene Sketches](https://arxiv.org/abs/2003.02683) | CVPR 2020 |  |
+| [SketchyCOCO: Image Generation from Freehand Scene Sketches](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_SketchyCOCO_Image_Generation_From_Freehand_Scene_Sketches_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/sysu-imsl/SketchyCOCO) |
 | [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/DeepFaceDrawing/) | SIGGRAPH 2020 | [[project]](http://geometrylearning.com/DeepFaceDrawing/) |
 
 ### 1.2 Style-based Synthesis
@@ -80,6 +80,7 @@ A collection of sketch based applications.
 | [Semantic Adversarial Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/1905.02327) | 1905.02327 |  |
 | [TC-Net for iSBIR: Triplet Classification Network for Instance-level Sketch Based Image Retrieval](http://www.eecs.qmul.ac.uk/~sgg/papers/LinEtAl_ACM_MM2019.pdf) | ACM MM 2019 |  |
 | [Sketch Less for More: On-the-Fly Fine-Grained Sketch Based Image Retrieval](https://arxiv.org/abs/2002.10310) | CVPR 2020 | [[code]](https://github.com/AyanKumarBhunia/on-the-fly-FGSBIR) |
+| [Solving Mixed-modal Jigsaw Puzzle for Fine-Grained Sketch-Based Image Retrieval](http://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_Solving_Mixed-Modal_Jigsaw_Puzzle_for_Fine-Grained_Sketch-Based_Image_Retrieval_CVPR_2020_paper.pdf) | CVPR 2020 |  |
 
 
 ## 4. Sketch Based 3D Shape Retrieval
