@@ -18,6 +18,8 @@ A collection of sketch based applications.
 - [7. Sketch Segmentation and Perceptual Grouping](#7-sketch-segmentation-and-perceptual-grouping)
 - [8. Sketch Based Transfer Learning](#8-sketch-based-transfer-learning)
 - [9. Sketch and Shading](#9-sketch-and-shading)
+- [10. Sketch-Guided Object Localization](#10-sketch-guided-object-localization)
+- [11. Sketch-Guided Video Synthesis](#11-sketch-guided-video-synthesis)
 
 
 ---
@@ -228,3 +230,15 @@ A collection of sketch based applications.
 | --- | --- | --- |
 | [Learning to Shadow Hand-drawn Sketches](https://arxiv.org/abs/2002.11812) | CVPR 2020 | [[project]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html) [[code]](https://github.com/qyzdao/ShadeSketch) |
 
+
+## 10. Sketch-Guided Object Localization 
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Sketch-Guided Object Localization in Natural Images](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510528.pdf) | ECCV 2020 | [[project]](http://visual-computing.in/sketch-guided-object-localization/) [[code]](https://github.com/IISCAditayTripathi/SketchGuidedLocalization) |
+
+## 11. Sketch-Guided Video Synthesis
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Deep Sketch-guided Cartoon Video Synthesis](https://arxiv.org/abs/2008.04149) | arxiv |  |
