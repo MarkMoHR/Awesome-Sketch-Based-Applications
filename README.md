@@ -46,6 +46,7 @@ A collection of sketch based applications.
 | --- | --- | --- |
 | [TextureGAN: Controlling Deep Image Synthesis with Texture Patches](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_TextureGAN_Controlling_Deep_CVPR_2018_paper.pdf) | CVPR 2018 | [[code]](https://github.com/janesjanes/Pytorch-TextureGAN) |
 | [Multimodal Unsupervised Image-to-Image Translation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/nvlabs/MUNIT) |
+| [SketchPatch: Sketch Stylization via Seamless Patch-level Synthesis](https://arxiv.org/abs/2009.02216) | SIGGRAPH Asia 2020 |  |
 
 
 ## 2. Sketch Based Image Editing
