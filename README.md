@@ -20,6 +20,7 @@ A collection of sketch based applications.
 - [9. Sketch and Shading](#9-sketch-and-shading)
 - [10. Sketch-Guided Object Localization](#10-sketch-guided-object-localization)
 - [11. Sketch-Guided Video Synthesis](#11-sketch-guided-video-synthesis)
+- [12. Sketch Enhancement](#12-sketch-enhancement)
 
 
 ---
@@ -247,3 +248,10 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Deep Sketch-guided Cartoon Video Synthesis](https://arxiv.org/abs/2008.04149) | arxiv |  |
+
+## 12. Sketch Enhancement
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | ACM MM 2020 | [[code]](https://github.com/LCXCUC/SketchMan2020) |
+
