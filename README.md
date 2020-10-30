@@ -16,11 +16,11 @@ A collection of sketch based applications.
 - [5. Sketch Based 3D Shape Modeling](#5-sketch-based-3d-shape-modeling)
 - [6. Sketch Completion](#6-sketch-completion)
 - [7. Sketch Segmentation and Perceptual Grouping](#7-sketch-segmentation-and-perceptual-grouping)
-- [8. Sketch Based Transfer Learning](#8-sketch-based-transfer-learning)
-- [9. Sketch and Shading](#9-sketch-and-shading)
-- [10. Sketch-Guided Object Localization](#10-sketch-guided-object-localization)
-- [11. Sketch-Guided Video Synthesis](#11-sketch-guided-video-synthesis)
-- [12. Sketch Enhancement](#12-sketch-enhancement)
+- [8. Sketch and Shading](#8-sketch-and-shading)
+- [9. Sketch-Guided Object Localization](#9-sketch-guided-object-localization)
+- [10. Sketch-Guided Video Synthesis](#10-sketch-guided-video-synthesis)
+- [11. Sketch Enhancement](#11-sketch-enhancement)
+- [12. Sketch Representation Learning](#12-sketch-representation-learning)
 
 
 ---
@@ -222,36 +222,52 @@ A collection of sketch based applications.
 
 
 
-## 8. Sketch Based Transfer Learning
-
-| Paper | Source | Code/Project Link  |
-| --- | --- | --- |
-| [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) | WACV 2020 |  |
-
-
-
-## 9. Sketch and Shading
+## 8. Sketch and Shading
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Learning to Shadow Hand-drawn Sketches](https://arxiv.org/abs/2002.11812) | CVPR 2020 | [[project]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html) [[code]](https://github.com/qyzdao/ShadeSketch) |
 
 
-## 10. Sketch-Guided Object Localization 
+## 9. Sketch-Guided Object Localization 
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Sketch-Guided Object Localization in Natural Images](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510528.pdf) | ECCV 2020 | [[project]](http://visual-computing.in/sketch-guided-object-localization/) [[code]](https://github.com/IISCAditayTripathi/SketchGuidedLocalization) |
 
-## 11. Sketch-Guided Video Synthesis
+## 10. Sketch-Guided Video Synthesis
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Deep Sketch-guided Cartoon Video Synthesis](https://arxiv.org/abs/2008.04149) | arxiv |  |
 
-## 12. Sketch Enhancement
+## 11. Sketch Enhancement
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | ACM MM 2020 | [[code]](https://github.com/LCXCUC/SketchMan2020) |
 
+
+## 12. Sketch Representation Learning
+
+- Stroke order importance/saliency
+
+| Paper | Source | Code/Project Link | Data Manner | Related Applications |
+| --- | --- | --- | --- | --- |
+| [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](http://sketchx.ai/pixelor) | SIGGRAPH Asia 2020 | [[Project]](http://sketchx.ai/pixelor) [[Code]](https://github.com/dasayan05/neuralsort-siggraph) | Vector/stroke-level | Sketch synthesis and recognition |
+| [Learning Deep Sketch Abstraction](http://openaccess.thecvf.com/content_cvpr_2018/papers/Muhammad_Learning_Deep_Sketch_CVPR_2018_paper.pdf) | CVPR 2018 |  | Vector/stroke-level | FG-SBIR |
+
+- Representation Learning
+
+| Paper | Source | Code/Project Link | Data Manner | Related Applications |
+| --- | --- | --- | --- | --- |
+| [CoSE: Compositional Stroke Embeddings](https://arxiv.org/abs/2006.09930) | arxiv | [[Code]](https://github.com/eth-ait/cose) | Vector/stroke-level | Auto-completing diagrams |
+| [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) | CVPR 2020 |  | Vector/stroke-level | Sketch recognition, retrieval, and gestalt |
+| [Sketchformer: Transformer-based Representation for Sketched Structure](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ribeiro_Sketchformer_Transformer-Based_Representation_for_Sketched_Structure_CVPR_2020_paper.pdf) | CVPR 2020 |  | Vector/stroke-level | Sketch classification, SBIR, reconstruction and interpolation |
+
+- Pixel-level description and correspondence
+
+| Paper | Source | Code/Project Link | Data Manner | Related Applications |
+| --- | --- | --- | --- | --- |
+| [SketchDesc: Learning Local Sketch Descriptors for Multi-view Correspondence](http://sweb.cityu.edu.hk/hongbofu/doc/SketchDesc_TCSVT2020.pdf) | TCSVT 2020 |  | Pixel-level | Semantic correspondence among multi-view sketches |
+| [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) | WACV 2020 |  | Pixel-level | Domain transfer learning |
