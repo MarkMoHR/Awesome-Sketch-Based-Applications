@@ -109,6 +109,7 @@ A collection of sketch based applications.
 | [Learning Barycentric Representations of 3D Shapes for Sketch-based 3D Shape Retrieval](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xie_Learning_Barycentric_Representations_CVPR_2017_paper.pdf) | CVPR 2017 |  |
 | [Deep Cross-modality Adaptation via Semantics Preserving Adversarial Learning for Sketch-based 3D Shape Retrieval](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiaxin_Chen_Deep_Cross-modality_Adaptation_ECCV_2018_paper.pdf) | ECCV 2018 |  |
 | [Unsupervised Learning of 3D Model Reconstruction from Hand-Drawn Sketches](https://dl.acm.org/citation.cfm?id=3240699) | ACMMM 2018 |  |
+| [Towards 3D VR-Sketch to 3D Shape Retrieval](https://rowl1ng.com/assets/pdf/3DV_VRSketch.pdf) | 3DV 2020 | [[code]](https://github.com/ygryadit/Towards3DVRSketch) [[project]](https://rowl1ng.com/projects/3DSketch3DV/) |
 
 
 ## 5. Sketch Based 3D Shape Modeling
@@ -261,9 +262,10 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
-| [CoSE: Compositional Stroke Embeddings](https://arxiv.org/abs/2006.09930) | arxiv | [[Code]](https://github.com/eth-ait/cose) | Vector/stroke-level | Auto-completing diagrams |
+| [CoSE: Compositional Stroke Embeddings](https://papers.nips.cc/paper/2020/file/723e8f97fde15f7a8d5ff8d558ea3f16-Paper.pdf) | NeurIPS 2020 | [[Code]](https://github.com/eth-ait/cose) | Vector/stroke-level | Auto-completing diagrams |
 | [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) | CVPR 2020 |  | Vector/stroke-level | Sketch recognition, retrieval, and gestalt |
-| [Sketchformer: Transformer-based Representation for Sketched Structure](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ribeiro_Sketchformer_Transformer-Based_Representation_for_Sketched_Structure_CVPR_2020_paper.pdf) | CVPR 2020 |  | Vector/stroke-level | Sketch classification, SBIR, reconstruction and interpolation |
+| [Sketchformer: Transformer-based Representation for Sketched Structure](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ribeiro_Sketchformer_Transformer-Based_Representation_for_Sketched_Structure_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/leosampaio/sketchformer) | Vector/stroke-level | Sketch classification, SBIR, reconstruction and interpolation |
+| [BézierSketch: A generative model for scalable vector sketches](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710630.pdf) | ECCV 2020 | [[project]](https://dasayan05.github.io/pubs/2020/05/22/pub-7.html) [[code]](https://github.com/dasayan05/stroke-ae) | Vector/stroke-level | Scalable sketch generation |
 
 - Pixel-level description and correspondence
 
