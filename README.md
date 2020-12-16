@@ -40,6 +40,7 @@ A collection of sketch based applications.
 | [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing.pdf) | SIGGRAPH 2020 | [[project]](http://geometrylearning.com/DeepFaceDrawing/) [[code]](https://github.com/IGLICT/DeepFaceDrawing-Jittor) |
 | [Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/abs/1909.08313v3) | ECCV 2020 |  [[code]](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation) [[project]](http://sketch.icsi.berkeley.edu/) |
 | [DeepFacePencil: Creating Face Images from Freehand Sketches](https://arxiv.org/abs/2008.13343) | ACM MM 2020 |  |
+| [Creative Sketch Generation](https://arxiv.org/abs/2011.10039) | ICLR 2021 | [[code]](https://github.com/facebookresearch/DoodlerGAN) [[project]](http://doodlergan.cloudcv.org/) |
 
 ### 1.2 Style-based Synthesis
 
