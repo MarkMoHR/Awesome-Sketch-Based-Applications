@@ -169,7 +169,7 @@ A collection of sketch based applications.
   </tr>
   
   <tr>
-    <td rowspan="5"><strong>Stroke-level</strong></td>
+    <td rowspan="6"><strong>Stroke-level</strong></td>
     <td> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/16-2012-eccv-sketch-segmenation.pdf">Free Hand-Drawn Sketch Segmentation</a> </td> 
     <td> ECCV 2012 </td> 
     <td>  </td>
@@ -191,7 +191,12 @@ A collection of sketch based applications.
   </tr>
   <tr>
     <td> <a href="https://arxiv.org/pdf/1901.03427.pdf">Stroke-based sketched symbol reconstruction and segmentation</a> </td> 
-    <td> 1901.03427 </td> 
+    <td> arxiv 1901.03427 </td> 
+    <td> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2003.00678">SketchGCN: Semantic Sketch Segmentation with Graph Convolutional Networks</a> </td> 
+    <td> arxiv 2003.00678 </td> 
     <td> </td>
   </tr>
 </table>
