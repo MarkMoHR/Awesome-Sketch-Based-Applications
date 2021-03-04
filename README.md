@@ -127,7 +127,7 @@ A collection of sketch based applications.
 | [Lifting Freehand Concept Sketches into 3D](https://repo-sam.inria.fr/d3/Lift3D/Gryaditskaya_SigAsia20_Lifting%20_Freehand_Concept_Sketches_into_3D.pdf) | SIGGRAPH Asia 2020 | [[project]](https://ns.inria.fr/d3/Lift3D/) [[code]](https://github.com/ygryadit/LiftConceptSketches3D) |
 | [Sketch2CAD: Sequential CAD Modeling by Sketching in Context](http://geometry.cs.ucl.ac.uk/projects/2020/sketch2cad/paper_docs/Sketch2CAD_SIGA_2020.pdf) | SIGGRAPH Asia 2020 | [[project]](http://geometry.cs.ucl.ac.uk/projects/2020/sketch2cad/) [[code]](https://github.com/Enigma-li/Sketch2CAD) |
 | [Interactive Liquid Splash Modeling by User Sketches](https://dl.acm.org/doi/abs/10.1145/3414685.3417832) | SIGGRAPH Asia 2020 |  |
-| [Monster Mash: A Single-View Approach to Casual 3D Modeling and Animation](https://dcgi.fel.cvut.cz/home/sykorad/Dvoroznak20-SA.pdf) | SIGGRAPH Asia 2020 | [[project]](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash) [[demo]](http://monstermash.zone/) |
+| [Monster Mash: A Single-View Approach to Casual 3D Modeling and Animation](https://dcgi.fel.cvut.cz/home/sykorad/Dvoroznak20-SA.pdf) | SIGGRAPH Asia 2020 | [[project]](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash) [[code]](https://github.com/google/monster-mash) [[demo]](http://monstermash.zone/) |
 | [SAniHead: Sketching Animal-like 3D Character Heads Using a View-surface Collaborative Mesh Generative Network](http://sweb.cityu.edu.hk/hongbofu/doc/2020TVCG_SAniHead.pdf) | TVCG 2020 |  |
 
 
@@ -271,8 +271,9 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
-| [CoSE: Compositional Stroke Embeddings](https://papers.nips.cc/paper/2020/file/723e8f97fde15f7a8d5ff8d558ea3f16-Paper.pdf) | NeurIPS 2020 | [[Code]](https://github.com/eth-ait/cose) | Vector/stroke-level | Auto-completing diagrams |
+| [Im2Vec: Synthesizing Vector Graphics without Vector Supervision](https://arxiv.org/abs/2102.02798) | CVPR 2021 | [[Project]](http://geometry.cs.ucl.ac.uk/projects/2020/Im2Vec/) | SVG | Vector Graphics reconstruction and interpolation |
 | [DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation](https://arxiv.org/abs/2007.11301) | NeurIPS 2020 | [[Code]](https://github.com/alexandre01/deepsvg)  [[Project]](https://blog.alexandrecarlier.com/deepsvg/) | SVG | Vector Graphics Animation, reconstruction and interpolation |
+| [CoSE: Compositional Stroke Embeddings](https://papers.nips.cc/paper/2020/file/723e8f97fde15f7a8d5ff8d558ea3f16-Paper.pdf) | NeurIPS 2020 | [[Code]](https://github.com/eth-ait/cose) | Vector/stroke-level | Auto-completing diagrams |
 | [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) | CVPR 2020 |  | Vector/stroke-level | Sketch recognition, retrieval, and gestalt |
 | [Sketchformer: Transformer-based Representation for Sketched Structure](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ribeiro_Sketchformer_Transformer-Based_Representation_for_Sketched_Structure_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/leosampaio/sketchformer) | Vector/stroke-level | Sketch classification, SBIR, reconstruction and interpolation |
 | [BézierSketch: A generative model for scalable vector sketches](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710630.pdf) | ECCV 2020 | [[project]](https://dasayan05.github.io/pubs/2020/05/22/pub-7.html) [[code]](https://github.com/dasayan05/stroke-ae) | Vector/stroke-level | Scalable sketch generation |
