@@ -21,6 +21,7 @@ A collection of sketch based applications.
 - [10. Sketch-Guided Video Synthesis](#10-sketch-guided-video-synthesis)
 - [11. Sketch Enhancement](#11-sketch-enhancement)
 - [12. Sketch Representation Learning](#12-sketch-representation-learning)
+- [13. Sketch Animation](#13-sketch-animation)
 
 
 ---
@@ -286,3 +287,11 @@ A collection of sketch based applications.
 | --- | --- | --- | --- | --- |
 | [SketchDesc: Learning Local Sketch Descriptors for Multi-view Correspondence](http://sweb.cityu.edu.hk/hongbofu/doc/SketchDesc_TCSVT2020.pdf) | TCSVT 2020 |  | Pixel-level | Semantic correspondence among multi-view sketches |
 | [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) | WACV 2020 |  | Pixel-level | Domain transfer learning |
+
+
+## 13. Sketch Animation
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Live Sketch: Video-driven Dynamic Deformation of Static Drawings](http://sweb.cityu.edu.hk/hongbofu/doc/livesketch_CHI2018.pdf) | CHI 2018 |  |
+
