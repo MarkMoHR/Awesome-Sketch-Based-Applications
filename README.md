@@ -93,12 +93,20 @@ A collection of sketch based applications.
 | [Sketch Less for More: On-the-Fly Fine-Grained Sketch Based Image Retrieval](https://arxiv.org/abs/2002.10310) | CVPR 2020 | [[code]](https://github.com/AyanKumarBhunia/on-the-fly-FGSBIR) |
 | [Solving Mixed-modal Jigsaw Puzzle for Fine-Grained Sketch-Based Image Retrieval](http://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_Solving_Mixed-Modal_Jigsaw_Puzzle_for_Fine-Grained_Sketch-Based_Image_Retrieval_CVPR_2020_paper.pdf) | CVPR 2020 |  |
 | [Fine-Grained Instance-Level Sketch-Based Image Retrieval](https://link.springer.com/article/10.1007/s11263-020-01382-3) | IJCV 2020 |  |
+| [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval]() | CVPR 2021 |  |
+| [More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch-Based Image Retrieval]() | CVPR 2021 | [[code]](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR) |
 
 - Scene-level
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [SceneSketcher: Fine-Grained Image Retrieval with Scene Sketches](http://orca.cf.ac.uk/133561/1/SceneSketcherECCV2020.pdf) | ECCV 2020 |  |
+
+- Video Retrieval
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Fine-Grained Instance-Level Sketch-Based Video Retrieval](https://ieeexplore.ieee.org/abstract/document/9161000) | TCSVT 2020 |  |
 
 
 ## 4. Sketch Based 3D Shape Retrieval
@@ -292,6 +300,7 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
+| [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting]() | CVPR 2021 | [[Code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) | Vector/stroke-level | Recognition |
 | [Deep Self-Supervised Representation Learning for Free-Hand Sketch](https://arxiv.org/abs/2002.00867) | TCSVT 2020 | [[Code]](https://github.com/zzz1515151/self-supervised_learning_sketch) | Vector/stroke-level | Retrieval and recognition |
 | [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) | CVPR 2020 |  | Vector/stroke-level | Sketch recognition, retrieval, and gestalt |
 
