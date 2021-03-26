@@ -300,7 +300,7 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
-| [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting]() | CVPR 2021 | [[Code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) | Vector/stroke-level | Recognition |
+| [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://arxiv.org/abs/2103.13716) | CVPR 2021 | [[Code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) | Vector/stroke-level | Recognition |
 | [Deep Self-Supervised Representation Learning for Free-Hand Sketch](https://arxiv.org/abs/2002.00867) | TCSVT 2020 | [[Code]](https://github.com/zzz1515151/self-supervised_learning_sketch) | Vector/stroke-level | Retrieval and recognition |
 | [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) | CVPR 2020 |  | Vector/stroke-level | Sketch recognition, retrieval, and gestalt |
 
