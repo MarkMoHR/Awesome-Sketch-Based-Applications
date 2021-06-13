@@ -22,7 +22,7 @@ A collection of sketch based applications.
 - [11. Sketch Enhancement](#11-sketch-enhancement)
 - [12. Sketch Representation Learning](#12-sketch-representation-learning)
 - [13. Sketch Animation](#13-sketch-animation)
-
+- [14. Manga Restoration and Inpainting](14-manga-restoration-and-inpainting)
 
 ---
 
@@ -95,7 +95,6 @@ A collection of sketch based applications.
 | [Doodle to Search: Practical Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/pdf/1904.03451.pdf) | CVPR 2019 | [[project]](https://sounakdey.github.io/doodle2search.github.io/) [[code]](https://github.com/sounakdey/doodle2search) |
 | [LiveSketch: Query Perturbations for Guided Sketch-Based Visual Search](https://arxiv.org/abs/1904.06611) | CVPR 2019 | |
 | [Semantically Tied Paired Cycle Consistency for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/1903.03372) | CVPR 2019 | [[code]](https://github.com/AnjanDutta/sem-pcyc) |
-| [Generative Model for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/1904.08542) | CVPRW 2019 |  |
 | [Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval](https://ieeexplore.ieee.org/abstract/document/8694004) | TIP 2019 |  |
 | [Stacked Semantic-Guided Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/1904.01971) | 1904.01971 |  |
 | [Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Semantic-Aware_Knowledge_Preservation_for_Zero-Shot_Sketch-Based_Image_Retrieval_ICCV_2019_paper.pdf) | ICCV 2019 |  |
@@ -329,5 +328,12 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [Live Sketch: Video-driven Dynamic Deformation of Static Drawings](http://sweb.cityu.edu.hk/hongbofu/doc/livesketch_CHI2018.pdf) | CHI 2018 |  |
+| [Live Sketch: Video-driven Dynamic Deformation of Static Drawings](http://sweb.cityu.edu.hk/hongbofu/doc/livesketch_CHI2018.pdf) | CHI 2018 | [[video]](https://youtu.be/6DjQR5k286E) |
 
+
+## 14. Manga Restoration and Inpainting
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Exploiting Aliasing for Manga Restoration](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Exploiting_Aliasing_for_Manga_Restoration_CVPR_2021_paper.pdf) | CVPR 2021 | [[webpage]](http://www.cse.cuhk.edu.hk/~ttwong/papers/mangarestore/mangarestore.html) [[code]](https://github.com/msxie92/MangaRestoration) |
+| [Seamless Manga Inpainting with Semantics Awareness](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) | SIGGRAPH 2021 | [[webpage]](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) [[code]](https://github.com/msxie92/MangaInpainting) |
