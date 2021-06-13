@@ -22,7 +22,7 @@ A collection of sketch based applications.
 - [11. Sketch Enhancement](#11-sketch-enhancement)
 - [12. Sketch Representation Learning](#12-sketch-representation-learning)
 - [13. Sketch Animation](#13-sketch-animation)
-- [14. Manga Restoration and Inpainting](14-manga-restoration-and-inpainting)
+- [14. Manga Restoration and Inpainting](#14-manga-restoration-and-inpainting)
 
 ---
 
@@ -138,7 +138,7 @@ A collection of sketch based applications.
 | --- | --- | --- |
 | [3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks](https://people.cs.umass.edu/~zlun/papers/SketchModeling/SketchModeling.pdf) | 3DV 2017 | [[code]](https://github.com/happylun/SketchModeling) [[project]](https://people.cs.umass.edu/~zlun/SketchModeling/) |
 | [Shape Synthesis from Sketches via Procedural Models and Convolutional Networks](https://people.cs.umass.edu/~kalo/papers/shapepmconvnet/shapepmconvnet.pdf) | TVCG 2017 |  |
-| [DeepSketch2Face: A Deep Learning Based Sketching System for 3D Face and Caricature Modeling](https://i.cs.hku.hk/~xghan/papers/deepske2face.pdf) | SIGGRAPH 2017 | [[project]](https://i.cs.hku.hk/~xghan/Projects/ske2face.htm) |
+| [DeepSketch2Face: A Deep Learning Based Sketching System for 3D Face and Caricature Modeling](https://i.cs.hku.hk/~xghan/papers/deepske2face.pdf) | SIGGRAPH 2017 | [[project]](https://i.cs.hku.hk/~xghan/Projects/ske2face.htm) [[code]](https://github.com/changgyhub/deepsketch2face) |
 | [BendSketch: Modeling Freeform Surfaces Through 2D Sketching](http://haopan.github.io/papers/bendsketch.pdf) | SIGGRAPH 2017 | [[project]](http://haopan.github.io/bendsketch.html) |
 | [Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling](http://haopan.github.io/papers/SketchCNN.pdf) | SIGGRAPH Asia 2018 | [[code]](https://github.com/Enigma-li/SketchCNN) [[project]](http://haopan.github.io/sketchCNN.html) |
 | [Learning a Shared Shape Space for Multimodal Garment Design](https://arxiv.org/abs/1806.11335) | SIGGRAPH Asia 2018 |  [[project]](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/) |
