@@ -27,8 +27,6 @@ A collection of sketch based applications.
 - [16. Sketch and AR/VR](#16-sketch-and-arvr)
 
 
-## 6. Sketch Based Garment Design
-
 ---
 
 ## 1. Sketch Based Image Synthesis
