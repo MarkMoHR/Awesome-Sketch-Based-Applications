@@ -14,15 +14,20 @@ A collection of sketch based applications.
 - [3. Sketch Based Image Retrieval (SBIR)](#3-sketch-based-image-retrieval-sbir)
 - [4. Sketch Based 3D Shape Retrieval](#4-sketch-based-3d-shape-retrieval)
 - [5. Sketch Based 3D Shape Modeling](#5-sketch-based-3d-shape-modeling)
-- [6. Sketch Completion](#6-sketch-completion)
-- [7. Sketch Segmentation and Perceptual Grouping](#7-sketch-segmentation-and-perceptual-grouping)
-- [8. Sketch and Shading](#8-sketch-and-shading)
-- [9. Sketch-Guided Object Localization](#9-sketch-guided-object-localization)
-- [10. Sketch-Guided Video Synthesis](#10-sketch-guided-video-synthesis)
-- [11. Sketch Enhancement](#11-sketch-enhancement)
-- [12. Sketch Representation Learning](#12-sketch-representation-learning)
-- [13. Sketch Animation](#13-sketch-animation)
-- [14. Manga Restoration and Inpainting](#14-manga-restoration-and-inpainting)
+- [6. Sketch Based Garment Design](#6-sketch-based-garment-design)
+- [7. Sketch Completion](#7-sketch-completion)
+- [8. Manga Restoration and Inpainting](#8-manga-restoration-and-inpainting)
+- [9. Sketch and Shading](#9-sketch-and-shading)
+- [10. Sketch Enhancement](#10-sketch-enhancement)
+- [11. Sketch-Guided Object Localization](#11-sketch-guided-object-localization)
+- [12. Sketch-Guided Video Synthesis](#12-sketch-guided-video-synthesis)
+- [13. Sketch Segmentation and Perceptual Grouping](#13-sketch-segmentation-and-perceptual-grouping)
+- [14. Sketch Representation Learning](#14-sketch-representation-learning)
+- [15. Sketch Animation](#15-sketch-animation)
+- [16. Sketch and AR/VR](#16-sketch-and-arvr)
+
+
+## 6. Sketch Based Garment Design
 
 ---
 
@@ -141,7 +146,6 @@ A collection of sketch based applications.
 | [DeepSketch2Face: A Deep Learning Based Sketching System for 3D Face and Caricature Modeling](https://i.cs.hku.hk/~xghan/papers/deepske2face.pdf) | SIGGRAPH 2017 | [[project]](https://i.cs.hku.hk/~xghan/Projects/ske2face.htm) [[code]](https://github.com/changgyhub/deepsketch2face) |
 | [BendSketch: Modeling Freeform Surfaces Through 2D Sketching](http://haopan.github.io/papers/bendsketch.pdf) | SIGGRAPH 2017 | [[project]](http://haopan.github.io/bendsketch.html) |
 | [Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling](http://haopan.github.io/papers/SketchCNN.pdf) | SIGGRAPH Asia 2018 | [[code]](https://github.com/Enigma-li/SketchCNN) [[project]](http://haopan.github.io/sketchCNN.html) |
-| [Learning a Shared Shape Space for Multimodal Garment Design](https://arxiv.org/abs/1806.11335) | SIGGRAPH Asia 2018 |  [[project]](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/) |
 | [DeepSketchHair: Deep Sketch-based 3D Hair Modeling](https://arxiv.org/abs/1908.07198) | TVCG 2019 |  |
 | [Lifting Freehand Concept Sketches into 3D](https://repo-sam.inria.fr/d3/Lift3D/Gryaditskaya_SigAsia20_Lifting%20_Freehand_Concept_Sketches_into_3D.pdf) | SIGGRAPH Asia 2020 | [[project]](https://ns.inria.fr/d3/Lift3D/) [[code]](https://github.com/ygryadit/LiftConceptSketches3D) |
 | [Sketch2CAD: Sequential CAD Modeling by Sketching in Context](http://geometry.cs.ucl.ac.uk/projects/2020/sketch2cad/paper_docs/Sketch2CAD_SIGA_2020.pdf) | SIGGRAPH Asia 2020 | [[project]](http://geometry.cs.ucl.ac.uk/projects/2020/sketch2cad/) [[code]](https://github.com/Enigma-li/Sketch2CAD) |
@@ -151,7 +155,16 @@ A collection of sketch based applications.
 | [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663) | CVPR 2021 |  |
 
 
-## 6. Sketch Completion
+## 6. Sketch Based Garment Design
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Sketching Folds: Developable Surfaces from Non-Planar Silhouettes](http://imagecomputing.net/damien.rohmer/publications/2015_tog_sketching_folds/article/JungHRBBC_TOG_2015_sketching_folds.pdf) | TOG 2015 |  [[project]](http://imagecomputing.net/damien.rohmer/publications/2015_tog_sketching_folds/index.html) |
+| [FoldSketch: Enriching Garments with Physically Reproducible Folds](http://www.cs.ubc.ca/labs/imager/tr/2018/FoldSketch/doc/FoldSketch.pdf) | SIGGRAPH 2018 |  [[project]](http://www.cs.ubc.ca/labs/imager/tr/2018/FoldSketch/) |
+| [Learning a Shared Shape Space for Multimodal Garment Design](https://arxiv.org/abs/1806.11335) | SIGGRAPH Asia 2018 |  [[project]](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/) |
+
+
+## 7. Sketch Completion
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -161,7 +174,41 @@ A collection of sketch based applications.
 | [Joint Gap Detection and Inpainting of Line Drawings](http://iizuka.cs.tsukuba.ac.jp/projects/inpainting/data/inpainting_cvpr2017.pdf) | CVPR 2017 | [[project]](http://iizuka.cs.tsukuba.ac.jp/projects/inpainting/en/) [[code]](https://github.com/kaidlc/CVPR2017_linedrawings) |
 
 
-## 7. Sketch Segmentation and Perceptual Grouping
+## 8. Manga Restoration and Inpainting
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Exploiting Aliasing for Manga Restoration](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Exploiting_Aliasing_for_Manga_Restoration_CVPR_2021_paper.pdf) | CVPR 2021 | [[webpage]](http://www.cse.cuhk.edu.hk/~ttwong/papers/mangarestore/mangarestore.html) [[code]](https://github.com/msxie92/MangaRestoration) |
+| [Seamless Manga Inpainting with Semantics Awareness](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) | SIGGRAPH 2021 | [[webpage]](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) [[code]](https://github.com/msxie92/MangaInpainting) |
+
+
+## 9. Sketch and Shading
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Learning to Shadow Hand-drawn Sketches](https://arxiv.org/abs/2002.11812) | CVPR 2020 | [[project]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html) [[code]](https://github.com/qyzdao/ShadeSketch) |
+
+## 10. Sketch Enhancement
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | ACM MM 2020 | [[code]](https://github.com/LCXCUC/SketchMan2020) |
+
+
+## 11. Sketch-Guided Object Localization 
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Sketch-Guided Object Localization in Natural Images](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510528.pdf) | ECCV 2020 | [[project]](http://visual-computing.in/sketch-guided-object-localization/) [[code]](https://github.com/IISCAditayTripathi/SketchGuidedLocalization) |
+
+## 12. Sketch-Guided Video Synthesis
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Deep Sketch-guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/abstract/document/9314221) | TVCG 2021 |  |
+
+
+## 13. Sketch Segmentation and Perceptual Grouping
 
 - Sketch Segmentation
 
@@ -257,34 +304,7 @@ A collection of sketch based applications.
 </table>
 
 
-
-## 8. Sketch and Shading
-
-| Paper | Source | Code/Project Link  |
-| --- | --- | --- |
-| [Learning to Shadow Hand-drawn Sketches](https://arxiv.org/abs/2002.11812) | CVPR 2020 | [[project]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html) [[code]](https://github.com/qyzdao/ShadeSketch) |
-
-
-## 9. Sketch-Guided Object Localization 
-
-| Paper | Source | Code/Project Link  |
-| --- | --- | --- |
-| [Sketch-Guided Object Localization in Natural Images](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510528.pdf) | ECCV 2020 | [[project]](http://visual-computing.in/sketch-guided-object-localization/) [[code]](https://github.com/IISCAditayTripathi/SketchGuidedLocalization) |
-
-## 10. Sketch-Guided Video Synthesis
-
-| Paper | Source | Code/Project Link  |
-| --- | --- | --- |
-| [Deep Sketch-guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/abstract/document/9314221) | TVCG 2021 |  |
-
-## 11. Sketch Enhancement
-
-| Paper | Source | Code/Project Link  |
-| --- | --- | --- |
-| [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | ACM MM 2020 | [[code]](https://github.com/LCXCUC/SketchMan2020) |
-
-
-## 12. Sketch Representation Learning
+## 14. Sketch Representation Learning
 
 - Stroke order importance/saliency, sketch abstraction
 
@@ -324,16 +344,20 @@ A collection of sketch based applications.
 | [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) | WACV 2020 |  | Pixel-level | Domain transfer learning |
 
 
-## 13. Sketch Animation
+## 15. Sketch Animation
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Live Sketch: Video-driven Dynamic Deformation of Static Drawings](http://sweb.cityu.edu.hk/hongbofu/doc/livesketch_CHI2018.pdf) | CHI 2018 | [[video]](https://youtu.be/6DjQR5k286E) |
 
 
-## 14. Manga Restoration and Inpainting
+## 16. Sketch and AR/VR
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [Exploiting Aliasing for Manga Restoration](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Exploiting_Aliasing_for_Manga_Restoration_CVPR_2021_paper.pdf) | CVPR 2021 | [[webpage]](http://www.cse.cuhk.edu.hk/~ttwong/papers/mangarestore/mangarestore.html) [[code]](https://github.com/msxie92/MangaRestoration) |
-| [Seamless Manga Inpainting with Semantics Awareness](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) | SIGGRAPH 2021 | [[webpage]](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) [[code]](https://github.com/msxie92/MangaInpainting) |
+| [SweepCanvas: Sketch-based 3D Prototyping on an RGB-D Image](http://sweb.cityu.edu.hk/hongbofu/doc/sweep_canvas_UIST2017.pdf) | UIST 2017 | [[video]](https://youtu.be/Xnp3_eMYXj0) |
+| [Model-Guided 3D Sketching](http://sweb.cityu.edu.hk/hongbofu/doc/model-guided_3D_sketching_TVCG.pdf) | TVCG 2018 | [[video]](https://youtu.be/STredKjB_Bk) |
+| [Mobi3DSketch: 3D Sketching in Mobile AR](http://sweb.cityu.edu.hk/hongbofu/doc/mobi3Dsketch_CHI2019.pdf) | CHI 2019 | [[video]](https://youtu.be/JdP0nkeMEog) |
+| [Interactive Liquid Splash Modeling by User Sketches](https://dl.acm.org/doi/abs/10.1145/3414685.3417832) | SIGGRAPH Asia 2020 | [[video]](https://youtu.be/HXAxNrfk_w0) |
+| [3D Curve Creation on and around Physical Objects with Mobile AR](http://sweb.cityu.edu.hk/hongbofu/doc/3D_Curve_Creation_Mobile_AR_TVCG.pdf) | TVCG 2021 | [[video]](https://youtu.be/zyh4pEvK7j8) |
+| [HandPainter - 3D Sketching in VR with Hand-based Physical Proxy](https://dl.acm.org/doi/abs/10.1145/3411764.3445302) | CHI 2021 | [[video]](https://youtu.be/x5VAU-471P8) |
