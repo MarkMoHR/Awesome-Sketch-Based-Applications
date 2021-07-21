@@ -266,9 +266,9 @@ A collection of sketch based applications.
     <td> </td>
   </tr>
   <tr>
-    <td> <a href="http://www.youyizheng.net/docs/Sketch_TOG.pdf">SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks</a> </td> 
+    <td> <a href="http://sweb.cityu.edu.hk/hongbofu/doc/SketchGNN_TOG21.pdf">SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks</a> </td> 
     <td> TOG 2021 </td> 
-    <td> </td>
+    <td> <a href="https://github.com/sYeaLumin/SketchGNN">[code]</a> </td>
   </tr>
 </table>
 
