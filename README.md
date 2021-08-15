@@ -186,6 +186,7 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Learning to Shadow Hand-drawn Sketches](https://arxiv.org/abs/2002.11812) | CVPR 2020 | [[project]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html) [[code]](https://github.com/qyzdao/ShadeSketch) |
+| [SmartShadow: Artistic Shadow Drawing Tool for Line Drawings](https://lllyasviel.github.io/Style2PaintsResearch/) | ICCV 2021 |  |
 
 ## 10. Sketch Enhancement
 
