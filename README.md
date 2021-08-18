@@ -23,7 +23,7 @@ A collection of sketch based applications.
 - [12. Sketch-Guided Video Synthesis](#12-sketch-guided-video-synthesis)
 - [13. Sketch Segmentation and Perceptual Grouping](#13-sketch-segmentation-and-perceptual-grouping)
 - [14. Sketch Representation Learning](#14-sketch-representation-learning)
-- [15. Sketch Animation](#15-sketch-animation)
+- [15. Sketch Animation/Inbetweening](#15-sketch-animationinbetweening)
 - [16. Sketch and AR/VR](#16-sketch-and-arvr)
 
 
@@ -344,7 +344,18 @@ A collection of sketch based applications.
 | [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) | WACV 2020 |  | Pixel-level | Domain transfer learning |
 
 
-## 15. Sketch Animation
+## 15. Sketch Animation/Inbetweening
+
+- Inbetweening
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [BetweenIT: An Interactive Tool for Tight Inbetweening](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8659.2009.01630.x) | CGF 2010 |  |
+| [Context-Aware Computer Aided Inbetweening](https://ieeexplore.ieee.org/abstract/document/7831370) | TVCG 2018 |  |
+| [FTP-SC: Fuzzy Topology Preserving Stroke Correspondence](https://dcgi.fel.cvut.cz/home/sykorad/Yang18-SCA.pdf) | SCA 2018 | [[webpage]](https://dcgi.fel.cvut.cz/home/sykorad/FTP-SC.html) [[video]](https://youtu.be/3oZfCAkYJQk) |
+| [Cacani: 2d animation and inbetween software](https://cacani.sg/?v=1c2903397d88) | 2018 | [[software]](https://cacani.sg/?v=1c2903397d88) |
+
+- Animation
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
