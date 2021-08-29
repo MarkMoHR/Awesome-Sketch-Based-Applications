@@ -345,6 +345,13 @@ A collection of sketch based applications.
 | [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) | WACV 2020 |  | Pixel-level | Domain transfer learning |
 
 
+- Other kinds of sketch representation
+
+| Paper | Source | Code/Project Link | Data Manner | Related Applications |
+| --- | --- | --- | --- | --- |
+| [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 |  | Lattice graph | Sketch healing and image-to-sketch synthesis |
+
+
 ## 15. Sketch Animation/Inbetweening
 
 - Inbetweening
