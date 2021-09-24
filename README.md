@@ -154,6 +154,7 @@ A collection of sketch based applications.
 | [Monster Mash: A Single-View Approach to Casual 3D Modeling and Animation](https://dcgi.fel.cvut.cz/home/sykorad/Dvoroznak20-SA.pdf) | SIGGRAPH Asia 2020 | [[project]](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash) [[code]](https://github.com/google/monster-mash) [[demo]](http://monstermash.zone/) |
 | [SAniHead: Sketching Animal-like 3D Character Heads Using a View-surface Collaborative Mesh Generative Network](http://sweb.cityu.edu.hk/hongbofu/doc/2020TVCG_SAniHead.pdf) | TVCG 2020 |  |
 | [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663) | CVPR 2021 |  |
+| [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/abs/2104.00482v1) | ICCV 2021 |  |
 
 
 ## 6. Sketch Based Garment Design
