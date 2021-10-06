@@ -203,6 +203,7 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Sketch-Guided Object Localization in Natural Images](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510528.pdf) | ECCV 2020 | [[project]](http://visual-computing.in/sketch-guided-object-localization/) [[code]](https://github.com/IISCAditayTripathi/SketchGuidedLocalization) |
+| [Localizing Infinity-shaped fishes: Sketch-guided object localization in the wild](https://arxiv.org/abs/2109.11874) | arxiv 2109 | [[code]](https://github.com/priba/sgol_wild) |
 
 ## 12. Sketch-Guided Video Synthesis
 
