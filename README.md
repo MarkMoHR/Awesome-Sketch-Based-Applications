@@ -314,9 +314,11 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
-| [Pixelor: a competitive sketching AI agent. So you think you can sketch?](https://dl.acm.org/doi/pdf/10.1145/3414685.3417840) | SIGGRAPH Asia 2020 | [[Project]](http://sketchx.ai/pixelor) [[Code]](https://github.com/dasayan05/neuralsort-siggraph) | Vector/stroke-level | Sketch synthesis and recognition |
-| [Goal-Driven Sequential Data Abstraction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Muhammad_Goal-Driven_Sequential_Data_Abstraction_ICCV_2019_paper.pdf) | ICCV 2019 |  | Vector/stroke-level | Sketch recognition |
 | [Learning Deep Sketch Abstraction](http://openaccess.thecvf.com/content_cvpr_2018/papers/Muhammad_Learning_Deep_Sketch_CVPR_2018_paper.pdf) | CVPR 2018 |  | Vector/stroke-level | FG-SBIR |
+| [Goal-Driven Sequential Data Abstraction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Muhammad_Goal-Driven_Sequential_Data_Abstraction_ICCV_2019_paper.pdf) | ICCV 2019 |  | Vector/stroke-level | Sketch recognition |
+| [Pixelor: a competitive sketching AI agent. So you think you can sketch?](https://dl.acm.org/doi/pdf/10.1145/3414685.3417840) | SIGGRAPH Asia 2020 | [[Project]](http://sketchx.ai/pixelor) [[Code]](https://github.com/dasayan05/neuralsort-siggraph) | Vector/stroke-level | Sketch synthesis and recognition |
+| [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf) | ICCV 2021 |  | Vector/stroke-level | Sketch recognition, FB-SBIR, sketch healing |
+
 
 - Supervised Representation Learning
 
