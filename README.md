@@ -136,6 +136,8 @@ A collection of sketch based applications.
 | [Deep Cross-modality Adaptation via Semantics Preserving Adversarial Learning for Sketch-based 3D Shape Retrieval](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiaxin_Chen_Deep_Cross-modality_Adaptation_ECCV_2018_paper.pdf) | ECCV 2018 |  |
 | [Unsupervised Learning of 3D Model Reconstruction from Hand-Drawn Sketches](https://dl.acm.org/citation.cfm?id=3240699) | ACMMM 2018 |  |
 | [Towards 3D VR-Sketch to 3D Shape Retrieval](https://rowl1ng.com/assets/pdf/3DV_VRSketch.pdf) | 3DV 2020 | [[code]](https://github.com/ygryadit/Towards3DVRSketch) [[project]](https://rowl1ng.com/projects/3DSketch3DV/) |
+| [Uncertainty Learning for Noise Resistant Sketch-Based 3D Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/9573502) | TIP 2021 |  |
+| [Towards Fine-Grained Sketch-Based 3D Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/9573376) | TIP 2021 |  |
 
 
 ## 5. Sketch Based 3D Shape Modeling
