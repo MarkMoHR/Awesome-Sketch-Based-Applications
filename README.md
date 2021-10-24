@@ -111,6 +111,9 @@ A collection of sketch based applications.
 | [Fine-Grained Instance-Level Sketch-Based Image Retrieval](https://link.springer.com/article/10.1007/s11263-020-01382-3) | IJCV 2020 |  |
 | [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval](https://arxiv.org/abs/2103.15706) | CVPR 2021 |  |
 | [More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2103.13990) | CVPR 2021 | [[code]](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR) |
+| [DLA-Net for FG-SBIR: Dynamic Local Aligned Network for Fine-Grained Sketch-Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3474085.3475705) | ACM MM 2021 |  |
+| [Domain-Aware SE Network for Sketch-based Image Retrieval with Multiplicative Euclidean Margin Softmax](https://dl.acm.org/doi/abs/10.1145/3474085.3475499) | ACM MM 2021 | [[code]](https://github.com/Ben-Louis/SBIR-DASE-MEMS) |
+| [Relationship-Preserving Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3474085.3475676) | ACM MM 2021 |  |
 
 - Scene-level
 
