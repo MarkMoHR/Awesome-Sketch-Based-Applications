@@ -54,6 +54,7 @@ A collection of sketch based applications.
 | [LinesToFacePhoto: Face Photo Generation from Lines with Conditional Self-Attention Generative Adversarial Network](https://arxiv.org/pdf/1910.08914.pdf) | ACM MM 2019 |  |
 | [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing.pdf) | SIGGRAPH 2020 | [[project]](http://geometrylearning.com/DeepFaceDrawing/) [[code]](https://github.com/IGLICT/DeepFaceDrawing-Jittor) |
 | [DeepFacePencil: Creating Face Images from Freehand Sketches](https://arxiv.org/abs/2008.13343) | ACM MM 2020 | [[project]](https://liyuhangustc.github.io/Sketch2Face/) [[code]](https://github.com/LiYuhangUSTC/Sketch2Face) |
+| [Controllable Sketch-to-Image Translation for Robust Face Synthesis](https://ieeexplore.ieee.org/abstract/document/9583954) | TIP 2021 |  |
 
 ### 1.2 Style-based Synthesis
 
@@ -114,6 +115,7 @@ A collection of sketch based applications.
 | [DLA-Net for FG-SBIR: Dynamic Local Aligned Network for Fine-Grained Sketch-Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3474085.3475705) | ACM MM 2021 |  |
 | [Domain-Aware SE Network for Sketch-based Image Retrieval with Multiplicative Euclidean Margin Softmax](https://dl.acm.org/doi/abs/10.1145/3474085.3475499) | ACM MM 2021 | [[code]](https://github.com/Ben-Louis/SBIR-DASE-MEMS) |
 | [Relationship-Preserving Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3474085.3475676) | ACM MM 2021 |  |
+| [Transferable Coupled Network for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9591307) | TPAMI 2021 | [[project]](https://haowang1992.github.io/publication/TCN) |
 
 - Scene-level
 
