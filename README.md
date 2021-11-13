@@ -23,8 +23,9 @@ A collection of sketch based applications.
 - [12. Sketch-Guided Video Synthesis](#12-sketch-guided-video-synthesis)
 - [13. Sketch Segmentation and Perceptual Grouping](#13-sketch-segmentation-and-perceptual-grouping)
 - [14. Sketch Representation Learning](#14-sketch-representation-learning)
-- [15. Sketch Animation/Inbetweening](#15-sketch-animationinbetweening)
-- [16. Sketch and AR/VR](#16-sketch-and-arvr)
+- [15. Sketch and Visual Correspondence](#15-sketch-and-visual-correspondence)
+- [16. Sketch Animation/Inbetweening](#16-sketch-animationinbetweening)
+- [17. Sketch and AR/VR](#17-sketch-and-arvr)
 
 
 ---
@@ -350,22 +351,24 @@ A collection of sketch based applications.
 | [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://arxiv.org/abs/2103.13716) | CVPR 2021 | [[Code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) | Vector/stroke-level | Recognition |
 
 
-- Pixel-level description and correspondence
-
-| Paper | Source | Code/Project Link | Data Manner | Related Applications |
-| --- | --- | --- | --- | --- |
-| [SketchDesc: Learning Local Sketch Descriptors for Multi-view Correspondence](http://sweb.cityu.edu.hk/hongbofu/doc/SketchDesc_TCSVT2020.pdf) | TCSVT 2020 |  | Pixel-level | Semantic correspondence among multi-view sketches |
-| [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) | WACV 2020 |  | Pixel-level | Domain transfer learning |
-
-
 - Other kinds of sketch representation
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
 | [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 |  | Lattice graph | Sketch healing and image-to-sketch synthesis |
+                                                                                       
+                                                                                       
+## 15. Sketch and Visual Correspondence
 
+| Paper | Source | Code/Project Link | 
+| --- | --- | --- | 
+| [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) | WACV 2020 |  |
+| [SketchDesc: Learning Local Sketch Descriptors for Multi-view Correspondence](http://sweb.cityu.edu.hk/hongbofu/doc/SketchDesc_TCSVT2020.pdf) | TCSVT 2020 |  | 
+| [SketchZooms: Deep Multi-view Descriptors for Matching Line Drawings](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14197) | CGF 2021 | [[project]](https://emmanueliarussi.github.io/index_sz.html) | 
+| [The Animation Transformer: Visual Correspondence via Segment Matching](https://openaccess.thecvf.com/content/ICCV2021/papers/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.pdf) | ICCV 2021 |  | 
+                                                                                       
 
-## 15. Sketch Animation/Inbetweening
+## 16. Sketch Animation/Inbetweening
 
 - Inbetweening
 
@@ -385,7 +388,7 @@ A collection of sketch based applications.
 | [Live Sketch: Video-driven Dynamic Deformation of Static Drawings](http://sweb.cityu.edu.hk/hongbofu/doc/livesketch_CHI2018.pdf) | CHI 2018 | vector | [[video]](https://youtu.be/6DjQR5k286E) |
 
 
-## 16. Sketch and AR/VR
+## 17. Sketch and AR/VR
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
