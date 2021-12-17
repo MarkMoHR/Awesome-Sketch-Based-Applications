@@ -388,6 +388,7 @@ A collection of sketch based applications.
 | --- | --- | :--: | --- |
 | [Autocomplete Hand-drawn Animations](http://junxnui.github.io/research/siga15_autocomplete_handdrawn_animations.pdf) | SIGGRAPH Asia 2015 | stroke | [[webpage]](https://iis-lab.org/research/autocomplete-animations/) [[video]](https://youtu.be/w0YmWiy6sA4) |
 | [Live Sketch: Video-driven Dynamic Deformation of Static Drawings](http://sweb.cityu.edu.hk/hongbofu/doc/livesketch_CHI2018.pdf) | CHI 2018 | vector | [[video]](https://youtu.be/6DjQR5k286E) |
+| [Animated Drawings (Meta AI)](https://ai.facebook.com/blog/using-ai-to-bring-childrens-drawings-to-life/) | 2021 | Image | [[Demo]](https://sketch.metademolab.com/) |
 
 
 ## 17. Sketch and AR/VR
