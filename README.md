@@ -80,6 +80,7 @@ A collection of sketch based applications.
 | [Fashion Editing with Multi-scale Attention Normalization](https://arxiv.org/pdf/1906.00884.pdf) | 1906.00884 |  |
 | [Intuitive, Interactive Beard and Hair Synthesis with Generative Models](https://arxiv.org/abs/2004.06848) | CVPR 2020 |  |
 | [Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches](https://arxiv.org/abs/2001.02890) | ECCV 2020 | [[code]](https://github.com/VITA-Group/DeepPS) [[project]](https://williamyang1991.github.io/projects/ECCV2020/) |
+| [DeFLOCNet: Deep Image Editing via Flexible Low-level Controls](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_DeFLOCNet_Deep_Image_Editing_via_Flexible_Low-Level_Controls_CVPR_2021_paper.pdf) | CVPR 2021 | [[code]](https://github.com/KumapowerLIU/DeFLOCNet) |
 | [DeepFaceEditing: Deep Face Generation and Editing with Disentangled Geometry and Appearance Control](http://www.geometrylearning.com/DeepFaceEditing/) | SIGGRAPH 2021 | [[code]](https://github.com/IGLICT/DeepFaceEditing-Jittor) [[project]](http://www.geometrylearning.com/DeepFaceEditing/) |
 | [SketchHairSalon: Deep Sketch-based Hair Image Synthesis](https://arxiv.org/abs/2109.07874) | SIGGRAPH Asia 2021 | [[project]](https://chufengxiao.github.io/SketchHairSalon/) |
 | [DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample](https://arxiv.org/abs/2109.06151) | ICCV 2021 | [[code]](https://github.com/eliahuhorwitz/DeepSIM) [[project]](http://www.vision.huji.ac.il/deepsim/) |
