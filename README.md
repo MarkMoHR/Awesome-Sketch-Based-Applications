@@ -252,7 +252,7 @@ A collection of sketch based applications.
   </tr>
   
   <tr>
-    <td rowspan="7"><strong>Stroke-level</strong></td>
+    <td rowspan="8"><strong>Stroke-level</strong></td>
     <td> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/16-2012-eccv-sketch-segmenation.pdf">Free Hand-Drawn Sketch Segmentation</a> </td> 
     <td> ECCV 2012 </td> 
     <td>  </td>
@@ -286,6 +286,11 @@ A collection of sketch based applications.
     <td> <a href="http://sweb.cityu.edu.hk/hongbofu/doc/SketchGNN_TOG21.pdf">SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks</a> </td> 
     <td> TOG 2021 </td> 
     <td> <a href="https://github.com/sYeaLumin/SketchGNN">[code]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2112.10838">One Sketch for All: One-Shot Personalized Sketch Segmentation</a> </td> 
+    <td> arxiv 2021.12 </td> 
+    <td>  </td>
   </tr>
 </table>
 
