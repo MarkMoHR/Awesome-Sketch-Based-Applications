@@ -236,7 +236,7 @@ A collection of sketch based applications.
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan=3"><strong>Pixelwise</strong></td>
+    <td rowspan=4"><strong>Pixelwise</strong></td>
     <td> <a href="https://ieeexplore.ieee.org/abstract/document/8565976">Fast Sketch Segmentation and Labeling With Deep Learning</a> </td> 
     <td> CGA 2019 </td> 
     <td> </td>
@@ -250,6 +250,11 @@ A collection of sketch based applications.
     <td> <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqing_Zou_SketchyScene_Richly-Annotated_Scene_ECCV_2018_paper.pdf">SketchyScene: Richly-Annotated Scene Sketches</a> (scene-level) </td> 
     <td> ECCV 2018 </td> 
     <td> <a href="https://github.com/SketchyScene/SketchyScene">[code]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/9686584">Exploring Local Detail Perception for Scene Sketch Semantic Segmentation</a> (scene-level) </td> 
+    <td> TIP 2022 </td> 
+    <td>  </td>
   </tr>
   
   <tr>
