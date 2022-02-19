@@ -7,6 +7,7 @@ A collection of sketch based applications.
 
 **Outline**
 
+- [0. Survey](#0-survey)
 - [1. Sketch Based Image Synthesis](#1-sketch-based-image-synthesis)
   - [1.1 Automatic Synthesis](#11-automatic-synthesis)
   - [1.2 Style-based Synthesis](#12-style-based-synthesis)
@@ -29,6 +30,12 @@ A collection of sketch based applications.
 
 
 ---
+
+## 0. Survey
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Deep Learning for Free-Hand Sketch: A Survey](https://ieeexplore.ieee.org/abstract/document/9706366) | TPAMI 2022 | [[code]](https://github.com/PengBoXiangShang/torchsketch) |
 
 ## 1. Sketch Based Image Synthesis
 
