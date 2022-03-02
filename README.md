@@ -154,6 +154,7 @@ A collection of sketch based applications.
 | [Towards 3D VR-Sketch to 3D Shape Retrieval](https://rowl1ng.com/assets/pdf/3DV_VRSketch.pdf) | 3DV 2020 | [[code]](https://github.com/ygryadit/Towards3DVRSketch) [[project]](https://rowl1ng.com/projects/3DSketch3DV/) |
 | [Uncertainty Learning for Noise Resistant Sketch-Based 3D Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/9573502) | TIP 2021 |  |
 | [Towards Fine-Grained Sketch-Based 3D Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/9573376) | TIP 2021 |  |
+| [Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval](https://arxiv.org/abs/2202.11948) | AAAI 2022 |  |
 
 
 ## 5. Sketch Based 3D Shape Modeling
