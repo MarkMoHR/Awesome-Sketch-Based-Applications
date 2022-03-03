@@ -27,7 +27,7 @@ A collection of sketch based applications.
 - [15. Sketch and Visual Correspondence](#15-sketch-and-visual-correspondence)
 - [16. Sketch Animation/Inbetweening](#16-sketch-animationinbetweening)
 - [17. Sketch and AR/VR](#17-sketch-and-arvr)
-- [18. Sketch-Based Incremental Learning](#18-sketch-IL)
+- [18. Sketch Based Incremental Learning](#18-sketch-based-incremental-learning)
 
 
 ---
@@ -429,7 +429,7 @@ A collection of sketch based applications.
 | [HandPainter - 3D Sketching in VR with Hand-based Physical Proxy](https://dl.acm.org/doi/abs/10.1145/3411764.3445302) | CHI 2021 | [[video]](https://youtu.be/x5VAU-471P8) |
 
 
-## 18. Sketch-Based Incremental Learning
+## 18. Sketch Based Incremental Learning
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://ayankumarbhunia.github.io/) | CVPR 2022 |  |
