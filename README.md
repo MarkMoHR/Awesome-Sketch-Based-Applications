@@ -27,6 +27,7 @@ A collection of sketch based applications.
 - [15. Sketch and Visual Correspondence](#15-sketch-and-visual-correspondence)
 - [16. Sketch Animation/Inbetweening](#16-sketch-animationinbetweening)
 - [17. Sketch and AR/VR](#17-sketch-and-arvr)
+- [18. Sketch Based Incremental Learning](#18-sketch-based-incremental-learning)
 
 
 ---
@@ -127,12 +128,16 @@ A collection of sketch based applications.
 | [Domain-Aware SE Network for Sketch-based Image Retrieval with Multiplicative Euclidean Margin Softmax](https://dl.acm.org/doi/abs/10.1145/3474085.3475499) | ACM MM 2021 | [[code]](https://github.com/Ben-Louis/SBIR-DASE-MEMS) |
 | [Relationship-Preserving Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3474085.3475676) | ACM MM 2021 |  |
 | [Transferable Coupled Network for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9591307) | TPAMI 2021 | [[project]](https://haowang1992.github.io/publication/TCN) |
+| [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://ayankumarbhunia.github.io/) | CVPR 2022 |  |
+| [Sketch3T: Test-time Training for Zero-Shot SBIR](https://aneeshan95.github.io/) | CVPR 2022 |  |
+
 
 - Scene-level
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [SceneSketcher: Fine-Grained Image Retrieval with Scene Sketches](http://orca.cf.ac.uk/133561/1/SceneSketcherECCV2020.pdf) | ECCV 2020 |  |
+| [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](http://www.pinakinathc.me/) | CVPR 2022 |  |
 
 - Video Retrieval
 
@@ -422,3 +427,9 @@ A collection of sketch based applications.
 | [Interactive Liquid Splash Modeling by User Sketches](https://dl.acm.org/doi/abs/10.1145/3414685.3417832) | SIGGRAPH Asia 2020 | [[video]](https://youtu.be/HXAxNrfk_w0) |
 | [3D Curve Creation on and around Physical Objects with Mobile AR](http://sweb.cityu.edu.hk/hongbofu/doc/3D_Curve_Creation_Mobile_AR_TVCG.pdf) | TVCG 2021 | [[video]](https://youtu.be/zyh4pEvK7j8) |
 | [HandPainter - 3D Sketching in VR with Hand-based Physical Proxy](https://dl.acm.org/doi/abs/10.1145/3411764.3445302) | CHI 2021 | [[video]](https://youtu.be/x5VAU-471P8) |
+
+
+## 18. Sketch Based Incremental Learning
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://ayankumarbhunia.github.io/) | CVPR 2022 |  |
