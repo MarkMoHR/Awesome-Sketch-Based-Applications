@@ -17,7 +17,7 @@ A collection of sketch based applications.
 - [5. Sketch Based 3D Shape Modeling](#5-sketch-based-3d-shape-modeling)
 - [6. Sketch Based Garment Design](#6-sketch-based-garment-design)
 - [7. Sketch Completion](#7-sketch-completion)
-- [8. Manga Restoration and Inpainting](#8-manga-restoration-and-inpainting)
+- [8. Manga Restoration, Retargeting and Inpainting](#8-manga-restoration-retargeting-and-inpainting)
 - [9. Sketch and Shading](#9-sketch-and-shading)
 - [10. Sketch Enhancement](#10-sketch-enhancement)
 - [11. Sketch-Guided Object Localization](#11-sketch-guided-object-localization)
@@ -64,6 +64,7 @@ A collection of sketch based applications.
 | [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing.pdf) | SIGGRAPH 2020 | [[project]](http://geometrylearning.com/DeepFaceDrawing/) [[code]](https://github.com/IGLICT/DeepFaceDrawing-Jittor) |
 | [DeepFacePencil: Creating Face Images from Freehand Sketches](https://arxiv.org/abs/2008.13343) | ACM MM 2020 | [[project]](https://liyuhangustc.github.io/Sketch2Face/) [[code]](https://github.com/LiYuhangUSTC/Sketch2Face) |
 | [Controllable Sketch-to-Image Translation for Robust Face Synthesis](https://ieeexplore.ieee.org/abstract/document/9583954) | TIP 2021 |  |
+| [DrawingInStyles: Portrait Image Generation and Editing with Spatially Conditioned StyleGAN](https://arxiv.org/abs/2203.02762) | arxiv 22.03 |  |
 
 ### 1.2 Style-based Synthesis
 
@@ -201,12 +202,13 @@ A collection of sketch based applications.
 | [Joint Gap Detection and Inpainting of Line Drawings](http://iizuka.cs.tsukuba.ac.jp/projects/inpainting/data/inpainting_cvpr2017.pdf) | CVPR 2017 | [[project]](http://iizuka.cs.tsukuba.ac.jp/projects/inpainting/en/) [[code]](https://github.com/kaidlc/CVPR2017_linedrawings) |
 
 
-## 8. Manga Restoration and Inpainting
+## 8. Manga Restoration, Retargeting and Inpainting
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Exploiting Aliasing for Manga Restoration](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Exploiting_Aliasing_for_Manga_Restoration_CVPR_2021_paper.pdf) | CVPR 2021 | [[webpage]](http://www.cse.cuhk.edu.hk/~ttwong/papers/mangarestore/mangarestore.html) [[code]](https://github.com/msxie92/MangaRestoration) |
 | [Seamless Manga Inpainting with Semantics Awareness](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) | SIGGRAPH 2021 | [[webpage]](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) [[code]](https://github.com/msxie92/MangaInpainting) |
+| [Screentone-Preserved Manga Retargeting](https://arxiv.org/abs/2203.03396) | arxiv 22.03 |  |
 
 
 ## 9. Sketch and Shading
