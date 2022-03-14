@@ -129,6 +129,7 @@ A collection of sketch based applications.
 | [Domain-Aware SE Network for Sketch-based Image Retrieval with Multiplicative Euclidean Margin Softmax](https://dl.acm.org/doi/abs/10.1145/3474085.3475499) | ACM MM 2021 | [[code]](https://github.com/Ben-Louis/SBIR-DASE-MEMS) |
 | [Relationship-Preserving Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3474085.3475676) | ACM MM 2021 |  |
 | [Transferable Coupled Network for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9591307) | TPAMI 2021 | [[project]](https://haowang1992.github.io/publication/TCN) |
+| [TVT: Three-Way Vision Transformer through Multi-Modal Hypersphere Learning for Zero-Shot Sketch-Based Image Retrieval](https://www.aaai.org/AAAI22Papers/AAAI-8379.TianJ.pdf) | AAAI 2022 |  |
 | [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://ayankumarbhunia.github.io/) | CVPR 2022 |  |
 | [Sketch3T: Test-time Training for Zero-Shot SBIR](https://aneeshan95.github.io/) | CVPR 2022 |  |
 
