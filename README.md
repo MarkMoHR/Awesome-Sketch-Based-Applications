@@ -74,6 +74,7 @@ A collection of sketch based applications.
 | [Multimodal Unsupervised Image-to-Image Translation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/nvlabs/MUNIT) |
 | [SketchPatch: Sketch Stylization via Seamless Patch-level Synthesis](https://arxiv.org/abs/2009.02216) | SIGGRAPH Asia 2020 |  |
 | [Self-Supervised Sketch-to-Image Synthesis](https://arxiv.org/abs/2012.09290) | AAAI 2021 | [[code]](https://github.com/odegeasslbc/Self-Supervised-Sketch-to-Image-Synthesis-PyTorch) |
+| [CoGS: Controllable Generation and Search from Sketch and Style](https://arxiv.org/abs/2203.09554) | arxiv 22.03 |  |
 
 
 ## 2. Sketch Based Image Editing
