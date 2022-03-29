@@ -132,8 +132,8 @@ A collection of sketch based applications.
 | [Relationship-Preserving Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3474085.3475676) | ACM MM 2021 |  |
 | [Transferable Coupled Network for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9591307) | TPAMI 2021 | [[project]](https://haowang1992.github.io/publication/TCN) |
 | [TVT: Three-Way Vision Transformer through Multi-Modal Hypersphere Learning for Zero-Shot Sketch-Based Image Retrieval](https://www.aaai.org/AAAI22Papers/AAAI-8379.TianJ.pdf) | AAAI 2022 |  |
-| [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://ayankumarbhunia.github.io/) | CVPR 2022 |  |
-| [Sketch3T: Test-time Training for Zero-Shot SBIR](https://aneeshan95.github.io/) | CVPR 2022 |  |
+| [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://arxiv.org/abs/2203.14817) | CVPR 2022 | [[code]](https://github.com/ayankumarbhunia/stroke_subset_selector-for-fgsbir) |
+| [Sketch3T: Test-time Training for Zero-Shot SBIR](https://arxiv.org/abs/2203.14691) | CVPR 2022 |  |
 
 
 - Scene-level
@@ -141,7 +141,7 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [SceneSketcher: Fine-Grained Image Retrieval with Scene Sketches](http://orca.cf.ac.uk/133561/1/SceneSketcherECCV2020.pdf) | ECCV 2020 |  |
-| [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](http://www.pinakinathc.me/) | CVPR 2022 |  |
+| [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](https://arxiv.org/abs/2203.14804) | CVPR 2022 |  |
 
 - Video Retrieval
 
@@ -458,4 +458,4 @@ A collection of sketch based applications.
 ## 19. Sketch Based Incremental Learning
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://ayankumarbhunia.github.io/) | CVPR 2022 |  |
+| [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://arxiv.org/abs/2203.14843) | CVPR 2022 | [[code]](https://github.com/AyanKumarBhunia/DIY-FSCIL) |
