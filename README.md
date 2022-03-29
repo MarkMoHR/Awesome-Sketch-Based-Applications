@@ -22,12 +22,13 @@ A collection of sketch based applications.
 - [10. Sketch Enhancement](#10-sketch-enhancement)
 - [11. Sketch-Guided Object Localization](#11-sketch-guided-object-localization)
 - [12. Sketch-Guided Video Synthesis](#12-sketch-guided-video-synthesis)
-- [13. Sketch Segmentation and Perceptual Grouping](#13-sketch-segmentation-and-perceptual-grouping)
-- [14. Sketch Representation Learning](#14-sketch-representation-learning)
-- [15. Sketch and Visual Correspondence](#15-sketch-and-visual-correspondence)
-- [16. Sketch Animation/Inbetweening](#16-sketch-animationinbetweening)
-- [17. Sketch and AR/VR](#17-sketch-and-arvr)
-- [18. Sketch Based Incremental Learning](#18-sketch-based-incremental-learning)
+- [13. Sketch Recognition](#13-sketch-recognition)
+- [14. Sketch Segmentation and Perceptual Grouping](#14-sketch-segmentation-and-perceptual-grouping)
+- [15. Sketch Representation Learning](#15-sketch-representation-learning)
+- [16. Sketch and Visual Correspondence](#16-sketch-and-visual-correspondence)
+- [17. Sketch Animation/Inbetweening](#17-sketch-animationinbetweening)
+- [18. Sketch and AR/VR](#18-sketch-and-arvr)
+- [19. Sketch Based Incremental Learning](#19-sketch-based-incremental-learning)
 
 
 ---
@@ -238,10 +239,31 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [Deep Sketch-guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/abstract/document/9314221) | TVCG 2021 | [code](https://github.com/xiaoyu258/Inbetweening) |
+| [Deep Sketch-guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/abstract/document/9314221) | TVCG 2021 | [[code]](https://github.com/xiaoyu258/Inbetweening) |
+
+## 13. Sketch Recognition
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Sketch-a-Net that Beats Humans](https://arxiv.org/abs/1501.07873) | BMVC 2015 | [[code]](https://github.com/yuqian1023/sketch-specific-data-augmentation) |
+| [Sketch-a-Net: A Deep Neural Network that Beats Humans](https://link.springer.com/article/10.1007/s11263-016-0932-3) | IJCV 2017 | [[code]](https://github.com/yuqian1023/sketch-specific-data-augmentation) |
+| [Deep Self-Supervised Representation Learning for Free-Hand Sketch](https://arxiv.org/abs/2002.00867) | TCSVT 2020 | [[code]](https://github.com/zzz1515151/self-supervised_learning_sketch) |
+| [S3Net:Graph Representational Network For Sketch Recognition](https://ieeexplore.ieee.org/abstract/document/9102957/) | ICME 2020 | [[code]](https://github.com/yanglan0225/s3net) |
+| [Sketchformer: Transformer-based Representation for Sketched Structure](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ribeiro_Sketchformer_Transformer-Based_Representation_for_Sketched_Structure_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/leosampaio/sketchformer) |
+| [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) | CVPR 2020 | [[code]](https://github.com/avalonstrel/SketchBERT) |
+| [Multi-Graph Transformer for Free-Hand Sketch Recognition](https://ieeexplore.ieee.org/abstract/document/9397867/) | TNNLS 2021 | [[code]](https://github.com/PengBoXiangShang/multigraph_transformer) |
+| [Sketch-R2CNN: An RNN-Rasterization-CNN Architecture for Vector Sketch Recognition](https://scholars.cityu.edu.hk/files/73400281/Sketch_R2CNN_TVCG.pdf) | TVCG 2021 | [[code]](https://github.com/craigleili/Sketch-R2CNN) |
+| [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://arxiv.org/abs/2103.13716) | CVPR 2021 | [[code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) |
+| [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf) | ICCV 2021 |  |
+| [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 |  |
+| [Multi-Stage Spatio-Temporal Networks for Robust Sketch Recognition](https://ieeexplore.ieee.org/abstract/document/9740528/) | TIP 2022 |  |
 
 
-## 13. Sketch Segmentation and Perceptual Grouping
+
+
+
+
+## 14. Sketch Segmentation and Perceptual Grouping
 
 - Sketch Segmentation
 
@@ -347,7 +369,7 @@ A collection of sketch based applications.
 </table>
 
 
-## 14. Sketch Representation Learning
+## 15. Sketch Representation Learning
 
 - Stroke order importance/saliency, sketch abstraction
 
@@ -389,7 +411,7 @@ A collection of sketch based applications.
 | [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 |  | Lattice graph | Sketch healing and image-to-sketch synthesis |
                                                                                        
                                                                                        
-## 15. Sketch and Visual Correspondence
+## 16. Sketch and Visual Correspondence
 
 | Paper | Source | Code/Project Link | 
 | --- | --- | --- | 
@@ -399,7 +421,7 @@ A collection of sketch based applications.
 | [The Animation Transformer: Visual Correspondence via Segment Matching](https://openaccess.thecvf.com/content/ICCV2021/papers/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.pdf) | ICCV 2021 |  | 
                                                                                        
 
-## 16. Sketch Animation/Inbetweening
+## 17. Sketch Animation/Inbetweening
 
 - Inbetweening
 
@@ -421,7 +443,7 @@ A collection of sketch based applications.
 | [Animated Drawings (Meta AI)](https://ai.facebook.com/blog/using-ai-to-bring-childrens-drawings-to-life/) | 2021 | Image | [[Demo]](https://sketch.metademolab.com/) |
 
 
-## 17. Sketch and AR/VR
+## 18. Sketch and AR/VR
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -433,7 +455,7 @@ A collection of sketch based applications.
 | [HandPainter - 3D Sketching in VR with Hand-based Physical Proxy](https://dl.acm.org/doi/abs/10.1145/3411764.3445302) | CHI 2021 | [[video]](https://youtu.be/x5VAU-471P8) |
 
 
-## 18. Sketch Based Incremental Learning
+## 19. Sketch Based Incremental Learning
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://ayankumarbhunia.github.io/) | CVPR 2022 |  |
