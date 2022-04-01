@@ -334,7 +334,7 @@ A collection of sketch based applications.
   </tr>
   <tr>
     <td> <a href="https://arxiv.org/abs/2112.10838">One Sketch for All: One-Shot Personalized Sketch Segmentation</a> </td> 
-    <td> arxiv 2021.12 </td> 
+    <td> TIP 2022 </td> 
     <td>  </td>
   </tr>
 </table>
