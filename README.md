@@ -80,6 +80,8 @@ A collection of sketch based applications.
 
 ## 2. Sketch Based Image Editing
 
+- Image Editing
+
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [FaceShop: Deep Sketch-based Face Image Editing](https://arxiv.org/pdf/1804.08972.pdf) | SIGGRAPH 2018 | [[project]](https://home.inf.unibe.ch/~porteni/projects/faceshop/) |
@@ -96,6 +98,12 @@ A collection of sketch based applications.
 | [SketchHairSalon: Deep Sketch-based Hair Image Synthesis](https://arxiv.org/abs/2109.07874) | SIGGRAPH Asia 2021 | [[project]](https://chufengxiao.github.io/SketchHairSalon/) |
 | [DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample](https://arxiv.org/abs/2109.06151) | ICCV 2021 | [[code]](https://github.com/eliahuhorwitz/DeepSIM) [[project]](http://www.vision.huji.ac.il/deepsim/) |
 | [SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches](https://arxiv.org/abs/2111.15078) | arxiv 21.11 | [[code]](https://github.com/zengxianyu/sketchedit) [[project]](https://zengxianyu.github.io/sketchedit/) |
+
+- Video Editing
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [DeepVideoFaceEditing: Sketch-based Deep Editing of Face Videos](http://geometrylearning.com/lin/) | SIGGRAPH 2022 |  |
 
 
 ## 3. Sketch Based Image Retrieval (SBIR)
