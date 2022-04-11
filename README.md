@@ -401,6 +401,7 @@ A collection of sketch based applications.
 | [DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation](https://arxiv.org/abs/2007.11301) | NeurIPS 2020 | [[Code]](https://github.com/alexandre01/deepsvg)  [[Project]](https://blog.alexandrecarlier.com/deepsvg/) | SVG | Vector Graphics Animation, reconstruction and interpolation |
 | [Im2Vec: Synthesizing Vector Graphics without Vector Supervision](https://arxiv.org/abs/2102.02798) | CVPR 2021 | [[Project]](http://geometry.cs.ucl.ac.uk/projects/2021/im2vec/) [[code]](https://github.com/preddy5/Im2Vec) | SVG | Vector Graphics reconstruction and interpolation |
 | [DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning](https://arxiv.org/abs/2110.06688) | SIGGRAPH Asia 2021 | [[Project]](https://yizhiwang96.github.io/deepvecfont_homepage/) [[code]](https://github.com/yizhiwang96/deepvecfont) | SVG | Vector font generation and interpolation |
+| [SketchODE: Learning neural sketch representation in continuous time](https://openreview.net/pdf?id=c-4HSDAWua5) | ICLR 2022 | [[Project]](https://ayandas.me/sketchode) | Vector/Stroke-level | Continuous-time representation, reconstruction & interpolation |
 
 
 - Self-supervised Representation Learning
