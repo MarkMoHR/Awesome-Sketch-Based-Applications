@@ -263,7 +263,7 @@ A collection of sketch based applications.
 | [Sketch-R2CNN: An RNN-Rasterization-CNN Architecture for Vector Sketch Recognition](https://scholars.cityu.edu.hk/files/73400281/Sketch_R2CNN_TVCG.pdf) | TVCG 2021 | [[code]](https://github.com/craigleili/Sketch-R2CNN) |
 | [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://arxiv.org/abs/2103.13716) | CVPR 2021 | [[code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) |
 | [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf) | ICCV 2021 |  |
-| [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 |  |
+| [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 | [[code]](https://github.com/qugank/sketch-lattice.github.io) |
 | [Multi-Stage Spatio-Temporal Networks for Robust Sketch Recognition](https://ieeexplore.ieee.org/abstract/document/9740528/) | TIP 2022 |  |
 
 
@@ -417,7 +417,7 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
-| [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 |  | Lattice graph | Sketch healing and image-to-sketch synthesis |
+| [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 | [[code]](https://github.com/qugank/sketch-lattice.github.io) | Lattice graph | Sketch healing and image-to-sketch synthesis |
                                                                                        
                                                                                        
 ## 16. Sketch and Visual Correspondence
