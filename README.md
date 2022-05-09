@@ -103,7 +103,7 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [DeepVideoFaceEditing: Sketch-based Deep Editing of Face Videos](http://geometrylearning.com/lin/) | SIGGRAPH 2022 |  |
+| [DeepFaceVideoEditing: Sketch-based Deep Editing of Face Videos](http://geometrylearning.com/DeepFaceVideoEditing/) | SIGGRAPH 2022 | [[project]](http://geometrylearning.com/DeepFaceVideoEditing/) |
 
 
 ## 3. Sketch Based Image Retrieval (SBIR)
