@@ -192,6 +192,7 @@ A collection of sketch based applications.
 | [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663) | CVPR 2021 |  |
 | [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/abs/2104.00482v1) | ICCV 2021 |  |
 | [Real-time Skeletonization for Sketch-based Modeling](https://arxiv.org/abs/2110.05805) | SMI 2021 | [[code]](https://github.com/jingma-git/RealSkel) |
+| [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://enigma-li.github.io/) | SIGGRAPH 2022 |  |
 
 
 ## 6. Sketch Based Garment Design
