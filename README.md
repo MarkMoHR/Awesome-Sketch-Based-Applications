@@ -57,7 +57,7 @@ A collection of sketch based applications.
 | [Sketch Your Own GAN](https://arxiv.org/abs/2108.02774) | ICCV 2021 | [[code]](https://github.com/peterwang512/GANSketching) [[webpage]](https://peterwang512.github.io/GANSketching/) |
 
 
-- Human Face
+- Human Face / Portrait
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -66,6 +66,7 @@ A collection of sketch based applications.
 | [DeepFacePencil: Creating Face Images from Freehand Sketches](https://arxiv.org/abs/2008.13343) | ACM MM 2020 | [[project]](https://liyuhangustc.github.io/Sketch2Face/) [[code]](https://github.com/LiYuhangUSTC/Sketch2Face) |
 | [Controllable Sketch-to-Image Translation for Robust Face Synthesis](https://ieeexplore.ieee.org/abstract/document/9583954) | TIP 2021 |  |
 | [DrawingInStyles: Portrait Image Generation and Editing with Spatially Conditioned StyleGAN](https://arxiv.org/abs/2203.02762) | arxiv 22.03 |  |
+| [DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches](https://arxiv.org/abs/2205.02070) | SIGGRAPH 2022 |  |
 
 ### 1.2 Style-based Synthesis
 
