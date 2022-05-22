@@ -194,6 +194,8 @@ A collection of sketch based applications.
 | [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/abs/2104.00482v1) | ICCV 2021 |  |
 | [Real-time Skeletonization for Sketch-based Modeling](https://arxiv.org/abs/2110.05805) | SMI 2021 | [[code]](https://github.com/jingma-git/RealSkel) |
 | [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://enigma-li.github.io/) | SIGGRAPH 2022 |  |
+| [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-labs.iro.umontreal.ca/~bmpix/sketch2pose/sketch2pose.pdf) | SIGGRAPH 2022 | [[project]](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/) [[code]](https://github.com/kbrodt/sketch2pose) |
+| [Symmetry-driven 3D Reconstruction From Concept Sketches](https://yulia.gryaditskaya.com/) | SIGGRAPH 2022 |  |
 
 
 ## 6. Sketch Based Garment Design
