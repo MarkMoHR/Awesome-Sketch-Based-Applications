@@ -66,7 +66,7 @@ A collection of sketch based applications.
 | [DeepFacePencil: Creating Face Images from Freehand Sketches](https://arxiv.org/abs/2008.13343) | ACM MM 2020 | [[project]](https://liyuhangustc.github.io/Sketch2Face/) [[code]](https://github.com/LiYuhangUSTC/Sketch2Face) |
 | [Controllable Sketch-to-Image Translation for Robust Face Synthesis](https://ieeexplore.ieee.org/abstract/document/9583954) | TIP 2021 |  |
 | [DrawingInStyles: Portrait Image Generation and Editing with Spatially Conditioned StyleGAN](https://arxiv.org/abs/2203.02762) | arxiv 22.03 |  |
-| [DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches](https://arxiv.org/abs/2205.02070) | SIGGRAPH 2022 |  |
+| [DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches](https://arxiv.org/abs/2205.02070) | arxiv 22.05 |  |
 
 ### 1.2 Style-based Synthesis
 
@@ -196,6 +196,7 @@ A collection of sketch based applications.
 | [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://enigma-li.github.io/) | SIGGRAPH 2022 |  |
 | [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-labs.iro.umontreal.ca/~bmpix/sketch2pose/sketch2pose.pdf) | SIGGRAPH 2022 | [[project]](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/) [[code]](https://github.com/kbrodt/sketch2pose) |
 | [Symmetry-driven 3D Reconstruction From Concept Sketches](https://yulia.gryaditskaya.com/) | SIGGRAPH 2022 |  |
+| [Piecewise-smooth Surface Fitting Onto Unstructured 3D Sketches ]() | SIGGRAPH 2022 |  |
 
 
 ## 6. Sketch Based Garment Design
