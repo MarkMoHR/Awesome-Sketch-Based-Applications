@@ -143,6 +143,7 @@ A collection of sketch based applications.
 | [TVT: Three-Way Vision Transformer through Multi-Modal Hypersphere Learning for Zero-Shot Sketch-Based Image Retrieval](https://www.aaai.org/AAAI22Papers/AAAI-8379.TianJ.pdf) | AAAI 2022 |  |
 | [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://arxiv.org/abs/2203.14817) | CVPR 2022 | [[code]](https://github.com/ayankumarbhunia/stroke_subset_selector-for-fgsbir) |
 | [Sketch3T: Test-time Training for Zero-Shot SBIR](https://arxiv.org/abs/2203.14691) | CVPR 2022 |  |
+| [Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval](https://ieeexplore.ieee.org/abstract/document/9775617) | TIP 2022 | [[code]](https://github.com/scottjingtt/AMF_GZS_SBIR) |
 
 
 - Scene-level
@@ -151,6 +152,7 @@ A collection of sketch based applications.
 | --- | --- | --- |
 | [SceneSketcher: Fine-Grained Image Retrieval with Scene Sketches](http://orca.cf.ac.uk/133561/1/SceneSketcherECCV2020.pdf) | ECCV 2020 |  |
 | [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](https://arxiv.org/abs/2203.14804) | CVPR 2022 |  |
+| [SceneSketcher-v2: Fine-Grained Scene-Level Sketch-Based Image Retrieval using Adaptive GCNs](https://ieeexplore.ieee.org/abstract/document/9779565) | TIP 2022 |  |
 
 - Video Retrieval
 
