@@ -296,7 +296,7 @@ A collection of sketch based applications.
 
 ## 14. Sketch Segmentation and Perceptual Grouping
 
-- Sketch Segmentation
+- Semantic / Instance Segmentation
 
 <table>
   <tr>
@@ -370,7 +370,36 @@ A collection of sketch based applications.
   </tr>
 </table>
 
-- Sketch Perceptual Grouping
+- Panoptic Segmentation
+                                                   
+<table>
+  <tr>
+    <td><strong>Type</strong></td>
+    <td><strong>Paper</strong></td>
+    <td><strong>Source</strong></td>
+    <td><strong>Code/Project Link</strong></td>
+  </tr>
+  
+  <tr>
+    <td rowspan="3"><strong>Vector</strong></td>
+    <td> <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_FloorPlanCAD_A_Large-Scale_CAD_Drawing_Dataset_for_Panoptic_Symbol_Spotting_ICCV_2021_paper.pdf">FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol Spotting</a> </td> 
+    <td> ICCV 2021 </td> 
+    <td> <a href="https://floorplancad.github.io/">[project]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2201.00625">GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings</a> </td> 
+    <td> CVPR 2022 </td> 
+    <td> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://zhiwenfan.github.io/">CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings</a> </td> 
+    <td> CVPR 2022 </td> 
+    <td>  </td>
+  </tr>
+  
+</table>
+                                                   
+- Perceptual Grouping
 
 <table>
   <tr>
