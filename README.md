@@ -29,6 +29,7 @@ A collection of sketch based applications.
 - [17. Sketch Animation/Inbetweening](#17-sketch-animationinbetweening)
 - [18. Sketch and AR/VR](#18-sketch-and-arvr)
 - [19. Sketch Based Incremental Learning](#19-sketch-based-incremental-learning)
+- [20. Sketch Quality Measurement](#20-sketch-quality-measurement)
 
 
 ---
@@ -523,3 +524,9 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://arxiv.org/abs/2203.14843) | CVPR 2022 | [[code]](https://github.com/AyanKumarBhunia/DIY-FSCIL) |
+
+                                                                                       
+## 20. Sketch Quality Measurement
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf) | CVPR 2022 | |
