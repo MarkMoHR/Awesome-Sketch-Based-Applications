@@ -392,9 +392,9 @@ A collection of sketch based applications.
     <td> </td>
   </tr>
   <tr>
-    <td> <a href="https://zhiwenfan.github.io/">CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings</a> </td> 
+    <td> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CADTransformer_Panoptic_Symbol_Spotting_Transformer_for_CAD_Drawings_CVPR_2022_paper.pdf">CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings</a> </td> 
     <td> CVPR 2022 </td> 
-    <td>  </td>
+    <td> <a href="https://zhiwenfan.github.io/">[project]</a> </td>
   </tr>
   
 </table>
