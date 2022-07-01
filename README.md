@@ -205,8 +205,8 @@ A collection of sketch based applications.
 | [Lifting Freehand Concept Sketches into 3D](https://repo-sam.inria.fr/d3/Lift3D/Gryaditskaya_SigAsia20_Lifting%20_Freehand_Concept_Sketches_into_3D.pdf) | SIGGRAPH Asia 2020 | [[project]](https://ns.inria.fr/d3/Lift3D/) [[code]](https://github.com/ygryadit/LiftConceptSketches3D) |
 | [Sketch2CAD: Sequential CAD Modeling by Sketching in Context](http://geometry.cs.ucl.ac.uk/projects/2020/sketch2cad/paper_docs/Sketch2CAD_SIGA_2020.pdf) | SIGGRAPH Asia 2020 | [[project]](http://geometry.cs.ucl.ac.uk/projects/2020/sketch2cad/) [[code]](https://github.com/Enigma-li/Sketch2CAD) |
 | [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://enigma-li.github.io/projects/free2cad/Free2CAD_SIG_2022.pdf) | SIGGRAPH 2022 | [[project]](http://geometry.cs.ucl.ac.uk/projects/2022/free2cad/) [[code]](https://github.com/Enigma-li/Free2CAD) |
-| [Symmetry-driven 3D Reconstruction From Concept Sketches](https://yulia.gryaditskaya.com/) | SIGGRAPH 2022 |  |
-| [Piecewise-smooth Surface Fitting Onto Unstructured 3D Sketches ]() | SIGGRAPH 2022 |  |
+| [Symmetry-driven 3D Reconstruction From Concept Sketches](https://repo-sam.inria.fr/d3/SymmetrySketch/symmetry_sketch.pdf) | SIGGRAPH 2022 | [[project]](https://ns.inria.fr/d3/SymmetrySketch/) |
+| [Piecewise-smooth Surface Fitting Onto Unstructured 3D Sketches](http://www-sop.inria.fr/reves/Basilic/2022/YABSB22/surfacing_sketches.pdf) | SIGGRAPH 2022 | [[project]](https://em-yu.github.io/research/surfacing_3d_sketches/) |
 
 
 ## 6. Sketch Based Garment Design
