@@ -146,6 +146,7 @@ A collection of sketch based applications.
 | [Sketch3T: Test-time Training for Zero-Shot SBIR](https://arxiv.org/abs/2203.14691) | CVPR 2022 |  |
 | [Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval](https://ieeexplore.ieee.org/abstract/document/9775617) | TIP 2022 | [[code]](https://github.com/scottjingtt/AMF_GZS_SBIR) |
 | [Adaptive Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2207.01723) | ECCV 2022 |  |
+| [Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval](https://github.com/1069066484/CSR-ECCV2022) | ECCV 2022 | [[code]](https://github.com/1069066484/CSR-ECCV2022) |
 
 
 - Scene-level
