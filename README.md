@@ -311,12 +311,7 @@ A collection of sketch based applications.
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan=4"><strong>Pixelwise</strong></td>
-    <td> <a href="https://ieeexplore.ieee.org/abstract/document/8565976">Fast Sketch Segmentation and Labeling With Deep Learning</a> </td> 
-    <td> CGA 2019 </td> 
-    <td> </td>
-  </tr>
-  <tr>
+    <td rowspan=3"><strong>Pixelwise</strong></td>
     <td> <a href="https://ieeexplore.ieee.org/abstract/document/8784880">SPFusionNet: Sketch Segmentation Using Multi-modal Data Fusion</a> </td> 
     <td> ICME 2019 </td> 
     <td>  </td>
@@ -354,13 +349,13 @@ A collection of sketch based applications.
     <td> </td>
   </tr>
   <tr>
-    <td> <a href="https://arxiv.org/pdf/1901.03427.pdf">Stroke-based sketched symbol reconstruction and segmentation</a> </td> 
-    <td> arxiv 1901.03427 </td> 
+    <td> <a href="http://sweb.cityu.edu.hk/hongbofu/doc/fast_sketch_segmentation_CGA2019.pdf">Fast Sketch Segmentation and Labeling With Deep Learning</a> </td> 
+    <td> CGA 2019 </td> 
     <td> </td>
   </tr>
   <tr>
-    <td> <a href="https://arxiv.org/abs/2003.00678">SketchGCN: Semantic Sketch Segmentation with Graph Convolutional Networks</a> </td> 
-    <td> arxiv 2003.00678 </td> 
+    <td> <a href="https://arxiv.org/pdf/1901.03427.pdf">Stroke-based sketched symbol reconstruction and segmentation</a> </td> 
+    <td> CGA 2020 </td> 
     <td> </td>
   </tr>
   <tr>
