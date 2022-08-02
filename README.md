@@ -147,6 +147,7 @@ A collection of sketch based applications.
 | [Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval](https://ieeexplore.ieee.org/abstract/document/9775617) | TIP 2022 | [[code]](https://github.com/scottjingtt/AMF_GZS_SBIR) |
 | [Adaptive Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2207.01723) | ECCV 2022 |  |
 | [Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval](https://github.com/1069066484/CSR-ECCV2022) | ECCV 2022 | [[code]](https://github.com/1069066484/CSR-ECCV2022) |
+| [A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch](https://patsorn.me/projects/tsbir/paper.pdf) | ECCV 2022 | [[code]](https://github.com/janesjanes/tsbir) [[project]](https://patsorn.me/projects/tsbir/) |
 
 
 - Scene-level
