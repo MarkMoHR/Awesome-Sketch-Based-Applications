@@ -30,7 +30,7 @@ A collection of sketch based applications.
 - [18. Sketch and AR/VR](#18-sketch-and-arvr)
 - [19. Sketch Based Incremental Learning](#19-sketch-based-incremental-learning)
 - [20. Sketch Quality Measurement](#20-sketch-quality-measurement)
-- [21. Sketch for Medical Image Analysis](#20-sketch-for-medical-image-analysis)
+- [21. Sketch for Medical Image Analysis](#21-sketch-for-medical-image-analysis)
 
 
 ---
@@ -204,7 +204,6 @@ A collection of sketch based applications.
 | [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-labs.iro.umontreal.ca/~bmpix/sketch2pose/sketch2pose.pdf) | SIGGRAPH 2022 | [[project]](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/) [[code]](https://github.com/kbrodt/sketch2pose) |
 | [Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch](https://arxiv.org/abs/2201.09367) | TVCG 2022 |  |
 | [Structure-aware Editable Morphable Model for 3D Facial Detail Animation and Manipulation](https://arxiv.org/abs/2207.09019) | ECCV 2022 | [[code]](https://github.com/gerwang/facial-detail-manipulation) |
-| [Garment Ideation: Iterative view-aware sketch-based garment modeling](https://github.com/pinakinathc/multiviewsketch-garment) | 3DV 2022 | [[code]](https://github.com/pinakinathc/multiviewsketch-garment) |
 
 
 
@@ -226,6 +225,7 @@ A collection of sketch based applications.
 | [Sketching Folds: Developable Surfaces from Non-Planar Silhouettes](http://imagecomputing.net/damien.rohmer/publications/2015_tog_sketching_folds/article/JungHRBBC_TOG_2015_sketching_folds.pdf) | TOG 2015 |  [[project]](http://imagecomputing.net/damien.rohmer/publications/2015_tog_sketching_folds/index.html) |
 | [FoldSketch: Enriching Garments with Physically Reproducible Folds](http://www.cs.ubc.ca/labs/imager/tr/2018/FoldSketch/doc/FoldSketch.pdf) | SIGGRAPH 2018 |  [[project]](http://www.cs.ubc.ca/labs/imager/tr/2018/FoldSketch/) |
 | [Learning a Shared Shape Space for Multimodal Garment Design](https://arxiv.org/abs/1806.11335) | SIGGRAPH Asia 2018 |  [[project]](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/) |
+| [Garment Ideation: Iterative view-aware sketch-based garment modeling](https://github.com/pinakinathc/multiviewsketch-garment) | 3DV 2022 | [[code]](https://github.com/pinakinathc/multiviewsketch-garment) |
 
 
 ## 7. Sketch Completion
