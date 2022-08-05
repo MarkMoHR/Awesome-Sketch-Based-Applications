@@ -30,6 +30,7 @@ A collection of sketch based applications.
 - [18. Sketch and AR/VR](#18-sketch-and-arvr)
 - [19. Sketch Based Incremental Learning](#19-sketch-based-incremental-learning)
 - [20. Sketch Quality Measurement](#20-sketch-quality-measurement)
+- [21. Sketch for Medical Image Analysis](#20-sketch-for-medical-image-analysis)
 
 
 ---
@@ -77,7 +78,7 @@ A collection of sketch based applications.
 | [Multimodal Unsupervised Image-to-Image Translation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/nvlabs/MUNIT) |
 | [SketchPatch: Sketch Stylization via Seamless Patch-level Synthesis](https://arxiv.org/abs/2009.02216) | SIGGRAPH Asia 2020 |  |
 | [Self-Supervised Sketch-to-Image Synthesis](https://arxiv.org/abs/2012.09290) | AAAI 2021 | [[code]](https://github.com/odegeasslbc/Self-Supervised-Sketch-to-Image-Synthesis-PyTorch) |
-| [CoGS: Controllable Generation and Search from Sketch and Style](https://arxiv.org/abs/2203.09554) | arxiv 22.03 |  |
+| [CoGS: Controllable Generation and Search from Sketch and Style](https://arxiv.org/abs/2203.09554) | ECCV 2022 |  |
 
 
 ## 2. Sketch Based Image Editing
@@ -157,6 +158,7 @@ A collection of sketch based applications.
 | [SceneSketcher: Fine-Grained Image Retrieval with Scene Sketches](http://orca.cf.ac.uk/133561/1/SceneSketcherECCV2020.pdf) | ECCV 2020 |  |
 | [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](https://arxiv.org/abs/2203.14804) | CVPR 2022 |  |
 | [SceneSketcher-v2: Fine-Grained Scene-Level Sketch-Based Image Retrieval using Adaptive GCNs](https://ieeexplore.ieee.org/abstract/document/9779565) | TIP 2022 |  |
+| [FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context](https://ieeexplore.ieee.org/abstract/document/9779565) | ECCV 2022 | [[code]](https://github.com/pinakinathc/fscoco) [[Dataset]](https://fscoco.github.io/) |
 
 - Video Retrieval
 
@@ -202,6 +204,9 @@ A collection of sketch based applications.
 | [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-labs.iro.umontreal.ca/~bmpix/sketch2pose/sketch2pose.pdf) | SIGGRAPH 2022 | [[project]](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/) [[code]](https://github.com/kbrodt/sketch2pose) |
 | [Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch](https://arxiv.org/abs/2201.09367) | TVCG 2022 |  |
 | [Structure-aware Editable Morphable Model for 3D Facial Detail Animation and Manipulation](https://arxiv.org/abs/2207.09019) | ECCV 2022 | [[code]](https://github.com/gerwang/facial-detail-manipulation) |
+| [Garment Ideation: Iterative view-aware sketch-based garment modeling](https://github.com/pinakinathc/multiviewsketch-garment) | 3DV 2022 | [[code]](https://github.com/pinakinathc/multiviewsketch-garment) |
+
+
 
 - CAD sketch
 
@@ -466,7 +471,7 @@ A collection of sketch based applications.
 | --- | --- | --- | --- | --- |
 | [Deep Self-Supervised Representation Learning for Free-Hand Sketch](https://arxiv.org/abs/2002.00867) | TCSVT 2020 | [[Code]](https://github.com/zzz1515151/self-supervised_learning_sketch) | Vector/stroke-level | Retrieval and recognition |
 | [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) | CVPR 2020 | [[Code]](https://github.com/avalonstrel/SketchBERT) | Vector/stroke-level | Sketch recognition, retrieval, and gestalt |
-| [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://arxiv.org/abs/2103.13716) | CVPR 2021 | [[Code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) | Vector/stroke-level | Recognition |
+| [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://arxiv.org/abs/2103.13716) | CVPR 2021 | [[Code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) | Both Vector and Raster-level | Recognition |
 
 
 - Other kinds of sketch representation
@@ -532,3 +537,8 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf) | CVPR 2022 | |
+
+## 21. Sketch for Medical Image Analysis
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Sketch-Based Editing and Deformation of Cardiac Image Segmentation](https://prism.ucalgary.ca/handle/1880/114827) | Arxiv | |
