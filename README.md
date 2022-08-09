@@ -31,6 +31,7 @@ A collection of sketch based applications.
 - [19. Sketch Based Incremental Learning](#19-sketch-based-incremental-learning)
 - [20. Sketch Quality Measurement](#20-sketch-quality-measurement)
 - [21. Sketch for Medical Image Analysis](#21-sketch-for-medical-image-analysis)
+- [22. Cloud Augmentation with Sketches](#22-cloud-augmentation-with-sketches)
 
 
 ---
@@ -542,3 +543,8 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Sketch-Based Editing and Deformation of Cardiac Image Segmentation](https://prism.ucalgary.ca/handle/1880/114827) | Arxiv | |
+
+## 22. Cloud Augmentation with Sketches
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Cloud2Sketch: Augmenting Clouds with Imaginary Sketches](https://wanzy.me/research/cloud2sketch) | ACM MM 2022 | [[project]](https://wanzy.me/research/cloud2sketch) |
