@@ -524,9 +524,11 @@ A collection of sketch based applications.
 | [Model-Guided 3D Sketching](http://sweb.cityu.edu.hk/hongbofu/doc/model-guided_3D_sketching_TVCG.pdf) | TVCG 2018 | [[video]](https://youtu.be/STredKjB_Bk) |
 | [Mobi3DSketch: 3D Sketching in Mobile AR](http://sweb.cityu.edu.hk/hongbofu/doc/mobi3Dsketch_CHI2019.pdf) | CHI 2019 | [[video]](https://youtu.be/JdP0nkeMEog) |
 | [Interactive Liquid Splash Modeling by User Sketches](https://dl.acm.org/doi/abs/10.1145/3414685.3417832) | SIGGRAPH Asia 2020 | [[video]](https://youtu.be/HXAxNrfk_w0) |
+| [Towards 3D VR-Sketch to 3D Shape Retrieval](https://rowl1ng.com/assets/pdf/3DV_VRSketch.pdf) | 3DV 2020 | [[code]](https://github.com/ygryadit/Towards3DVRSketch) [[project]](https://rowl1ng.com/projects/3DSketch3DV/) |
 | [3D Curve Creation on and around Physical Objects with Mobile AR](http://sweb.cityu.edu.hk/hongbofu/doc/3D_Curve_Creation_Mobile_AR_TVCG.pdf) | TVCG 2021 | [[video]](https://youtu.be/zyh4pEvK7j8) |
 | [HandPainter - 3D Sketching in VR with Hand-based Physical Proxy](https://dl.acm.org/doi/abs/10.1145/3411764.3445302) | CHI 2021 | [[video]](https://youtu.be/x5VAU-471P8) |
 | [Fine-Grained VR Sketching: Dataset and Insights](https://ieeexplore.ieee.org/abstract/document/9665875/) | 3DV 2021 | [[code]](https://github.com/Rowl1ng/Fine-Grained_VR_Sketching) |
+| [Structure-Aware 3D VR Sketch to 3D Shape Retrieval](https://github.com/Rowl1ng/Structure-Aware-VR-Sketch-Shape-Retrieval) | 3DV 2022 | [[code]](https://github.com/Rowl1ng/Structure-Aware-VR-Sketch-Shape-Retrieval) |
 
 
 ## 19. Sketch Based Incremental Learning
