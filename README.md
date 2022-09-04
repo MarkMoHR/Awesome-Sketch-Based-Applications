@@ -80,6 +80,7 @@ A collection of sketch based applications.
 | [SketchPatch: Sketch Stylization via Seamless Patch-level Synthesis](https://arxiv.org/abs/2009.02216) | SIGGRAPH Asia 2020 |  |
 | [Self-Supervised Sketch-to-Image Synthesis](https://arxiv.org/abs/2012.09290) | AAAI 2021 | [[code]](https://github.com/odegeasslbc/Self-Supervised-Sketch-to-Image-Synthesis-PyTorch) |
 | [CoGS: Controllable Generation and Search from Sketch and Style](https://arxiv.org/abs/2203.09554) | ECCV 2022 |  |
+| [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675) | WACV 2023 | [[project]](https://cyj407.github.io/DiSS/) [[code]](https://github.com/cyj407/DiSS) |
 
 
 ## 2. Sketch Based Image Editing
@@ -150,6 +151,7 @@ A collection of sketch based applications.
 | [Adaptive Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2207.01723) | ECCV 2022 |  |
 | [Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval](https://github.com/1069066484/CSR-ECCV2022) | ECCV 2022 | [[code]](https://github.com/1069066484/CSR-ECCV2022) |
 | [A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch](https://patsorn.me/projects/tsbir/paper.pdf) | ECCV 2022 | [[code]](https://github.com/janesjanes/tsbir) [[project]](https://patsorn.me/projects/tsbir/) |
+| [Multi-Level Region Matching for Fine-Grained Sketch-Based Image Retrieval](https://www.jiangtongli.me/publication/mlmr/mlmr.pdf) | ACM MM 2022 | [[code]](https://github.com/1069066484/MLRM-ACMMM2022) |
 
 
 - Scene-level
