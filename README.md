@@ -32,6 +32,7 @@ A collection of sketch based applications.
 - [20. Sketch Quality Measurement](#20-sketch-quality-measurement)
 - [21. Sketch for Medical Image Analysis](#21-sketch-for-medical-image-analysis)
 - [22. Cloud Augmentation with Sketches](#22-cloud-augmentation-with-sketches)
+- [23. Sketch and Re-identification](#23-sketch-and-re-identification)
 
 
 ---
@@ -58,6 +59,7 @@ A collection of sketch based applications.
 | [Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/abs/1909.08313v3) | ECCV 2020 |  [[code]](https://github.com/rt219/Unpaired-Sketch-to-Photo-Translation) [[project]](http://sketch.icsi.berkeley.edu/) |
 | [Adversarial Open Domain Adaption for Sketch-to-Photo Synthesis](https://arxiv.org/abs/2104.05703) | arxiv 2104 |  |
 | [Sketch Your Own GAN](https://arxiv.org/abs/2108.02774) | ICCV 2021 | [[code]](https://github.com/peterwang512/GANSketching) [[webpage]](https://peterwang512.github.io/GANSketching/) |
+| [Customizing GAN Using Few-Shot Sketches](https://dl.acm.org/doi/abs/10.1145/3503161.3548415) | ACM MM 2022 |  |
 
 
 - Human Face / Portrait
@@ -153,6 +155,7 @@ A collection of sketch based applications.
 | [Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval](https://github.com/1069066484/CSR-ECCV2022) | ECCV 2022 | [[code]](https://github.com/1069066484/CSR-ECCV2022) |
 | [A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch](https://patsorn.me/projects/tsbir/paper.pdf) | ECCV 2022 | [[code]](https://github.com/janesjanes/tsbir) [[project]](https://patsorn.me/projects/tsbir/) |
 | [Multi-Level Region Matching for Fine-Grained Sketch-Based Image Retrieval](https://www.jiangtongli.me/publication/mlmr/mlmr.pdf) | ACM MM 2022 | [[code]](https://github.com/1069066484/MLRM-ACMMM2022) |
+| [Prototype-based Selective Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3503161.3548382) | ACM MM 2022 |  |
 
 
 - Scene-level
@@ -564,4 +567,9 @@ A collection of sketch based applications.
 ## 22. Cloud Augmentation with Sketches
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [Cloud2Sketch: Augmenting Clouds with Imaginary Sketches](https://wanzy.me/research/cloud2sketch) | ACM MM 2022 | [[project]](https://wanzy.me/research/cloud2sketch) |
+| [Cloud2Sketch: Augmenting Clouds with Imaginary Sketches](https://dl.acm.org/doi/abs/10.1145/3503161.3547810) | ACM MM 2022 | [[project]](https://wanzy.me/research/cloud2sketch) |
+
+## 23. Sketch and Re-identification
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Cross-Compatible Embedding and Semantic Consistent Feature Construction for Sketch Re-identification](https://dl.acm.org/doi/abs/10.1145/3503161.3548224) | ACM MM 2022 | [[code]](https://github.com/lhf12278/CCSC) |
