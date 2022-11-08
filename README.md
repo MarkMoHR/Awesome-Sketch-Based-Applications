@@ -30,9 +30,8 @@ A collection of sketch based applications.
 - [18. Sketch and AR/VR](#18-sketch-and-arvr)
 - [19. Sketch Based Incremental Learning](#19-sketch-based-incremental-learning)
 - [20. Sketch Quality Measurement](#20-sketch-quality-measurement)
-- [21. Sketch for Medical Image Analysis](#21-sketch-for-medical-image-analysis)
-- [22. Cloud Augmentation with Sketches](#22-cloud-augmentation-with-sketches)
-- [23. Sketch and Re-identification](#23-sketch-and-re-identification)
+- [21. Cloud Augmentation with Sketches](#21-cloud-augmentation-with-sketches)
+- [22. Sketch and Re-identification](#22-sketch-and-re-identification)
 
 
 ---
@@ -559,17 +558,12 @@ A collection of sketch based applications.
 | --- | --- | --- |
 | [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf) | CVPR 2022 | |
 
-## 21. Sketch for Medical Image Analysis
-| Paper | Source | Code/Project Link  |
-| --- | --- | --- |
-| [Sketch-Based Editing and Deformation of Cardiac Image Segmentation](https://prism.ucalgary.ca/handle/1880/114827) | Arxiv | |
-
-## 22. Cloud Augmentation with Sketches
+## 21. Cloud Augmentation with Sketches
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Cloud2Sketch: Augmenting Clouds with Imaginary Sketches](https://dl.acm.org/doi/abs/10.1145/3503161.3547810) | ACM MM 2022 | [[project]](https://wanzy.me/research/cloud2sketch) |
 
-## 23. Sketch and Re-identification
+## 22. Sketch and Re-identification
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Cross-Compatible Embedding and Semantic Consistent Feature Construction for Sketch Re-identification](https://dl.acm.org/doi/abs/10.1145/3503161.3548224) | ACM MM 2022 | [[code]](https://github.com/lhf12278/CCSC) |
