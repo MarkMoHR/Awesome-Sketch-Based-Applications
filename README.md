@@ -136,6 +136,8 @@ A collection of sketch based applications.
 | [Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Semantic-Aware_Knowledge_Preservation_for_Zero-Shot_Sketch-Based_Image_Retrieval_ICCV_2019_paper.pdf) | ICCV 2019 |  |
 | [Semantic Adversarial Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/abs/1905.02327) | 1905.02327 |  |
 | [TC-Net for iSBIR: Triplet Classification Network for Instance-level Sketch Based Image Retrieval](http://www.eecs.qmul.ac.uk/~sgg/papers/LinEtAl_ACM_MM2019.pdf) | ACM MM 2019 |  |
+| [Sketch-Based Image Retrieval With Multi-Clustering Re-Ranking](https://ieeexplore.ieee.org/abstract/document/8933028) | TCSVT 2019 |  |
+| [Semi-Heterogeneous Three-Way Joint Embedding Network for Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/8809264) | TCSVT 2019 |  |
 | [Zero-Shot Sketch-Based Image Retrieval via Graph Convolution Network](https://ojs.aaai.org/index.php/AAAI/article/view/6993) | AAAI 2020 |  |
 | [Sketch Less for More: On-the-Fly Fine-Grained Sketch Based Image Retrieval](https://arxiv.org/abs/2002.10310) | CVPR 2020 | [[code]](https://github.com/AyanKumarBhunia/on-the-fly-FGSBIR) |
 | [Solving Mixed-modal Jigsaw Puzzle for Fine-Grained Sketch-Based Image Retrieval](http://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_Solving_Mixed-Modal_Jigsaw_Puzzle_for_Fine-Grained_Sketch-Based_Image_Retrieval_CVPR_2020_paper.pdf) | CVPR 2020 |  |
@@ -155,6 +157,7 @@ A collection of sketch based applications.
 | [A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch](https://patsorn.me/projects/tsbir/paper.pdf) | ECCV 2022 | [[code]](https://github.com/janesjanes/tsbir) [[project]](https://patsorn.me/projects/tsbir/) |
 | [Multi-Level Region Matching for Fine-Grained Sketch-Based Image Retrieval](https://www.jiangtongli.me/publication/mlmr/mlmr.pdf) | ACM MM 2022 | [[code]](https://github.com/1069066484/MLRM-ACMMM2022) |
 | [Prototype-based Selective Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3503161.3548382) | ACM MM 2022 |  |
+| [DLI-Net: Dual Local Interaction Network for Fine-Grained Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9766165) | TCSVT 2022 | [[code]](https://github.com/xjq1998/DLI-Net) |
 
 
 - Scene-level
@@ -204,6 +207,7 @@ A collection of sketch based applications.
 | [Interactive Liquid Splash Modeling by User Sketches](https://dl.acm.org/doi/abs/10.1145/3414685.3417832) | SIGGRAPH Asia 2020 |  |
 | [Monster Mash: A Single-View Approach to Casual 3D Modeling and Animation](https://dcgi.fel.cvut.cz/home/sykorad/Dvoroznak20-SA.pdf) | SIGGRAPH Asia 2020 | [[project]](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash) [[code]](https://github.com/google/monster-mash) [[demo]](http://monstermash.zone/) |
 | [SAniHead: Sketching Animal-like 3D Character Heads Using a View-surface Collaborative Mesh Generative Network](http://sweb.cityu.edu.hk/hongbofu/doc/2020TVCG_SAniHead.pdf) | TVCG 2020 |  |
+| [Towards Practical Sketch-Based 3D Shape Generation: The Role of Professional Sketches](https://ieeexplore.ieee.org/abstract/document/9272370) | TCSVT 2020 |  |
 | [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663) | CVPR 2021 |  |
 | [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/abs/2104.00482v1) | ICCV 2021 |  |
 | [Real-time Skeletonization for Sketch-based Modeling](https://arxiv.org/abs/2110.05805) | SMI 2021 | [[code]](https://github.com/jingma-git/RealSkel) |
@@ -481,6 +485,13 @@ A collection of sketch based applications.
 | [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) | CVPR 2020 | [[Code]](https://github.com/avalonstrel/SketchBERT) | Vector/stroke-level | Sketch recognition, retrieval, and gestalt |
 | [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://arxiv.org/abs/2103.13716) | CVPR 2021 | [[Code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) | Both Vector and Raster-level | Recognition |
 
+
+- Few/Zero-shot Learning
+
+| Paper | Source | Code/Project Link | Data Manner | Related Applications |
+| --- | --- | --- | --- | --- |
+| [On Learning Semantic Representations for Large-Scale Abstract Sketches](https://ieeexplore.ieee.org/abstract/document/9274399) | TCSVT 2020 | [[Code]](https://github.com/PengBoXiangShang/EdgeMap345C_Dataset) | Bitmap and Vector | Retrieval and recognition |
+| [Sketch Fewer to Recognize More by Learning a Co-Regularized Sparse Representation](https://ieeexplore.ieee.org/abstract/document/8949551) | TCSVT 2019 |  |  | few-shot classification |
 
 - Other kinds of sketch representation
 
