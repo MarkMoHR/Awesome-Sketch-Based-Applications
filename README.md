@@ -10,7 +10,8 @@ A collection of sketch based applications.
 - [0. Survey](#0-survey)
 - [1. Sketch Based Image Synthesis](#1-sketch-based-image-synthesis)
   - [1.1 Automatic Synthesis](#11-automatic-synthesis)
-  - [1.2 Style-based Synthesis](#12-style-based-synthesis)
+  - [1.2 Style-conditioned](#12-style-conditioned)
+  - [1.3 Text-conditioned](#13-text-conditioned)
 - [2. Sketch Based Image Editing](#2-sketch-based-image-editing)
 - [3. Sketch Based Image Retrieval (SBIR)](#3-sketch-based-image-retrieval-sbir)
 - [4. Sketch Based 3D Shape Retrieval](#4-sketch-based-3d-shape-retrieval)
@@ -72,7 +73,7 @@ A collection of sketch based applications.
 | [DrawingInStyles: Portrait Image Generation and Editing with Spatially Conditioned StyleGAN](http://sweb.cityu.edu.hk/hongbofu/doc/DrawingInStyles_TVCG22.pdf) | TVCG 2022 |  |
 | [DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches](https://arxiv.org/abs/2205.02070) | arxiv 22.05 |  |
 
-### 1.2 Style-based Synthesis
+### 1.2 Style-conditioned
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -83,6 +84,11 @@ A collection of sketch based applications.
 | [CoGS: Controllable Generation and Search from Sketch and Style](https://arxiv.org/abs/2203.09554) | ECCV 2022 |  |
 | [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675) | WACV 2023 | [[project]](https://cyj407.github.io/DiSS/) [[code]](https://github.com/cyj407/DiSS) |
 
+### 1.3 Text-conditioned
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Sketch-Guided Text-to-Image Diffusion Models](https://arxiv.org/abs/2211.13752) | arxiv 22.11 | [[project]](https://sketch-guided-diffusion.github.io/) |
 
 ## 2. Sketch Based Image Editing
 
