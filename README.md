@@ -479,6 +479,7 @@ A collection of sketch based applications.
 | [Im2Vec: Synthesizing Vector Graphics without Vector Supervision](https://arxiv.org/abs/2102.02798) | CVPR 2021 | [[Project]](http://geometry.cs.ucl.ac.uk/projects/2021/im2vec/) [[code]](https://github.com/preddy5/Im2Vec) | SVG | Vector Graphics reconstruction and interpolation |
 | [DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning](https://arxiv.org/abs/2110.06688) | SIGGRAPH Asia 2021 | [[Project]](https://yizhiwang96.github.io/deepvecfont_homepage/) [[code]](https://github.com/yizhiwang96/deepvecfont) | SVG | Vector font generation and interpolation |
 | [SketchODE: Learning neural sketch representation in continuous time](https://openreview.net/pdf?id=c-4HSDAWua5) | ICLR 2022 | [[Project]](https://ayandas.me/sketchode) | Vector/Stroke-level | Continuous-time representation, reconstruction & interpolation |
+| [Linking Sketch Patches by Learning Synonymous Proximity for Graphic Sketch Representation](https://arxiv.org/abs/2211.16841) | AAAI 2023 | [[code]](https://github.com/CMACH508/SP-gra2seq) | Vector/Stroke-level | Sketch synthesis and sketch healing |
 
 
 - Self-supervised Representation Learning
