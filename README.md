@@ -60,6 +60,7 @@ A collection of sketch based applications.
 | [Sketch Your Own GAN](https://arxiv.org/abs/2108.02774) | ICCV 2021 | [[code]](https://github.com/peterwang512/GANSketching) [[webpage]](https://peterwang512.github.io/GANSketching/) |
 | [Adversarial Open Domain Adaption for Sketch-to-Photo Synthesis](https://arxiv.org/abs/2104.05703) | WACV 2022 | [[code]](https://github.com/Mukosame/AODA) |
 | [Customizing GAN Using Few-Shot Sketches](https://dl.acm.org/doi/abs/10.1145/3503161.3548415) | ACM MM 2022 |  |
+| [DiffSketching: Sketch Control Image Synthesis with Diffusion Models](https://bmvc2022.mpi-inf.mpg.de/0067.pdf) | BMVC 2022 | [[code]](https://github.com/XDUWQ/DiffSketching) | 
 
 
 - Human Face / Portrait
@@ -220,6 +221,7 @@ A collection of sketch based applications.
 | [Structure-aware Editable Morphable Model for 3D Facial Detail Animation and Manipulation](https://arxiv.org/abs/2207.09019) | ECCV 2022 | [[code]](https://github.com/gerwang/facial-detail-manipulation) |
 | [SketchSampler: Sketch-based 3D Reconstruction via View-dependent Depth Sampling](https://arxiv.org/abs/2208.06880) | ECCV 2022 | [[code]](https://github.com/cjeen/sketchsampler) |
 | [Deep Reconstruction of 3D Smoke Densities from Artist Sketches](http://www.byungsoo.me/project/sketch2density/paper.pdf) | EG 2022 | [[project]](http://www.byungsoo.me/project/sketch2density/) [[code]](https://github.com/byungsook/sketch2fluid) |
+|[A Diffusion-ReFinement Model for Sketch-to-Point Modeling](https://openaccess.thecvf.com/content/ACCV2022/papers/Kong_A_Diffusion-ReFinement_Model_for_Sketch-to-Point_Modeling_ACCV_2022_paper.pdf)| ACCV 2022 | [[code]](https://github.com/Walterkd/diffusion-refine-sketch2point) |
 
 
 
