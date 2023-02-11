@@ -90,6 +90,7 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Sketch-Guided Text-to-Image Diffusion Models](https://arxiv.org/abs/2211.13752) | arxiv 22.11 | [[project]](https://sketch-guided-diffusion.github.io/) |
+| [Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet/raw/main/github_page/control.pdf) | 23.02 | [[code]](https://github.com/lllyasviel/ControlNet) |
 
 ## 2. Sketch Based Image Editing
 
