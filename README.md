@@ -73,6 +73,7 @@ A collection of sketch based applications.
 | [Controllable Sketch-to-Image Translation for Robust Face Synthesis](https://ieeexplore.ieee.org/abstract/document/9583954) | TIP 2021 |  |
 | [DrawingInStyles: Portrait Image Generation and Editing with Spatially Conditioned StyleGAN](http://sweb.cityu.edu.hk/hongbofu/doc/DrawingInStyles_TVCG22.pdf) | TVCG 2022 |  |
 | [DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches](https://arxiv.org/abs/2205.02070) | arxiv 22.05 |  |
+| [Semantics-Preserving Sketch Embedding for Face Generation](https://arxiv.org/abs/2211.13015) | TMM 2023 | [[project]](http://staff.ustc.edu.cn/~xjchen99/sketchFaceTMM/sketchFaceTmm.htm) [[code]](https://github.com/BinxinYang/Semantics-Preserving-Sketch-Embedding-for-Face-Generation) |
 
 ### 1.2 Style-conditioned
 
