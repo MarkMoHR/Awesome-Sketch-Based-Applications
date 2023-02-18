@@ -61,6 +61,7 @@ A collection of sketch based applications.
 | [Adversarial Open Domain Adaption for Sketch-to-Photo Synthesis](https://arxiv.org/abs/2104.05703) | WACV 2022 | [[code]](https://github.com/Mukosame/AODA) |
 | [Customizing GAN Using Few-Shot Sketches](https://dl.acm.org/doi/abs/10.1145/3503161.3548415) | ACM MM 2022 |  |
 | [DiffSketching: Sketch Control Image Synthesis with Diffusion Models](https://bmvc2022.mpi-inf.mpg.de/0067.pdf) | BMVC 2022 | [[code]](https://github.com/XDUWQ/DiffSketching) | 
+| [MaskSketch: Unpaired Structure-guided Masked Image Generation](https://arxiv.org/abs/2302.05496) | arxiv 23.02 | | 
 
 
 - Human Face / Portrait
@@ -74,6 +75,12 @@ A collection of sketch based applications.
 | [DrawingInStyles: Portrait Image Generation and Editing with Spatially Conditioned StyleGAN](http://sweb.cityu.edu.hk/hongbofu/doc/DrawingInStyles_TVCG22.pdf) | TVCG 2022 |  |
 | [DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches](https://arxiv.org/abs/2205.02070) | arxiv 22.05 |  |
 | [Semantics-Preserving Sketch Embedding for Face Generation](https://arxiv.org/abs/2211.13015) | TMM 2023 | [[project]](http://staff.ustc.edu.cn/~xjchen99/sketchFaceTMM/sketchFaceTmm.htm) [[code]](https://github.com/BinxinYang/Semantics-Preserving-Sketch-Embedding-for-Face-Generation) |
+
+- 3D image
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [3D-aware Conditional Image Synthesis](https://arxiv.org/abs/2302.08509) | arxiv 23.02 | [[project]](https://www.cs.cmu.edu/~pix2pix3D/) [[code]](https://github.com/dunbar12138/pix2pix3D) |
 
 ### 1.2 Style-conditioned
 
@@ -92,6 +99,7 @@ A collection of sketch based applications.
 | --- | --- | --- |
 | [Sketch-Guided Text-to-Image Diffusion Models](https://arxiv.org/abs/2211.13752) | arxiv 22.11 | [[project]](https://sketch-guided-diffusion.github.io/) |
 | [Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet/raw/main/github_page/control.pdf) | 23.02 | [[code]](https://github.com/lllyasviel/ControlNet) |
+| [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.08453) | arxiv 23.02 | [[code]](https://github.com/TencentARC/T2I-Adapter) |
 
 ## 2. Sketch Based Image Editing
 
