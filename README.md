@@ -75,6 +75,7 @@ A collection of sketch based applications.
 | [DrawingInStyles: Portrait Image Generation and Editing with Spatially Conditioned StyleGAN](http://sweb.cityu.edu.hk/hongbofu/doc/DrawingInStyles_TVCG22.pdf) | TVCG 2022 |  |
 | [DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches](https://arxiv.org/abs/2205.02070) | arxiv 22.05 |  |
 | [Semantics-Preserving Sketch Embedding for Face Generation](https://arxiv.org/abs/2211.13015) | TMM 2023 | [[project]](http://staff.ustc.edu.cn/~xjchen99/sketchFaceTMM/sketchFaceTmm.htm) [[code]](https://github.com/BinxinYang/Semantics-Preserving-Sketch-Embedding-for-Face-Generation) |
+| [Parsing-Conditioned Anime Translation: A New Dataset and Method](https://dl.acm.org/doi/abs/10.1145/3585002) | TOG 2023 | [[code]](https://github.com/zsl2018/StyleAnime) |
 
 - 3D image
 
@@ -575,6 +576,7 @@ A collection of sketch based applications.
 | [HandPainter - 3D Sketching in VR with Hand-based Physical Proxy](https://dl.acm.org/doi/abs/10.1145/3411764.3445302) | CHI 2021 | [[video]](https://youtu.be/x5VAU-471P8) |
 | [Fine-Grained VR Sketching: Dataset and Insights](https://ieeexplore.ieee.org/abstract/document/9665875/) | 3DV 2021 | [[code]](https://github.com/Rowl1ng/Fine-Grained_VR_Sketching) |
 | [Structure-Aware 3D VR Sketch to 3D Shape Retrieval](https://github.com/Rowl1ng/Structure-Aware-VR-Sketch-Shape-Retrieval) | 3DV 2022 | [[code]](https://github.com/Rowl1ng/Structure-Aware-VR-Sketch-Shape-Retrieval) |
+| [GestureSurface: VR Sketching through Assembling Scaffold Surface with Non-Dominant Hand](https://ieeexplore.ieee.org/abstract/document/10049645) | TVCG 2023 |  |
 
 
 ## 19. Sketch Based Incremental Learning
