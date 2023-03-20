@@ -174,6 +174,7 @@ A collection of sketch based applications.
 | [Multi-Level Region Matching for Fine-Grained Sketch-Based Image Retrieval](https://www.jiangtongli.me/publication/mlmr/mlmr.pdf) | ACM MM 2022 | [[code]](https://github.com/1069066484/MLRM-ACMMM2022) |
 | [Prototype-based Selective Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3503161.3548382) | ACM MM 2022 |  |
 | [DLI-Net: Dual Local Interaction Network for Fine-Grained Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9766165) | TCSVT 2022 | [[code]](https://github.com/xjq1998/DLI-Net) |
+| [Data-Free Sketch-Based Image Retrieval](https://arxiv.org/abs/2303.07775) | CVPR 2023 |  |
 
 
 - Scene-level
@@ -305,7 +306,8 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Sketch-Guided Object Localization in Natural Images](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510528.pdf) | ECCV 2020 | [[project]](http://visual-computing.in/sketch-guided-object-localization/) [[code]](https://github.com/IISCAditayTripathi/SketchGuidedLocalization) |
-| [Localizing Infinity-shaped fishes: Sketch-guided object localization in the wild](https://arxiv.org/abs/2109.11874) | arxiv 2109 | [[code]](https://github.com/priba/sgol_wild) |
+| [Localizing Infinity-shaped fishes: Sketch-guided object localization in the wild](https://arxiv.org/abs/2109.11874) | arxiv 21.09 | [[code]](https://github.com/priba/sgol_wild) |
+| [Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch](https://arxiv.org/abs/2303.08784) | arxiv 23.03 | |
 
 ## 12. Sketch-Guided Video Synthesis
 
@@ -479,7 +481,7 @@ A collection of sketch based applications.
 | [Abstracting Sketches through Simple Primitives](https://github.com/ExplainableML/sketch-primitives) | ECCV 2022 | [[code]](https://github.com/ExplainableML/sketch-primitives) | Vector/stroke-level | Sketch recognition, FG-SBIR |
 
 
-- Supervised Representation Learning
+- Conventional Representation Learning
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
@@ -489,35 +491,29 @@ A collection of sketch based applications.
 | [Sketchformer: Transformer-based Representation for Sketched Structure](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ribeiro_Sketchformer_Transformer-Based_Representation_for_Sketched_Structure_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/leosampaio/sketchformer) | Vector/stroke-level | Sketch classification, SBIR, reconstruction and interpolation |
 | [CoSE: Compositional Stroke Embeddings](https://papers.nips.cc/paper/2020/file/723e8f97fde15f7a8d5ff8d558ea3f16-Paper.pdf) | NeurIPS 2020 | [[Code]](https://github.com/eth-ait/cose) | Vector/stroke-level | Auto-completing diagrams |
 | [DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation](https://arxiv.org/abs/2007.11301) | NeurIPS 2020 | [[Code]](https://github.com/alexandre01/deepsvg)  [[Project]](https://blog.alexandrecarlier.com/deepsvg/) | SVG | Vector Graphics Animation, reconstruction and interpolation |
-| [Im2Vec: Synthesizing Vector Graphics without Vector Supervision](https://arxiv.org/abs/2102.02798) | CVPR 2021 | [[Project]](http://geometry.cs.ucl.ac.uk/projects/2021/im2vec/) [[code]](https://github.com/preddy5/Im2Vec) | SVG | Vector Graphics reconstruction and interpolation |
-| [DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning](https://arxiv.org/abs/2110.06688) | SIGGRAPH Asia 2021 | [[Project]](https://yizhiwang96.github.io/deepvecfont_homepage/) [[code]](https://github.com/yizhiwang96/deepvecfont) | SVG | Vector font generation and interpolation |
+| [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 | [[code]](https://github.com/qugank/sketch-lattice.github.io) | Lattice graph | Sketch healing and image-to-sketch synthesis |
 | [SketchODE: Learning neural sketch representation in continuous time](https://openreview.net/pdf?id=c-4HSDAWua5) | ICLR 2022 | [[Project]](https://ayandas.me/sketchode) | Vector/Stroke-level | Continuous-time representation, reconstruction & interpolation |
 | [Linking Sketch Patches by Learning Synonymous Proximity for Graphic Sketch Representation](https://arxiv.org/abs/2211.16841) | AAAI 2023 | [[code]](https://github.com/CMACH508/SP-gra2seq) | Vector/Stroke-level | Sketch synthesis and sketch healing |
 | [SketchKnitter: Vectorized Sketch Generation with Diffusion Models](https://openreview.net/forum?id=4eJ43EN2g6l) | ICLR 2023 |  | Vector/Stroke-level | vectorized sketch generation |
 | [ChiroDiff: Modelling chirographic data with Diffusion Models](https://openreview.net/forum?id=1ROAstc9jv) | ICLR 2023 | [[Project]](https://ayandas.me/chirodiff) | Vector/Stroke-level | vectorization, de-noising/healing, abstraction |
 
 
-- Self-supervised Representation Learning
+- Self-supervised or few/zero-shot learning
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
+| [Sketch Fewer to Recognize More by Learning a Co-Regularized Sparse Representation](https://ieeexplore.ieee.org/abstract/document/8949551) | TCSVT 2019 |  |  | few-shot classification |
+| [On Learning Semantic Representations for Large-Scale Abstract Sketches](https://ieeexplore.ieee.org/abstract/document/9274399) | TCSVT 2020 | [[Code]](https://github.com/PengBoXiangShang/EdgeMap345C_Dataset) | Bitmap and Vector | Retrieval and recognition |
 | [Deep Self-Supervised Representation Learning for Free-Hand Sketch](https://arxiv.org/abs/2002.00867) | TCSVT 2020 | [[Code]](https://github.com/zzz1515151/self-supervised_learning_sketch) | Vector/stroke-level | Retrieval and recognition |
 | [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) | CVPR 2020 | [[Code]](https://github.com/avalonstrel/SketchBERT) | Vector/stroke-level | Sketch recognition, retrieval, and gestalt |
 | [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://arxiv.org/abs/2103.13716) | CVPR 2021 | [[Code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) | Both Vector and Raster-level | Recognition |
 
 
-- Few/Zero-shot Learning
+- Scene-level
 
-| Paper | Source | Code/Project Link | Data Manner | Related Applications |
-| --- | --- | --- | --- | --- |
-| [On Learning Semantic Representations for Large-Scale Abstract Sketches](https://ieeexplore.ieee.org/abstract/document/9274399) | TCSVT 2020 | [[Code]](https://github.com/PengBoXiangShang/EdgeMap345C_Dataset) | Bitmap and Vector | Retrieval and recognition |
-| [Sketch Fewer to Recognize More by Learning a Co-Regularized Sparse Representation](https://ieeexplore.ieee.org/abstract/document/8949551) | TCSVT 2019 |  |  | few-shot classification |
-
-- Other kinds of sketch representation
-
-| Paper | Source | Code/Project Link | Data Manner | Related Applications |
-| --- | --- | --- | --- | --- |
-| [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 | [[code]](https://github.com/qugank/sketch-lattice.github.io) | Lattice graph | Sketch healing and image-to-sketch synthesis |
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text](https://arxiv.org/abs/2204.11964) | CVPR 2023 |  |
                                                                                        
                                                                                        
 ## 16. Sketch and Visual Correspondence
