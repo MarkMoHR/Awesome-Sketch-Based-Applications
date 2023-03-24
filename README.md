@@ -62,6 +62,7 @@ A collection of sketch based applications.
 | [Customizing GAN Using Few-Shot Sketches](https://dl.acm.org/doi/abs/10.1145/3503161.3548415) | ACM MM 2022 |  |
 | [DiffSketching: Sketch Control Image Synthesis with Diffusion Models](https://bmvc2022.mpi-inf.mpg.de/0067.pdf) | BMVC 2022 | [[code]](https://github.com/XDUWQ/DiffSketching) | 
 | [MaskSketch: Unpaired Structure-guided Masked Image Generation](https://arxiv.org/abs/2302.05496) | arxiv 23.02 | | 
+| [Picture that Sketch: Photorealistic Image Generation from Abstract Sketches](https://arxiv.org/abs/2303.11162) | CVPR 2023 | [[project]](https://subhadeepkoley.github.io/PictureThatSketch/) [[code]](https://github.com/subhadeepkoley/PictureThatSketch) | 
 
 
 - Human Face / Portrait
@@ -236,6 +237,11 @@ A collection of sketch based applications.
 |[A Diffusion-ReFinement Model for Sketch-to-Point Modeling](https://openaccess.thecvf.com/content/ACCV2022/papers/Kong_A_Diffusion-ReFinement_Model_for_Sketch-to-Point_Modeling_ACCV_2022_paper.pdf)| ACCV 2022 | [[code]](https://github.com/Walterkd/diffusion-refine-sketch2point) |
 
 
+- NeRF
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [SKED: Sketch-guided Text-based 3D Editing](https://arxiv.org/abs/2303.10735) | CVPR 2023 |  |
 
 - CAD sketch
 
