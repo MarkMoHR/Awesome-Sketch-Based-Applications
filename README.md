@@ -176,6 +176,7 @@ A collection of sketch based applications.
 | [Prototype-based Selective Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3503161.3548382) | ACM MM 2022 |  |
 | [DLI-Net: Dual Local Interaction Network for Fine-Grained Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9766165) | TCSVT 2022 | [[code]](https://github.com/xjq1998/DLI-Net) |
 | [Data-Free Sketch-Based Image Retrieval](https://arxiv.org/abs/2303.07775) | CVPR 2023 |  |
+| [Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style](https://github.com/buptLinfy/ZSE-SBIR) | CVPR 2023 | [[code]](https://github.com/buptLinfy/ZSE-SBIR) |
 
 
 - Scene-level
@@ -500,7 +501,7 @@ A collection of sketch based applications.
 | [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 | [[code]](https://github.com/qugank/sketch-lattice.github.io) | Lattice graph | Sketch healing and image-to-sketch synthesis |
 | [SketchODE: Learning neural sketch representation in continuous time](https://openreview.net/pdf?id=c-4HSDAWua5) | ICLR 2022 | [[Project]](https://ayandas.me/sketchode) | Vector/Stroke-level | Continuous-time representation, reconstruction & interpolation |
 | [Linking Sketch Patches by Learning Synonymous Proximity for Graphic Sketch Representation](https://arxiv.org/abs/2211.16841) | AAAI 2023 | [[code]](https://github.com/CMACH508/SP-gra2seq) | Vector/Stroke-level | Sketch synthesis and sketch healing |
-| [SketchKnitter: Vectorized Sketch Generation with Diffusion Models](https://openreview.net/forum?id=4eJ43EN2g6l) | ICLR 2023 |  | Vector/Stroke-level | vectorized sketch generation |
+| [SketchKnitter: Vectorized Sketch Generation with Diffusion Models](https://openreview.net/forum?id=4eJ43EN2g6l) | ICLR 2023 | [[code]](https://github.com/XDUWQ/SketchKnitter) | Vector/Stroke-level | vectorized sketch generation |
 | [ChiroDiff: Modelling chirographic data with Diffusion Models](https://openreview.net/forum?id=1ROAstc9jv) | ICLR 2023 | [[Project]](https://ayandas.me/chirodiff) | Vector/Stroke-level | vectorization, de-noising/healing, abstraction |
 
 
