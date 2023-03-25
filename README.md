@@ -33,7 +33,7 @@ A collection of sketch based applications.
 - [20. Sketch Quality Measurement](#20-sketch-quality-measurement)
 - [21. Cloud Augmentation with Sketches](#21-cloud-augmentation-with-sketches)
 - [22. Sketch and Re-identification](#22-sketch-and-re-identification)
-
+- [23. Sketch-based Salient Object Detection](#23-sketch-based-salient-object-detection)
 
 ---
 
@@ -601,3 +601,8 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Cross-Compatible Embedding and Semantic Consistent Feature Construction for Sketch Re-identification](https://dl.acm.org/doi/abs/10.1145/3503161.3548224) | ACM MM 2022 | [[code]](https://github.com/lhf12278/CCSC) |
+
+## 23. Sketch-based Salient Object Detection
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings](https://arxiv.org/abs/2303.11502) | CVPR 2023 |  |
