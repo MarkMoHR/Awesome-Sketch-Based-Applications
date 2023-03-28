@@ -177,6 +177,8 @@ A collection of sketch based applications.
 | [DLI-Net: Dual Local Interaction Network for Fine-Grained Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9766165) | TCSVT 2022 | [[code]](https://github.com/xjq1998/DLI-Net) |
 | [Data-Free Sketch-Based Image Retrieval](https://arxiv.org/abs/2303.07775) | CVPR 2023 |  |
 | [Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style](https://github.com/buptLinfy/ZSE-SBIR) | CVPR 2023 | [[code]](https://github.com/buptLinfy/ZSE-SBIR) |
+| [Exploiting Unlabelled Photos for Stronger Fine-Grained SBIR](https://arxiv.org/abs/2303.13779) | CVPR 2023 | [[project]](https://aneeshan95.github.io/Sketch_PVT/) |
+| [CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not](https://arxiv.org/abs/2303.13440) | CVPR 2023 | [[project]](https://aneeshan95.github.io/Sketch_LVM/) |
 
 
 - Scene-level
@@ -315,6 +317,7 @@ A collection of sketch based applications.
 | [Sketch-Guided Object Localization in Natural Images](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510528.pdf) | ECCV 2020 | [[project]](http://visual-computing.in/sketch-guided-object-localization/) [[code]](https://github.com/IISCAditayTripathi/SketchGuidedLocalization) |
 | [Localizing Infinity-shaped fishes: Sketch-guided object localization in the wild](https://arxiv.org/abs/2109.11874) | arxiv 21.09 | [[code]](https://github.com/priba/sgol_wild) |
 | [Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch](https://arxiv.org/abs/2303.08784) | arxiv 23.03 | |
+| [What Can Human Sketches Do for Object Detection?](https://arxiv.org/abs/2303.15149) | CVPR 2023 | [[project]](http://www.pinakinathc.me/sketch-detect/) |
 
 ## 12. Sketch-Guided Video Synthesis
 
@@ -338,8 +341,6 @@ A collection of sketch based applications.
 | [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf) | ICCV 2021 |  |
 | [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 | [[code]](https://github.com/qugank/sketch-lattice.github.io) |
 | [Multi-Stage Spatio-Temporal Networks for Robust Sketch Recognition](https://ieeexplore.ieee.org/abstract/document/9740528/) | TIP 2022 |  |
-
-
 
 
 
