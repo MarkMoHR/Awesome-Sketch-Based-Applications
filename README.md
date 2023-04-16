@@ -179,6 +179,7 @@ A collection of sketch based applications.
 | [Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style](https://github.com/buptLinfy/ZSE-SBIR) | CVPR 2023 | [[code]](https://github.com/buptLinfy/ZSE-SBIR) |
 | [Exploiting Unlabelled Photos for Stronger Fine-Grained SBIR](https://arxiv.org/abs/2303.13779) | CVPR 2023 | [[project]](https://aneeshan95.github.io/Sketch_PVT/) |
 | [CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not](https://arxiv.org/abs/2303.13440) | CVPR 2023 | [[project]](https://aneeshan95.github.io/Sketch_LVM/) |
+| [Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10098211) | TCSVT 2023 |  |
 
 
 - Scene-level
@@ -563,8 +564,8 @@ A collection of sketch based applications.
 | --- | --- | :--: | --- |
 | [Autocomplete Hand-drawn Animations](http://junxnui.github.io/research/siga15_autocomplete_handdrawn_animations.pdf) | SIGGRAPH Asia 2015 | stroke | [[webpage]](https://iis-lab.org/research/autocomplete-animations/) [[video]](https://youtu.be/w0YmWiy6sA4) |
 | [Live Sketch: Video-driven Dynamic Deformation of Static Drawings](http://sweb.cityu.edu.hk/hongbofu/doc/livesketch_CHI2018.pdf) | CHI 2018 | vector | [[video]](https://youtu.be/6DjQR5k286E) |
-| [Animated Drawings (Meta AI)](https://ai.facebook.com/blog/using-ai-to-bring-childrens-drawings-to-life/) | 2021 | image | [[demo]](https://sketch.metademolab.com/) |
-| [Animating Portrait Line Drawings from a Single Face Photo and a Speech Signal](https://github.com/AnimatePortrait/AnimatePortrait) | SIGGRAPH 2022 | image | [[code]](https://github.com/AnimatePortrait/AnimatePortrait) |
+| [Animating Portrait Line Drawings from a Single Face Photo and a Speech Signal](https://dl.acm.org/doi/abs/10.1145/3528233.3530720) | SIGGRAPH 2022 | image | [[code]](https://github.com/AnimatePortrait/AnimatePortrait) |
+| [A Method for Animating Children’s Drawings of the Human Figure](https://arxiv.org/abs/2303.12741) | TOG 2023 | image | [[code]](https://github.com/facebookresearch/AnimatedDrawings) [[project]](https://people.csail.mit.edu/liyifei/publication/children-animated-drawings/) [[demo]](https://sketch.metademolab.com/canvas) |
 
 
 ## 18. Sketch and AR/VR
