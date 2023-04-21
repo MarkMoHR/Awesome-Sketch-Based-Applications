@@ -487,7 +487,8 @@ A collection of sketch based applications.
 | [Pixelor: a competitive sketching AI agent. So you think you can sketch?](https://dl.acm.org/doi/pdf/10.1145/3414685.3417840) | SIGGRAPH Asia 2020 | [[Project]](http://sketchx.ai/pixelor) [[Code]](https://github.com/dasayan05/neuralsort-siggraph) | Vector/stroke-level | Sketch synthesis and recognition |
 | [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf) | ICCV 2021 |  | Vector/stroke-level | Sketch recognition, FB-SBIR, sketch healing |
 | [CLIPasso: Semantically-Aware Object Sketching](https://arxiv.org/abs/2202.05822) | SIGGRAPH 2022 | [[project]](https://clipasso.github.io/clipasso/) [[code]](https://github.com/yael-vinker/CLIPasso) | Vector/stroke-level |  |
-| [Abstracting Sketches through Simple Primitives](https://github.com/ExplainableML/sketch-primitives) | ECCV 2022 | [[code]](https://github.com/ExplainableML/sketch-primitives) | Vector/stroke-level | Sketch recognition, FG-SBIR |
+| [Abstracting Sketches through Simple Primitives](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_23) | ECCV 2022 | [[code]](https://github.com/ExplainableML/sketch-primitives) | Vector/stroke-level | Sketch recognition, FG-SBIR |
+| [Learning Geometry-aware Representations by Sketching](https://arxiv.org/abs/2304.08204) | CVPR 2023 | | Vector/stroke-level | object attribute classification, domain transfer, stroke-based generation, FG-SBIR |
 
 
 - Conventional Representation Learning
