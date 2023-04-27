@@ -124,6 +124,8 @@ A collection of sketch based applications.
 | [DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample](https://arxiv.org/abs/2109.06151) | ICCV 2021 | [[code]](https://github.com/eliahuhorwitz/DeepSIM) [[project]](http://www.vision.huji.ac.il/deepsim/) |
 | [SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches](https://arxiv.org/abs/2111.15078) | CVPR 2022 | [[code]](https://github.com/zengxianyu/sketchedit) [[project]](https://zengxianyu.github.io/sketchedit/) |
 | [Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing](https://arxiv.org/abs/2208.08092) | ECCV 2022 | [[code]](https://github.com/1jsingh/paint2pix) [[project]](https://1jsingh.github.io/paint2pix) |
+| [NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://dl.acm.org/doi/abs/10.1145/3550469.3555377) | SIGGRAPH Asia 2022 | [[project]](http://geometrylearning.com/NeRFFaceEditing/) |
+| [Sketch-based Facial Generation and Editing in Neural Radiance Fields](http://geometrylearning.com/lin/) | SIGGRAPH 2023 |  |
 
 - Video Editing
 
