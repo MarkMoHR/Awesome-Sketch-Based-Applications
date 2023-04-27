@@ -241,6 +241,7 @@ A collection of sketch based applications.
 | [SketchSampler: Sketch-based 3D Reconstruction via View-dependent Depth Sampling](https://arxiv.org/abs/2208.06880) | ECCV 2022 | [[code]](https://github.com/cjeen/sketchsampler) |
 | [Deep Reconstruction of 3D Smoke Densities from Artist Sketches](http://www.byungsoo.me/project/sketch2density/paper.pdf) | EG 2022 | [[project]](http://www.byungsoo.me/project/sketch2density/) [[code]](https://github.com/byungsook/sketch2fluid) |
 |[A Diffusion-ReFinement Model for Sketch-to-Point Modeling](https://openaccess.thecvf.com/content/ACCV2022/papers/Kong_A_Diffusion-ReFinement_Model_for_Sketch-to-Point_Modeling_ACCV_2022_paper.pdf)| ACCV 2022 | [[code]](https://github.com/Walterkd/diffusion-refine-sketch2point) |
+|[RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset](https://arxiv.org/abs/2303.12564)| CVPR 2023 | [[project]](https://gaplab.cuhk.edu.cn/projects/RaBit/) |
 
 
 - NeRF
