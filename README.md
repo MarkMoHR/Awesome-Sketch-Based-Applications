@@ -99,7 +99,7 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [Sketch-Guided Text-to-Image Diffusion Models](https://arxiv.org/abs/2211.13752) | arxiv 22.11 | [[project]](https://sketch-guided-diffusion.github.io/) |
+| [Sketch-Guided Text-to-Image Diffusion Models](https://arxiv.org/abs/2211.13752) | SIGGRAPH 2023 | [[project]](https://sketch-guided-diffusion.github.io/) |
 | [Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet/raw/main/github_page/control.pdf) | 23.02 | [[code]](https://github.com/lllyasviel/ControlNet) |
 | [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.08453) | arxiv 23.02 | [[code]](https://github.com/TencentARC/T2I-Adapter) |
 
