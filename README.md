@@ -105,7 +105,17 @@ A collection of sketch based applications.
 
 ## 2. Sketch Based Image Editing
 
-- Image Editing
+- Arbitrary Image
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589) (DeepFill v2) | ICCV 2019 | [[project]](http://jiahuiyu.com/deepfill) [[code]](https://github.com/JiahuiYu/generative_inpainting) |
+| [Fashion Editing with Multi-scale Attention Normalization](https://arxiv.org/pdf/1906.00884.pdf) | 1906.00884 |  |
+| [DeFLOCNet: Deep Image Editing via Flexible Low-level Controls](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_DeFLOCNet_Deep_Image_Editing_via_Flexible_Low-Level_Controls_CVPR_2021_paper.pdf) | CVPR 2021 | [[code]](https://github.com/KumapowerLIU/DeFLOCNet) |
+| [DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample](https://arxiv.org/abs/2109.06151) | ICCV 2021 | [[code]](https://github.com/eliahuhorwitz/DeepSIM) [[project]](http://www.vision.huji.ac.il/deepsim/) |
+| [SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches](https://arxiv.org/abs/2111.15078) | CVPR 2022 | [[code]](https://github.com/zengxianyu/sketchedit) [[project]](https://zengxianyu.github.io/sketchedit/) |
+
+- Human Face / Portrait / Hair
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -113,19 +123,14 @@ A collection of sketch based applications.
 | [CaricatureShop: Personalized and Photorealistic Caricature Sketching](https://ieeexplore.ieee.org/document/8580421) | TVCG 2018 |  |
 | [Sparse, Smart Contours to Represent and Edit Images](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dekel_Sparse_Smart_Contours_CVPR_2018_paper.pdf) | CVPR 2018 | [[project]](https://contour2im.github.io/) |
 | [Example-Guided Style-Consistent Image Synthesis from Semantic Labeling](https://arxiv.org/pdf/1906.01314) | CVPR 2019 | [[code]](https://github.com/cxjyxxme/pix2pixSC) |
-| [Free-Form Image Inpainting with Gated Convolution](https://arxiv.org/abs/1806.03589) (DeepFill v2) | ICCV 2019 | [[project]](http://jiahuiyu.com/deepfill) [[code]](https://github.com/JiahuiYu/generative_inpainting) |
 | [SC-FEGAN: Face Editing Generative Adversarial Network With User's Sketch and Color](http://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/run-youngjoo/SC-FEGAN) |
-| [Fashion Editing with Multi-scale Attention Normalization](https://arxiv.org/pdf/1906.00884.pdf) | 1906.00884 |  |
 | [Intuitive, Interactive Beard and Hair Synthesis with Generative Models](https://arxiv.org/abs/2004.06848) | CVPR 2020 |  |
 | [Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches](https://arxiv.org/abs/2001.02890) | ECCV 2020 | [[code]](https://github.com/VITA-Group/DeepPS) [[project]](https://williamyang1991.github.io/projects/ECCV2020/) |
-| [DeFLOCNet: Deep Image Editing via Flexible Low-level Controls](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_DeFLOCNet_Deep_Image_Editing_via_Flexible_Low-Level_Controls_CVPR_2021_paper.pdf) | CVPR 2021 | [[code]](https://github.com/KumapowerLIU/DeFLOCNet) |
 | [DeepFaceEditing: Deep Face Generation and Editing with Disentangled Geometry and Appearance Control](http://www.geometrylearning.com/DeepFaceEditing/) | SIGGRAPH 2021 | [[code]](https://github.com/IGLICT/DeepFaceEditing-Jittor) [[project]](http://www.geometrylearning.com/DeepFaceEditing/) |
 | [SketchHairSalon: Deep Sketch-based Hair Image Synthesis](https://arxiv.org/abs/2109.07874) | SIGGRAPH Asia 2021 | [[project]](https://chufengxiao.github.io/SketchHairSalon/) |
-| [DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample](https://arxiv.org/abs/2109.06151) | ICCV 2021 | [[code]](https://github.com/eliahuhorwitz/DeepSIM) [[project]](http://www.vision.huji.ac.il/deepsim/) |
-| [SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches](https://arxiv.org/abs/2111.15078) | CVPR 2022 | [[code]](https://github.com/zengxianyu/sketchedit) [[project]](https://zengxianyu.github.io/sketchedit/) |
 | [Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing](https://arxiv.org/abs/2208.08092) | ECCV 2022 | [[code]](https://github.com/1jsingh/paint2pix) [[project]](https://1jsingh.github.io/paint2pix) |
 | [NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://dl.acm.org/doi/abs/10.1145/3550469.3555377) | SIGGRAPH Asia 2022 | [[project]](http://geometrylearning.com/NeRFFaceEditing/) |
-| [Sketch-based Facial Generation and Editing in Neural Radiance Fields](http://geometrylearning.com/lin/) | SIGGRAPH 2023 |  |
+| [SketchFaceNeRF: Sketch-based Facial Generation and Editing in Neural Radiance Fields](https://orca.cardiff.ac.uk/id/eprint/159468/1/NeRFFaceSketch_SIG23.pdf) | SIGGRAPH 2023 |  |
 
 - Video Editing
 
