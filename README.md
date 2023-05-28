@@ -18,7 +18,7 @@ A collection of sketch based applications.
 - [5. Sketch Based 3D Shape Modeling](#5-sketch-based-3d-shape-modeling)
 - [6. Sketch Based Garment Design](#6-sketch-based-garment-design)
 - [7. Sketch Completion](#7-sketch-completion)
-- [8. Manga Restoration, Retargeting and Inpainting](#8-manga-restoration-retargeting-and-inpainting)
+- [8. Sketch Restoration, Retargeting and Inpainting](#8-sketch-restoration-retargeting-and-inpainting)
 - [9. Sketch and Shading](#9-sketch-and-shading)
 - [10. Sketch Enhancement](#10-sketch-enhancement)
 - [11. Sketch-Guided Object Localization](#11-sketch-guided-object-localization)
@@ -296,7 +296,9 @@ A collection of sketch based applications.
 | [Detecting Viewer-Perceived Intended Vector Sketch Connectivity](https://www.cs.ubc.ca/labs/imager/tr/2022/SketchConnectivity/SketchConnectivity.pdf) | SIGGRAPH 2022 | [[project]](https://www.cs.ubc.ca/labs/imager/tr/2022/SketchConnectivity/)
 
 
-## 8. Manga Restoration, Retargeting and Inpainting
+## 8. Sketch Restoration, Retargeting and Inpainting
+
+- Manga
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -304,6 +306,11 @@ A collection of sketch based applications.
 | [Seamless Manga Inpainting with Semantics Awareness](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) | SIGGRAPH 2021 | [[webpage]](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) [[code]](https://github.com/msxie92/MangaInpainting) |
 | [Screentone-Preserved Manga Retargeting](https://arxiv.org/abs/2203.03396) | arxiv 22.03 |  |
 
+- Hand-Drawn Drawings
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Restoration of Hand-Drawn Architectural Drawings using Latent Space Mapping with Degradation Generator](https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Restoration_of_Hand-Drawn_Architectural_Drawings_Using_Latent_Space_Mapping_With_CVPR_2023_paper.pdf) | CVPR 2023 |  |
 
 ## 9. Sketch and Shading
 
@@ -436,7 +443,7 @@ A collection of sketch based applications.
   </tr>
   
   <tr>
-    <td rowspan="3"><strong>Vector</strong></td>
+    <td rowspan="4"><strong>Vector</strong></td>
     <td> <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_FloorPlanCAD_A_Large-Scale_CAD_Drawing_Dataset_for_Panoptic_Symbol_Spotting_ICCV_2021_paper.pdf">FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol Spotting</a> </td> 
     <td> ICCV 2021 </td> 
     <td> <a href="https://floorplancad.github.io/">[project]</a> </td>
@@ -450,6 +457,11 @@ A collection of sketch based applications.
     <td> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CADTransformer_Panoptic_Symbol_Spotting_Transformer_for_CAD_Drawings_CVPR_2022_paper.pdf">CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings</a> </td> 
     <td> CVPR 2022 </td> 
     <td> <a href="https://github.com/VITA-Group/CADTransformer">[code]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_VectorFloorSeg_Two-Stream_Graph_Attention_Network_for_Vectorized_Roughcast_Floorplan_Segmentation_CVPR_2023_paper.pdf">VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation</a> </td> 
+    <td> CVPR 2023 </td> 
+    <td> <a href="https://github.com/DrZiji/VecFloorSeg">[code]</a> </td>
   </tr>
   
 </table>
@@ -505,16 +517,20 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
 | [A Neural Representation of Sketch Drawings (Sketch-RNN)](https://openreview.net/pdf?id=Hy6GHpkCW) | ICLR 2018 | [[code]](https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn) | Vector/stroke-level | Reconstruction and interpolation |
-| [A Learned Representation for Scalable Vector Graphics](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lopes_A_Learned_Representation_for_Scalable_Vector_Graphics_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/magenta/magenta/tree/master/magenta/models/svg_vae) | SVG | Font design |
 | [SketchHealer: A Graph-to-Sequence Network for Recreating Partial Human Sketches](https://core.ac.uk/download/pdf/334949144.pdf) | BMVC 2020 | [[code]](https://github.com/sgybupt/SketchHealer) | Vector/stroke-level | Sketch recognition, retrieval, completion and analogy |
 | [Sketchformer: Transformer-based Representation for Sketched Structure](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ribeiro_Sketchformer_Transformer-Based_Representation_for_Sketched_Structure_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/leosampaio/sketchformer) | Vector/stroke-level | Sketch classification, SBIR, reconstruction and interpolation |
 | [CoSE: Compositional Stroke Embeddings](https://papers.nips.cc/paper/2020/file/723e8f97fde15f7a8d5ff8d558ea3f16-Paper.pdf) | NeurIPS 2020 | [[Code]](https://github.com/eth-ait/cose) | Vector/stroke-level | Auto-completing diagrams |
-| [DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation](https://arxiv.org/abs/2007.11301) | NeurIPS 2020 | [[Code]](https://github.com/alexandre01/deepsvg)  [[Project]](https://blog.alexandrecarlier.com/deepsvg/) | SVG | Vector Graphics Animation, reconstruction and interpolation |
 | [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/abs/2108.11636) | ICCV 2021 | [[code]](https://github.com/qugank/sketch-lattice.github.io) | Lattice graph | Sketch healing and image-to-sketch synthesis |
 | [SketchODE: Learning neural sketch representation in continuous time](https://openreview.net/pdf?id=c-4HSDAWua5) | ICLR 2022 | [[Project]](https://ayandas.me/sketchode) | Vector/Stroke-level | Continuous-time representation, reconstruction & interpolation |
 | [Linking Sketch Patches by Learning Synonymous Proximity for Graphic Sketch Representation](https://arxiv.org/abs/2211.16841) | AAAI 2023 | [[code]](https://github.com/CMACH508/SP-gra2seq) | Vector/Stroke-level | Sketch synthesis and sketch healing |
 | [SketchKnitter: Vectorized Sketch Generation with Diffusion Models](https://openreview.net/forum?id=4eJ43EN2g6l) | ICLR 2023 | [[code]](https://github.com/XDUWQ/SketchKnitter) | Vector/Stroke-level | vectorized sketch generation |
 | [ChiroDiff: Modelling chirographic data with Diffusion Models](https://openreview.net/forum?id=1ROAstc9jv) | ICLR 2023 | [[Project]](https://ayandas.me/chirodiff) | Vector/Stroke-level | vectorization, de-noising/healing, abstraction |
+
+| Paper | Source | Code/Project Link | Data Manner | Related Applications |
+| --- | --- | --- | --- | --- |
+| [A Learned Representation for Scalable Vector Graphics](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lopes_A_Learned_Representation_for_Scalable_Vector_Graphics_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/magenta/magenta/tree/master/magenta/models/svg_vae) | SVG | Font design |
+| [DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation](https://arxiv.org/abs/2007.11301) | NeurIPS 2020 | [[Code]](https://github.com/alexandre01/deepsvg)  [[Project]](https://blog.alexandrecarlier.com/deepsvg/) | SVG | Vector Graphics Animation, reconstruction and interpolation |
+| [SVGformer: Representation Learning for Continuous Vector Graphics using Transformers](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_SVGformer_Representation_Learning_for_Continuous_Vector_Graphics_Using_Transformers_CVPR_2023_paper.pdf) | CVPR 2023 |  | SVG | Reconstruction, classification, interpolation, retrieval |
 
 
 - Self-supervised or few/zero-shot learning
