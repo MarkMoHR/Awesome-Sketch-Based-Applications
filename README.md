@@ -182,8 +182,8 @@ A collection of sketch based applications.
 | [Multi-Level Region Matching for Fine-Grained Sketch-Based Image Retrieval](https://www.jiangtongli.me/publication/mlmr/mlmr.pdf) | ACM MM 2022 | [[code]](https://github.com/1069066484/MLRM-ACMMM2022) |
 | [Prototype-based Selective Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3503161.3548382) | ACM MM 2022 |  |
 | [DLI-Net: Dual Local Interaction Network for Fine-Grained Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/9766165) | TCSVT 2022 | [[code]](https://github.com/xjq1998/DLI-Net) |
-| [Data-Free Sketch-Based Image Retrieval](https://arxiv.org/abs/2303.07775) | CVPR 2023 |  |
-| [Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style](https://github.com/buptLinfy/ZSE-SBIR) | CVPR 2023 | [[code]](https://github.com/buptLinfy/ZSE-SBIR) |
+| [Data-Free Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2023/papers/Chaudhuri_Data-Free_Sketch-Based_Image_Retrieval_CVPR_2023_paper.pdf) | CVPR 2023 | [[code]](https://github.com/abhrac/data-free-sbir) |
+| [Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Zero-Shot_Everything_Sketch-Based_Image_Retrieval_and_in_Explainable_Style_CVPR_2023_paper.pdf) | CVPR 2023 | [[code]](https://github.com/buptLinfy/ZSE-SBIR) |
 | [Exploiting Unlabelled Photos for Stronger Fine-Grained SBIR](https://arxiv.org/abs/2303.13779) | CVPR 2023 | [[project]](https://aneeshan95.github.io/Sketch_PVT/) |
 | [CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not](https://arxiv.org/abs/2303.13440) | CVPR 2023 | [[project]](https://aneeshan95.github.io/Sketch_LVM/) |
 | [Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10098211) | TCSVT 2023 |  |
