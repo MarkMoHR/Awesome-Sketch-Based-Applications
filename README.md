@@ -203,6 +203,7 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Fine-Grained Instance-Level Sketch-Based Video Retrieval](https://ieeexplore.ieee.org/abstract/document/9161000) | TCSVT 2020 |  |
+| [Fine-Grained Video Retrieval with Scene Sketches](https://ieeexplore.ieee.org/abstract/document/10136606/) | TIP 2023 | [[project]](https://iscas-mmsketch.github.io/FG-SL-SBVR/) |
 
 
 ## 4. Sketch Based 3D Shape Retrieval
