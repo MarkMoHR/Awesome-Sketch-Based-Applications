@@ -566,7 +566,7 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link | 
 | --- | --- | --- | 
-| [SketchTransfer: A Challenging New Task for Exploring Detail-Invariance and the Abstractions Learned by Deep Networks](https://arxiv.org/pdf/1912.11570.pdf) | WACV 2020 |  |
+| [Globally optimal toon tracking](https://dl.acm.org/doi/abs/10.1145/2897824.2925872) | SIGGRAPH 2016 | [[project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/toontrack/toontrack.html) |
 | [SketchDesc: Learning Local Sketch Descriptors for Multi-view Correspondence](http://sweb.cityu.edu.hk/hongbofu/doc/SketchDesc_TCSVT2020.pdf) | TCSVT 2020 |  | 
 | [SketchZooms: Deep Multi-view Descriptors for Matching Line Drawings](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14197) | CGF 2021 | [[project]](https://emmanueliarussi.github.io/index_sz.html) | 
 | [The Animation Transformer: Visual Correspondence via Segment Matching](https://openaccess.thecvf.com/content/ICCV2021/papers/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.pdf) | ICCV 2021 |  | 
