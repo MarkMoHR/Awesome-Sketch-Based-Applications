@@ -307,6 +307,7 @@ A collection of sketch based applications.
 | [Exploiting Aliasing for Manga Restoration](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Exploiting_Aliasing_for_Manga_Restoration_CVPR_2021_paper.pdf) | CVPR 2021 | [[webpage]](http://www.cse.cuhk.edu.hk/~ttwong/papers/mangarestore/mangarestore.html) [[code]](https://github.com/msxie92/MangaRestoration) |
 | [Seamless Manga Inpainting with Semantics Awareness](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) | SIGGRAPH 2021 | [[webpage]](https://www.cse.cuhk.edu.hk/~ttwong/papers/mangainpaint/mangainpaint.html) [[code]](https://github.com/msxie92/MangaInpainting) |
 | [Screentone-Preserved Manga Retargeting](https://arxiv.org/abs/2203.03396) | arxiv 22.03 |  |
+| [Manga Rescreening with Interpretable Screentone Representation](https://arxiv.org/abs/2306.04114) | arxiv 23.06 |  |
 
 - Hand-Drawn Drawings
 
