@@ -133,6 +133,12 @@ A collection of sketch based applications.
 | [NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://dl.acm.org/doi/abs/10.1145/3550469.3555377) | SIGGRAPH Asia 2022 | [[project]](http://geometrylearning.com/NeRFFaceEditing/) |
 | [SketchFaceNeRF: Sketch-based Facial Generation and Editing in Neural Radiance Fields](https://orca.cardiff.ac.uk/id/eprint/159468/1/NeRFFaceSketch_SIG23.pdf) | SIGGRAPH 2023 |  |
 
+- Anime Editing
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [AniFaceDrawing: Anime Portrait Exploration during Your Sketching](https://arxiv.org/abs/2306.07476) | SIGGRAPH 2023 | [[project]](http://www.jaist.ac.jp/~xie/AniFaceDrawing.html) |
+
 - Video Editing
 
 | Paper | Source | Code/Project Link  |
