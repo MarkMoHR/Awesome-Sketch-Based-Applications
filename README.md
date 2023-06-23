@@ -227,6 +227,7 @@ A collection of sketch based applications.
 | [Uncertainty Learning for Noise Resistant Sketch-Based 3D Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/9573502) | TIP 2021 |  |
 | [Towards Fine-Grained Sketch-Based 3D Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/9573376) | TIP 2021 |  |
 | [Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval](https://arxiv.org/abs/2202.11948) | AAAI 2022 |  |
+| [Retrieval-Specific View Learning for Sketch-to-Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/10155453) | TMM 2023 |  |
 
 
 ## 5. Sketch Based 3D Shape Modeling
