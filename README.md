@@ -518,7 +518,7 @@ A collection of sketch based applications.
 | [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf) | ICCV 2021 |  | Vector/stroke-level | Sketch recognition, FB-SBIR, sketch healing |
 | [CLIPasso: Semantically-Aware Object Sketching](https://arxiv.org/abs/2202.05822) | SIGGRAPH 2022 | [[project]](https://clipasso.github.io/clipasso/) [[code]](https://github.com/yael-vinker/CLIPasso) | Vector/stroke-level |  |
 | [Abstracting Sketches through Simple Primitives](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_23) | ECCV 2022 | [[code]](https://github.com/ExplainableML/sketch-primitives) | Vector/stroke-level | Sketch recognition, FG-SBIR |
-| [Learning Geometry-aware Representations by Sketching](https://arxiv.org/abs/2304.08204) | CVPR 2023 | | Vector/stroke-level | object attribute classification, domain transfer, stroke-based generation, FG-SBIR |
+| [Learning Geometry-aware Representations by Sketching](https://arxiv.org/abs/2304.08204) | CVPR 2023 | [[code]](https://github.com/illhyhl1111/LearningBySketching) | Vector/stroke-level | object attribute classification, domain transfer, stroke-based generation, FG-SBIR |
 | [SketchXAI: A First Look at Explainability for Human Sketches](https://arxiv.org/abs/2304.11744) | CVPR 2023 | [[project]](https://sketchxai.github.io/) | Vector/stroke-level | sketch recognition |
 
 
