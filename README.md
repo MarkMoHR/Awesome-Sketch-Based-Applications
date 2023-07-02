@@ -194,6 +194,7 @@ A collection of sketch based applications.
 | [Exploiting Unlabelled Photos for Stronger Fine-Grained SBIR](https://arxiv.org/abs/2303.13779) | CVPR 2023 | [[project]](https://aneeshan95.github.io/Sketch_PVT/) |
 | [CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not](https://arxiv.org/abs/2303.13440) | CVPR 2023 | [[project]](https://aneeshan95.github.io/Sketch_LVM/) |
 | [Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10098211) | TCSVT 2023 |  |
+| [Semi-transductive Learning for Generalized Zero-Shot Sketch-Based Image Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/25931) | AAAI 2023 |  |
 
 
 - Scene-level
@@ -204,6 +205,7 @@ A collection of sketch based applications.
 | [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](https://arxiv.org/abs/2203.14804) | CVPR 2022 |  |
 | [SceneSketcher-v2: Fine-Grained Scene-Level Sketch-Based Image Retrieval using Adaptive GCNs](https://ieeexplore.ieee.org/abstract/document/9779565) | TIP 2022 |  |
 | [FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context](https://ieeexplore.ieee.org/abstract/document/9779565) | ECCV 2022 | [[code]](https://github.com/pinakinathc/fscoco) [[Dataset]](https://fscoco.github.io/) |
+| [Scene-Level Sketch-Based Image Retrieval with Minimal Pairwise Supervision](https://ojs.aaai.org/index.php/AAAI/article/view/25141) | AAAI 2023 |  |
 
 - Video Retrieval
 
@@ -228,6 +230,7 @@ A collection of sketch based applications.
 | [Towards Fine-Grained Sketch-Based 3D Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/9573376) | TIP 2021 |  |
 | [Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval](https://arxiv.org/abs/2202.11948) | AAAI 2022 |  |
 | [Retrieval-Specific View Learning for Sketch-to-Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/10155453) | TMM 2023 |  |
+| [Doodle to Object: Practical Zero-Shot Sketch-Based 3D Shape Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/25344) | AAAI 2023 | [[code]](https://github.com/yigohw/doodle2object) |
 
 
 ## 5. Sketch Based 3D Shape Modeling
