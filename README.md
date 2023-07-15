@@ -103,6 +103,7 @@ A collection of sketch based applications.
 | [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | arxiv 23.02 | [[code]](https://github.com/lllyasviel/ControlNet) |
 | [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.08453) | arxiv 23.02 | [[code]](https://github.com/TencentARC/T2I-Adapter) |
 | [UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild](https://arxiv.org/abs/2305.11147) | arxiv 23.05 | [[code]](https://github.com/salesforce/UniControl) [[project]](https://canqin001.github.io/UniControl-Page/) |
+| [Stable Doodle (ClipDrop)](https://stability.ai/blog/clipdrop-launches-stable-doodle?continueFlag=6b17b7a626134700c01cc2e1afe3158a) |  | [[demo]](https://clipdrop.co/stable-doodle) |
 
 ## 2. Sketch Based Image Editing
 
