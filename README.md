@@ -404,7 +404,7 @@ A collection of sketch based applications.
   </tr>
   
   <tr>
-    <td rowspan="8"><strong>Stroke-level</strong></td>
+    <td rowspan="9"><strong>Stroke-level</strong></td>
     <td> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/16-2012-eccv-sketch-segmenation.pdf">Free Hand-Drawn Sketch Segmentation</a> </td> 
     <td> ECCV 2012 </td> 
     <td>  </td>
@@ -443,6 +443,11 @@ A collection of sketch based applications.
     <td> <a href="https://arxiv.org/abs/2112.10838">One Sketch for All: One-Shot Personalized Sketch Segmentation</a> </td> 
     <td> TIP 2022 </td> 
     <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/10214525">Sketch-Segformer: Transformer-Based Segmentation for Figurative and Creative Sketches</a> </td> 
+    <td> TIP 2023 </td> 
+    <td> <a href="https://github.com/PRIS-CV/Sketch-SF">[code]</a> </td>
   </tr>
 </table>
 
