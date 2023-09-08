@@ -260,13 +260,14 @@ A collection of sketch based applications.
 | [Deep Reconstruction of 3D Smoke Densities from Artist Sketches](http://www.byungsoo.me/project/sketch2density/paper.pdf) | EG 2022 | [[project]](http://www.byungsoo.me/project/sketch2density/) [[code]](https://github.com/byungsook/sketch2fluid) |
 |[A Diffusion-ReFinement Model for Sketch-to-Point Modeling](https://openaccess.thecvf.com/content/ACCV2022/papers/Kong_A_Diffusion-ReFinement_Model_for_Sketch-to-Point_Modeling_ACCV_2022_paper.pdf)| ACCV 2022 | [[code]](https://github.com/Walterkd/diffusion-refine-sketch2point) |
 |[RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset](https://arxiv.org/abs/2303.12564)| CVPR 2023 | [[project]](https://gaplab.cuhk.edu.cn/projects/RaBit/) |
+|[SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling](https://arxiv.org/abs/2307.00804)| TVCG 2023 | [[project]](https://zhongjinluo.github.io/SketchMetaFace/) [[code]](https://github.com/zhongjinluo/SketchMetaFace) |
 
 
 - NeRF
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [SKED: Sketch-guided Text-based 3D Editing](https://arxiv.org/abs/2303.10735) | CVPR 2023 |  |
+| [SKED: Sketch-guided Text-based 3D Editing](https://arxiv.org/abs/2303.10735) | ICCV 2023 | [[project]](https://sked-paper.github.io/) |
 
 - CAD sketch
 
@@ -632,6 +633,7 @@ A collection of sketch based applications.
 | [Fine-Grained VR Sketching: Dataset and Insights](https://ieeexplore.ieee.org/abstract/document/9665875/) | 3DV 2021 | [[code]](https://github.com/Rowl1ng/Fine-Grained_VR_Sketching) |
 | [Structure-Aware 3D VR Sketch to 3D Shape Retrieval](https://github.com/Rowl1ng/Structure-Aware-VR-Sketch-Shape-Retrieval) | 3DV 2022 | [[code]](https://github.com/Rowl1ng/Structure-Aware-VR-Sketch-Shape-Retrieval) |
 | [GestureSurface: VR Sketching through Assembling Scaffold Surface with Non-Dominant Hand](https://ieeexplore.ieee.org/abstract/document/10049645) | TVCG 2023 |  |
+| [3D VR Sketch Guided 3D Shape Prototyping and Exploration](https://arxiv.org/abs/2306.10830) | ICCV 2023 | [[code]](https://github.com/Rowl1ng/3Dsketch2shape) |
 
 
 ## 19. Sketch Based Incremental Learning
