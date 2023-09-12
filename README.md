@@ -94,6 +94,7 @@ A collection of sketch based applications.
 | [Self-Supervised Sketch-to-Image Synthesis](https://arxiv.org/abs/2012.09290) | AAAI 2021 | [[code]](https://github.com/odegeasslbc/Self-Supervised-Sketch-to-Image-Synthesis-PyTorch) |
 | [CoGS: Controllable Generation and Search from Sketch and Style](https://arxiv.org/abs/2203.09554) | ECCV 2022 |  |
 | [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675) | WACV 2023 | [[project]](https://cyj407.github.io/DiSS/) [[code]](https://github.com/cyj407/DiSS) |
+| [Controllable Visual-Tactile Synthesis](https://arxiv.org/pdf/2305.03051.pdf) | ICCV 2023 | [[project]](https://visual-tactile-synthesis.github.io/) [[code]](https://github.com/RuihanGao/visual-tactile-synthesis) |
 
 ### 1.3 Text-conditioned
 
