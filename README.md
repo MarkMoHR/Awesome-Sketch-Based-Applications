@@ -233,6 +233,7 @@ A collection of sketch based applications.
 | [Domain Disentangled Generative Adversarial Network for Zero-Shot Sketch-Based 3D Shape Retrieval](https://arxiv.org/abs/2202.11948) | AAAI 2022 |  |
 | [Retrieval-Specific View Learning for Sketch-to-Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/10155453) | TMM 2023 |  |
 | [Doodle to Object: Practical Zero-Shot Sketch-Based 3D Shape Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/25344) | AAAI 2023 | [[code]](https://github.com/yigohw/doodle2object) |
+| [Democratising 2D Sketch to 3D Shape Retrieval Through Pivoting](https://openaccess.thecvf.com/content/ICCV2023/papers/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.pdf) | ICCV 2023 |  |
 
 
 ## 5. Sketch Based 3D Shape Modeling
@@ -607,6 +608,7 @@ A collection of sketch based applications.
 | [Stroke-Based Drawing and Inbetweening with Boundary Strokes](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14433) | CGF 2021 | stroke |  |
 |    |
 | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/abstract/document/8803506) | ICIP 2019 | raster |  |
+| [Deep Geometrized Cartoon Line Inbetweening](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf) | ICCV 2023 | raster | [[code]](https://github.com/lisiyao21/AnimeInbet) |
 | [Bridging the Gap: Fine-to-Coarse Sketch Interpolation Network for High-Quality Animation Sketch Inbetweening](https://arxiv.org/abs/2308.13273) | arxiv 23.08 | raster |  |
 
 - Animation
