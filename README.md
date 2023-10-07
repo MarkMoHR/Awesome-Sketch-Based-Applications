@@ -280,6 +280,7 @@ A collection of sketch based applications.
 | [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://enigma-li.github.io/projects/free2cad/Free2CAD_SIG_2022.pdf) | SIGGRAPH 2022 | [[project]](http://geometry.cs.ucl.ac.uk/projects/2022/free2cad/) [[code]](https://github.com/Enigma-li/Free2CAD) |
 | [Symmetry-driven 3D Reconstruction From Concept Sketches](https://repo-sam.inria.fr/d3/SymmetrySketch/symmetry_sketch.pdf) | SIGGRAPH 2022 | [[project]](https://ns.inria.fr/d3/SymmetrySketch/) |
 | [Piecewise-smooth Surface Fitting Onto Unstructured 3D Sketches](http://www-sop.inria.fr/reves/Basilic/2022/YABSB22/surfacing_sketches.pdf) | SIGGRAPH 2022 | [[project]](https://em-yu.github.io/research/surfacing_3d_sketches/) |
+| [Reconstruction of Machine-Made Shapes from Bitmap Sketches](https://puhachov.xyz/publications/machine-made-sketch-reconstruction/) | SIGGRAPH Asia 2023 | [[project]](https://puhachov.xyz/publications/machine-made-sketch-reconstruction/) |
 
 
 ## 6. Sketch Based Garment Design
