@@ -94,7 +94,6 @@ A collection of sketch based applications.
 | [Self-Supervised Sketch-to-Image Synthesis](https://arxiv.org/abs/2012.09290) | AAAI 2021 | [[code]](https://github.com/odegeasslbc/Self-Supervised-Sketch-to-Image-Synthesis-PyTorch) |
 | [CoGS: Controllable Generation and Search from Sketch and Style](https://arxiv.org/abs/2203.09554) | ECCV 2022 |  |
 | [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675) | WACV 2023 | [[project]](https://cyj407.github.io/DiSS/) [[code]](https://github.com/cyj407/DiSS) |
-| [Controllable Visual-Tactile Synthesis](https://arxiv.org/pdf/2305.03051.pdf) | ICCV 2023 | [[project]](https://visual-tactile-synthesis.github.io/) [[code]](https://github.com/RuihanGao/visual-tactile-synthesis) |
 
 ### 1.3 Text-conditioned
 
@@ -263,6 +262,7 @@ A collection of sketch based applications.
 |[A Diffusion-ReFinement Model for Sketch-to-Point Modeling](https://openaccess.thecvf.com/content/ACCV2022/papers/Kong_A_Diffusion-ReFinement_Model_for_Sketch-to-Point_Modeling_ACCV_2022_paper.pdf)| ACCV 2022 | [[code]](https://github.com/Walterkd/diffusion-refine-sketch2point) |
 |[RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset](https://arxiv.org/abs/2303.12564)| CVPR 2023 | [[project]](https://gaplab.cuhk.edu.cn/projects/RaBit/) |
 |[SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling](https://arxiv.org/abs/2307.00804)| TVCG 2023 | [[project]](https://zhongjinluo.github.io/SketchMetaFace/) [[code]](https://github.com/zhongjinluo/SketchMetaFace) |
+|[Reality3DSketch: Rapid 3D Modeling of Objects from Single Freehand Sketches](https://arxiv.org/abs/2310.18148)| TMM 2023 |  |
 
 
 - NeRF
@@ -291,6 +291,10 @@ A collection of sketch based applications.
 | [FoldSketch: Enriching Garments with Physically Reproducible Folds](http://www.cs.ubc.ca/labs/imager/tr/2018/FoldSketch/doc/FoldSketch.pdf) | SIGGRAPH 2018 |  [[project]](http://www.cs.ubc.ca/labs/imager/tr/2018/FoldSketch/) |
 | [Learning a Shared Shape Space for Multimodal Garment Design](https://arxiv.org/abs/1806.11335) | SIGGRAPH Asia 2018 |  [[project]](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/) |
 | [Garment Ideation: Iterative view-aware sketch-based garment modeling](https://github.com/pinakinathc/multiviewsketch-garment) | 3DV 2022 | [[code]](https://github.com/pinakinathc/multiviewsketch-garment) |
+| [Controllable Visual-Tactile Synthesis](https://arxiv.org/pdf/2305.03051.pdf) | ICCV 2023 | [[project]](https://visual-tactile-synthesis.github.io/) [[code]](https://github.com/RuihanGao/visual-tactile-synthesis) |
+| [Controllable Garment Image Synthesis Integrated with Frequency Domain Features](https://diglib.eg.org/xmlui/bitstream/handle/10.1111/cgf14938/v42i7_10_14938.pdf?sequence=1&isAllowed=y) | PG 2023 |  |
+| [Toward Intelligent Interactive Design: A Generation Framework Based on Cross-domain Fashion Elements](https://dl.acm.org/doi/abs/10.1145/3581783.3612376) | ACM MM 2023 |  |
+| [FashionDiff: A Controllable Diffusion Model Using Pairwise Fashion Elements for Intelligent Design](https://dl.acm.org/doi/abs/10.1145/3581783.3612127) | ACM MM 2023 |  |
 
 
 ## 7. Sketch Completion
