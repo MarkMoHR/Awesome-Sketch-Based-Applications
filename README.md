@@ -116,6 +116,7 @@ A collection of sketch based applications.
 | [DeFLOCNet: Deep Image Editing via Flexible Low-level Controls](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_DeFLOCNet_Deep_Image_Editing_via_Flexible_Low-Level_Controls_CVPR_2021_paper.pdf) | CVPR 2021 | [[code]](https://github.com/KumapowerLIU/DeFLOCNet) |
 | [DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample](https://arxiv.org/abs/2109.06151) | ICCV 2021 | [[code]](https://github.com/eliahuhorwitz/DeepSIM) [[project]](http://www.vision.huji.ac.il/deepsim/) |
 | [SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches](https://arxiv.org/abs/2111.15078) | CVPR 2022 | [[code]](https://github.com/zengxianyu/sketchedit) [[project]](https://zengxianyu.github.io/sketchedit/) |
+| [Draw2Edit: Mask-Free Sketch-Guided Image Manipulation](https://dl.acm.org/doi/abs/10.1145/3581783.3612398) | ACM MM 2023 | [[code]](https://github.com/YiwenXu/Draw2Edit)  |
 
 - Human Face / Portrait / Hair
 
