@@ -357,6 +357,7 @@ A collection of sketch based applications.
 | [Localizing Infinity-shaped fishes: Sketch-guided object localization in the wild](https://arxiv.org/abs/2109.11874) | arxiv 21.09 | [[code]](https://github.com/priba/sgol_wild) |
 | [Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch](https://arxiv.org/abs/2303.08784) | arxiv 23.03 | |
 | [What Can Human Sketches Do for Object Detection?](https://arxiv.org/abs/2303.15149) | CVPR 2023 | [[project]](http://www.pinakinathc.me/sketch-detect/) |
+| [Sketch-based Video Object Segmentation: Benchmark and Analysis](https://arxiv.org/abs/2311.07261) | BMVC 2023 | [[code]](https://github.com/YRlin-12/Sketch-VOS-datasets) |
 
 ## 12. Sketch-Guided Video Synthesis
 
