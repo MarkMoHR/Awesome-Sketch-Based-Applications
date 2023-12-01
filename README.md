@@ -628,6 +628,8 @@ A collection of sketch based applications.
 | [Animating Portrait Line Drawings from a Single Face Photo and a Speech Signal](https://dl.acm.org/doi/abs/10.1145/3528233.3530720) | SIGGRAPH 2022 | image | [[code]](https://github.com/AnimatePortrait/AnimatePortrait) |
 | [A Method for Animating Children’s Drawings of the Human Figure](https://arxiv.org/abs/2303.12741) | TOG 2023 | image | [[code]](https://github.com/facebookresearch/AnimatedDrawings) [[project]](https://people.csail.mit.edu/liyifei/publication/children-animated-drawings/) [[demo]](https://sketch.metademolab.com/canvas) |
 | [Non-linear Rough 2D Animation using Transient Embeddings](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14771) | CGF 2023 | stroke |  |
+| [Sketch Video Synthesis](https://arxiv.org/abs/2311.15306) | arxiv 23.11 | stroke | [[code]](https://github.com/yudianzheng/SketchVideo) [[project]](https://sketchvideo.github.io/) |
+| [Breathing Life Into Sketches Using Text-to-Video Priors](https://arxiv.org/abs/2311.13608) | arxiv 23.11 | stroke | [[code]](https://github.com/yael-vinker/live_sketch) [[project]](https://livesketch.github.io/) |
 
 
 ## 18. Sketch and AR/VR
@@ -667,6 +669,7 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Cross-Compatible Embedding and Semantic Consistent Feature Construction for Sketch Re-identification](https://dl.acm.org/doi/abs/10.1145/3503161.3548224) | ACM MM 2022 | [[code]](https://github.com/lhf12278/CCSC) |
+| [SketchTrans: Disentangled Prototype Learning with Transformer for Sketch-Photo Recognition](https://ieeexplore.ieee.org/document/10328884) | TPAMI 2023 | [[code]](https://github.com/ccq195/SketchTrans) |
 
 ## 23. Sketch-based Salient Object Detection
 | Paper | Source | Code/Project Link  |
