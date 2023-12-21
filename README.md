@@ -556,6 +556,7 @@ A collection of sketch based applications.
 | [Linking Sketch Patches by Learning Synonymous Proximity for Graphic Sketch Representation](https://arxiv.org/abs/2211.16841) | AAAI 2023 | [[code]](https://github.com/CMACH508/SP-gra2seq) | Vector/Stroke-level | Sketch synthesis and sketch healing |
 | [SketchKnitter: Vectorized Sketch Generation with Diffusion Models](https://openreview.net/forum?id=4eJ43EN2g6l) | ICLR 2023 | [[code]](https://github.com/XDUWQ/SketchKnitter) | Vector/Stroke-level | vectorized sketch generation |
 | [ChiroDiff: Modelling chirographic data with Diffusion Models](https://openreview.net/forum?id=1ROAstc9jv) | ICLR 2023 | [[Project]](https://ayandas.me/chirodiff) | Vector/Stroke-level | vectorization, de-noising/healing, abstraction |
+| [Enhance Sketch Recognition's Explainability via Semantic Component-Level Parsing](https://arxiv.org/abs/2312.07875) | AAAI 24 | [[code]](https://github.com/GuangmingZhu/SketchESC) | Vector/Stroke-level | recognition and segmentation |
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
