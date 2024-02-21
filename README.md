@@ -661,7 +661,8 @@ A collection of sketch based applications.
 ## 20. Sketch Quality Measurement
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf) | CVPR 2022 | |
+| [Annotation-Free Human Sketch Quality Assessment](https://link.springer.com/article/10.1007/s11263-024-02001-1) | IJCV 2024 | [[code]](https://github.com/yanglan0225/SketchX-Quantifying-Sketch-Quality) |
+| [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf) | CVPR 2022 | [[code]](https://github.com/yanglan0225/SketchX-Quantifying-Sketch-Quality) |
 
 ## 21. Cloud Augmentation with Sketches
 | Paper | Source | Code/Project Link  |
