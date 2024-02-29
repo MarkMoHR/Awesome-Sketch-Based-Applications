@@ -61,7 +61,7 @@ A collection of sketch based applications.
 | [Adversarial Open Domain Adaption for Sketch-to-Photo Synthesis](https://arxiv.org/abs/2104.05703) | WACV 2022 | [[code]](https://github.com/Mukosame/AODA) |
 | [Customizing GAN Using Few-Shot Sketches](https://dl.acm.org/doi/abs/10.1145/3503161.3548415) | ACM MM 2022 |  |
 | [DiffSketching: Sketch Control Image Synthesis with Diffusion Models](https://bmvc2022.mpi-inf.mpg.de/0067.pdf) | BMVC 2022 | [[code]](https://github.com/XDUWQ/DiffSketching) | 
-| [MaskSketch: Unpaired Structure-guided Masked Image Generation](https://arxiv.org/abs/2302.05496) | arxiv 23.02 | | 
+| [MaskSketch: Unpaired Structure-guided Masked Image Generation](https://arxiv.org/abs/2302.05496) | CVPR 2023 | [[project]](https://masksketch.github.io/) [[code]](https://github.com/google-research/masksketch)| 
 | [Picture that Sketch: Photorealistic Image Generation from Abstract Sketches](https://arxiv.org/abs/2303.11162) | CVPR 2023 | [[project]](https://subhadeepkoley.github.io/PictureThatSketch/) [[code]](https://github.com/subhadeepkoley/PictureThatSketch) | 
 
 
@@ -74,7 +74,7 @@ A collection of sketch based applications.
 | [DeepFacePencil: Creating Face Images from Freehand Sketches](https://arxiv.org/abs/2008.13343) | ACM MM 2020 | [[project]](https://liyuhangustc.github.io/Sketch2Face/) [[code]](https://github.com/LiYuhangUSTC/Sketch2Face) |
 | [Controllable Sketch-to-Image Translation for Robust Face Synthesis](https://ieeexplore.ieee.org/abstract/document/9583954) | TIP 2021 |  |
 | [DrawingInStyles: Portrait Image Generation and Editing with Spatially Conditioned StyleGAN](http://sweb.cityu.edu.hk/hongbofu/doc/DrawingInStyles_TVCG22.pdf) | TVCG 2022 |  |
-| [DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches](https://arxiv.org/abs/2205.02070) | arxiv 22.05 |  |
+| [DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches](https://arxiv.org/abs/2205.02070) | C&G 2023 |  |
 | [Semantics-Preserving Sketch Embedding for Face Generation](https://arxiv.org/abs/2211.13015) | TMM 2023 | [[project]](http://staff.ustc.edu.cn/~xjchen99/sketchFaceTMM/sketchFaceTmm.htm) [[code]](https://github.com/BinxinYang/Semantics-Preserving-Sketch-Embedding-for-Face-Generation) |
 | [Parsing-Conditioned Anime Translation: A New Dataset and Method](https://dl.acm.org/doi/abs/10.1145/3585002) | TOG 2023 | [[code]](https://github.com/zsl2018/StyleAnime) |
 
@@ -82,7 +82,7 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [3D-aware Conditional Image Synthesis](https://arxiv.org/abs/2302.08509) | arxiv 23.02 | [[project]](https://www.cs.cmu.edu/~pix2pix3D/) [[code]](https://github.com/dunbar12138/pix2pix3D) |
+| [3D-aware Conditional Image Synthesis](https://arxiv.org/abs/2302.08509) | CVPR 2023 | [[project]](https://www.cs.cmu.edu/~pix2pix3D/) [[code]](https://github.com/dunbar12138/pix2pix3D) |
 
 ### 1.2 Style-conditioned
 
@@ -102,7 +102,7 @@ A collection of sketch based applications.
 | [Sketch-Guided Text-to-Image Diffusion Models](https://arxiv.org/abs/2211.13752) | SIGGRAPH 2023 | [[project]](https://sketch-guided-diffusion.github.io/) |
 | [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | ICCV 2023 | [[code]](https://github.com/lllyasviel/ControlNet) |
 | [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.08453) | arxiv 23.02 | [[code]](https://github.com/TencentARC/T2I-Adapter) |
-| [UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild](https://arxiv.org/abs/2305.11147) | arxiv 23.05 | [[code]](https://github.com/salesforce/UniControl) [[project]](https://canqin001.github.io/UniControl-Page/) |
+| [UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild](https://arxiv.org/abs/2305.11147) | NeurIPS 2023 | [[code]](https://github.com/salesforce/UniControl) [[project]](https://canqin001.github.io/UniControl-Page/) |
 | [Stable Doodle (ClipDrop)](https://stability.ai/blog/clipdrop-launches-stable-doodle?continueFlag=6b17b7a626134700c01cc2e1afe3158a) |  | [[demo]](https://clipdrop.co/stable-doodle) |
 
 ## 2. Sketch Based Image Editing
@@ -357,9 +357,9 @@ A collection of sketch based applications.
 | --- | --- | --- |
 | [Sketch-Guided Object Localization in Natural Images](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510528.pdf) | ECCV 2020 | [[project]](http://visual-computing.in/sketch-guided-object-localization/) [[code]](https://github.com/IISCAditayTripathi/SketchGuidedLocalization) |
 | [Localizing Infinity-shaped fishes: Sketch-guided object localization in the wild](https://arxiv.org/abs/2109.11874) | arxiv 21.09 | [[code]](https://github.com/priba/sgol_wild) |
-| [Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch](https://arxiv.org/abs/2303.08784) | arxiv 23.03 | |
 | [What Can Human Sketches Do for Object Detection?](https://arxiv.org/abs/2303.15149) | CVPR 2023 | [[project]](http://www.pinakinathc.me/sketch-detect/) |
 | [Sketch-based Video Object Segmentation: Benchmark and Analysis](https://arxiv.org/abs/2311.07261) | BMVC 2023 | [[code]](https://github.com/YRlin-12/Sketch-VOS-datasets) |
+| [Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch](https://arxiv.org/abs/2303.08784) | WACV 2024 | [[project]](https://vcl-iisc.github.io/locformer/) [[code]](https://github.com/vcl-iisc/locformer-SGOL) |
 
 ## 12. Sketch-Guided Video Synthesis
 
