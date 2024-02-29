@@ -399,7 +399,7 @@ A collection of sketch based applications.
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan=3"><strong>Pixelwise</strong></td>
+    <td rowspan=4"><strong>Pixelwise</strong></td>
     <td> <a href="https://ieeexplore.ieee.org/abstract/document/8784880">SPFusionNet: Sketch Segmentation Using Multi-modal Data Fusion</a> </td> 
     <td> ICME 2019 </td> 
     <td>  </td>
@@ -413,6 +413,11 @@ A collection of sketch based applications.
     <td> <a href="https://ieeexplore.ieee.org/abstract/document/9686584">Exploring Local Detail Perception for Scene Sketch Semantic Segmentation</a> (scene-level) </td> 
     <td> TIP 2022 </td> 
     <td>  </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2312.12463">Open Vocabulary Semantic Scene Sketch Understanding</a> (scene-level) </td> 
+    <td> CVPR 2024 </td> 
+    <td> <a href="https://github.com/AhmedBourouis/Scene-Sketch-Segmentation">[code]</a> <a href="https://ahmedbourouis.github.io/Scene_Sketch_Segmentation/">[project]</a> </td>
   </tr>
   
   <tr>
@@ -557,7 +562,8 @@ A collection of sketch based applications.
 | [Linking Sketch Patches by Learning Synonymous Proximity for Graphic Sketch Representation](https://arxiv.org/abs/2211.16841) | AAAI 2023 | [[code]](https://github.com/CMACH508/SP-gra2seq) | Vector/Stroke-level | Sketch synthesis and sketch healing |
 | [SketchKnitter: Vectorized Sketch Generation with Diffusion Models](https://openreview.net/forum?id=4eJ43EN2g6l) | ICLR 2023 | [[code]](https://github.com/XDUWQ/SketchKnitter) | Vector/Stroke-level | vectorized sketch generation |
 | [ChiroDiff: Modelling chirographic data with Diffusion Models](https://openreview.net/forum?id=1ROAstc9jv) | ICLR 2023 | [[Project]](https://ayandas.me/chirodiff) | Vector/Stroke-level | vectorization, de-noising/healing, abstraction |
-| [Enhance Sketch Recognition's Explainability via Semantic Component-Level Parsing](https://arxiv.org/abs/2312.07875) | AAAI 24 | [[code]](https://github.com/GuangmingZhu/SketchESC) | Vector/Stroke-level | recognition and segmentation |
+| [Enhance Sketch Recognition's Explainability via Semantic Component-Level Parsing](https://arxiv.org/abs/2312.07875) | AAAI 2024 | [[code]](https://github.com/GuangmingZhu/SketchESC) | Vector/Stroke-level | recognition and segmentation |
+| [Modelling complex vector drawings with stroke-clouds](https://openreview.net/forum?id=O2jyuo89CK) | ICLR 2024 | | Vector/Stroke-level | reconstruction and generation |
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
