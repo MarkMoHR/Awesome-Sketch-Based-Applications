@@ -104,6 +104,8 @@ A collection of sketch based applications.
 | [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.08453) | arxiv 23.02 | [[code]](https://github.com/TencentARC/T2I-Adapter) |
 | [UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild](https://arxiv.org/abs/2305.11147) | NeurIPS 2023 | [[code]](https://github.com/salesforce/UniControl) [[project]](https://canqin001.github.io/UniControl-Page/) |
 | [Stable Doodle (ClipDrop)](https://stability.ai/blog/clipdrop-launches-stable-doodle?continueFlag=6b17b7a626134700c01cc2e1afe3158a) |  | [[demo]](https://clipdrop.co/stable-doodle) |
+| [CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing](https://arxiv.org/abs/2402.17624) | arxiv 24.02 |  |
+| [Block and Detail: Scaffolding Sketch-to-Image Generation](https://arxiv.org/abs/2402.18116) | arxiv 24.02 |  |
 
 ## 2. Sketch Based Image Editing
 
@@ -283,7 +285,8 @@ A collection of sketch based applications.
 | [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://enigma-li.github.io/projects/free2cad/Free2CAD_SIG_2022.pdf) | SIGGRAPH 2022 | [[project]](http://geometry.cs.ucl.ac.uk/projects/2022/free2cad/) [[code]](https://github.com/Enigma-li/Free2CAD) |
 | [Symmetry-driven 3D Reconstruction From Concept Sketches](https://repo-sam.inria.fr/d3/SymmetrySketch/symmetry_sketch.pdf) | SIGGRAPH 2022 | [[project]](https://ns.inria.fr/d3/SymmetrySketch/) |
 | [Piecewise-smooth Surface Fitting Onto Unstructured 3D Sketches](http://www-sop.inria.fr/reves/Basilic/2022/YABSB22/surfacing_sketches.pdf) | SIGGRAPH 2022 | [[project]](https://em-yu.github.io/research/surfacing_3d_sketches/) |
-| [Reconstruction of Machine-Made Shapes from Bitmap Sketches](https://puhachov.xyz/publications/machine-made-sketch-reconstruction/) | SIGGRAPH Asia 2023 | [[project]](https://puhachov.xyz/publications/machine-made-sketch-reconstruction/) |
+| [Reconstruction of Machine-Made Shapes from Bitmap Sketches](https://dl.acm.org/doi/abs/10.1145/3618361) | SIGGRAPH Asia 2023 | [[project]](https://puhachov.xyz/publications/machine-made-sketch-reconstruction/) |
+| [CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention](https://arxiv.org/abs/2402.17678) | CVPR 2024 |  |
 
 
 ## 6. Sketch Based Garment Design
