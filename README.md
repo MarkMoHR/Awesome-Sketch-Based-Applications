@@ -573,6 +573,7 @@ A collection of sketch based applications.
 | [A Learned Representation for Scalable Vector Graphics](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lopes_A_Learned_Representation_for_Scalable_Vector_Graphics_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/magenta/magenta/tree/master/magenta/models/svg_vae) | SVG | Font design |
 | [DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation](https://arxiv.org/abs/2007.11301) | NeurIPS 2020 | [[Code]](https://github.com/alexandre01/deepsvg)  [[Project]](https://blog.alexandrecarlier.com/deepsvg/) | SVG | Vector Graphics Animation, reconstruction and interpolation |
 | [SVGformer: Representation Learning for Continuous Vector Graphics using Transformers](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_SVGformer_Representation_Learning_for_Continuous_Vector_Graphics_Using_Transformers_CVPR_2023_paper.pdf) | CVPR 2023 |  | SVG | Reconstruction, classification, interpolation, retrieval |
+| [StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis](https://arxiv.org/abs/2401.17093) | arxiv 24.01 |  | SVG | generation |
 
 
 - Self-supervised or few/zero-shot learning
