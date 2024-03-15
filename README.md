@@ -352,7 +352,7 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | ACM MM 2020 | [[code]](https://github.com/LCXCUC/SketchMan2020) |
-
+| [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598) | CVPR 2024 | [[code]](https://github.com/Kiteretsu77/APISR) |
 
 ## 11. Sketch-Guided Object Localization 
 
