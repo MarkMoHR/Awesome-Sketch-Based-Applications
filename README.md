@@ -202,6 +202,9 @@ A collection of sketch based applications.
 | [CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not](https://arxiv.org/abs/2303.13440) | CVPR 2023 | [[project]](https://aneeshan95.github.io/Sketch_LVM/) |
 | [Cross-Domain Alignment for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10098211) | TCSVT 2023 |  |
 | [Semi-transductive Learning for Generalized Zero-Shot Sketch-Based Image Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/25931) | AAAI 2023 |  |
+| [Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers](https://arxiv.org/abs/2403.07214) | CVPR 2024 | [[project]](https://subhadeepkoley.github.io/DiffusionZSSBIR/) |
+| [You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval](https://arxiv.org/abs/2403.07222) | CVPR 2024 | [[project]](https://subhadeepkoley.github.io/SBCIR/) |
+| [How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?](https://arxiv.org/abs/2403.07203) | CVPR 2024 | [[project]](https://subhadeepkoley.github.io/AbstractAway/) |
 
 
 - Scene-level
@@ -269,6 +272,7 @@ A collection of sketch based applications.
 |[RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset](https://arxiv.org/abs/2303.12564)| CVPR 2023 | [[project]](https://gaplab.cuhk.edu.cn/projects/RaBit/) |
 |[SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling](https://arxiv.org/abs/2307.00804)| TVCG 2023 | [[project]](https://zhongjinluo.github.io/SketchMetaFace/) [[code]](https://github.com/zhongjinluo/SketchMetaFace) |
 |[Reality3DSketch: Rapid 3D Modeling of Objects from Single Freehand Sketches](https://arxiv.org/abs/2310.18148)| TMM 2023 |  |
+|[Doodle Your 3D: From Abstract Freehand Sketches to Precise 3D Shapes](https://arxiv.org/abs/2312.04043)| CVPR 2024 | [[project]](https://hmrishavbandy.github.io/doodle23d/) |
 
 
 - NeRF
@@ -426,7 +430,7 @@ A collection of sketch based applications.
   </tr>
   
   <tr>
-    <td rowspan="9"><strong>Stroke-level</strong></td>
+    <td rowspan="10"><strong>Stroke-level</strong></td>
     <td> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/16-2012-eccv-sketch-segmenation.pdf">Free Hand-Drawn Sketch Segmentation</a> </td> 
     <td> ECCV 2012 </td> 
     <td>  </td>
@@ -470,6 +474,11 @@ A collection of sketch based applications.
     <td> <a href="https://ieeexplore.ieee.org/abstract/document/10214525">Sketch-Segformer: Transformer-Based Segmentation for Figurative and Creative Sketches</a> </td> 
     <td> TIP 2023 </td> 
     <td> <a href="https://github.com/PRIS-CV/Sketch-SF">[code]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://pubmed.ncbi.nlm.nih.gov/38470581/">CreativeSeg: Semantic Segmentation of Creative Sketches</a> </td> 
+    <td> TIP 2024 </td> 
+    <td> <a href="https://github.com/PRIS-CV/Sketch-CS">[code]</a> </td>
   </tr>
 </table>
 
