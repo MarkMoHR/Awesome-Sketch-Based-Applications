@@ -94,6 +94,7 @@ A collection of sketch based applications.
 | [Self-Supervised Sketch-to-Image Synthesis](https://arxiv.org/abs/2012.09290) | AAAI 2021 | [[code]](https://github.com/odegeasslbc/Self-Supervised-Sketch-to-Image-Synthesis-PyTorch) |
 | [CoGS: Controllable Generation and Search from Sketch and Style](https://arxiv.org/abs/2203.09554) | ECCV 2022 |  |
 | [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675) | WACV 2023 | [[project]](https://cyj407.github.io/DiSS/) [[code]](https://github.com/cyj407/DiSS) |
+| [DemoCaricature: Democratising Caricature Generation with a Rough Sketch](https://arxiv.org/abs/2312.04364) | CVPR 2024 | [[project]](https://democaricature.github.io/) |
 
 ### 1.3 Text-conditioned
 
@@ -106,6 +107,7 @@ A collection of sketch based applications.
 | [Stable Doodle (ClipDrop)](https://stability.ai/blog/clipdrop-launches-stable-doodle?continueFlag=6b17b7a626134700c01cc2e1afe3158a) |  | [[demo]](https://clipdrop.co/stable-doodle) |
 | [CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing](https://arxiv.org/abs/2402.17624) | arxiv 24.02 |  |
 | [Block and Detail: Scaffolding Sketch-to-Image Generation](https://arxiv.org/abs/2402.18116) | arxiv 24.02 |  |
+| [It's All About Your Sketch: Democratising Sketch Control in Diffusion Models](https://arxiv.org/abs/2403.07234) | CVPR 2024 | [[code]](https://github.com/subhadeepkoley/StableSketching) |
 
 ## 2. Sketch Based Image Editing
 
@@ -550,6 +552,7 @@ A collection of sketch based applications.
 | [Learning Geometry-aware Representations by Sketching](https://arxiv.org/abs/2304.08204) | CVPR 2023 | [[code]](https://github.com/illhyhl1111/LearningBySketching) | Vector/stroke-level | object attribute classification, domain transfer, stroke-based generation, FG-SBIR |
 | [SketchXAI: A First Look at Explainability for Human Sketches](https://arxiv.org/abs/2304.11744) | CVPR 2023 | [[project]](https://sketchxai.github.io/) | Vector/stroke-level | sketch recognition |
 | [Prediction with Visual Evidence: Sketch Classification Explanation via Stroke-Level Attributions](https://ieeexplore.ieee.org/abstract/document/10194541) | TIP 2023 |  | Vector/stroke-level |  |
+| [What Sketch Explainability Really Means for Downstream Tasks](https://arxiv.org/abs/2403.09480) | CVPR 2024 |  | Vector/stroke-level |  |
 
 
 - Conventional Representation Learning
@@ -592,7 +595,13 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
 | [SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text](https://arxiv.org/abs/2204.11964) | CVPR 2023 |  |
-                                                                                       
+          
+
+- Implicit Neural Representations
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [SketchINR: A First Look into Sketches as Implicit Neural Representations](https://arxiv.org/abs/2403.09344) | CVPR 2024 |  |                                                                             
                                                                                        
 ## 16. Sketch and Visual Correspondence
 
