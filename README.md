@@ -581,6 +581,7 @@ A collection of sketch based applications.
 | [ChiroDiff: Modelling chirographic data with Diffusion Models](https://openreview.net/forum?id=1ROAstc9jv) | ICLR 2023 | [[Project]](https://ayandas.me/chirodiff) | Vector/Stroke-level | vectorization, de-noising/healing, abstraction |
 | [Enhance Sketch Recognition's Explainability via Semantic Component-Level Parsing](https://arxiv.org/abs/2312.07875) | AAAI 2024 | [[code]](https://github.com/GuangmingZhu/SketchESC) | Vector/Stroke-level | recognition and segmentation |
 | [Modelling complex vector drawings with stroke-clouds](https://openreview.net/forum?id=O2jyuo89CK) | ICLR 2024 | | Vector/Stroke-level | reconstruction and generation |
+| [Sketchformer++: A Hierarchical Transformer Architecture for Vector Sketch Representation](https://link.springer.com/chapter/10.1007/978-981-97-2095-8_2) | CVM 2024 | | Vector/Stroke-level | reconstruction, recognition and semantic segmentation |
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
