@@ -283,7 +283,8 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation](https://arxiv.org/abs/2401.14257) | arxiv 24.01 |  |
-| [SKED: Sketch-guided Text-based 3D Editing](https://arxiv.org/abs/2303.10735) | ICCV 2023 | [[project]](https://sked-paper.github.io/) |
+| [SKED: Sketch-guided Text-based 3D Editing](https://arxiv.org/abs/2303.10735) | ICCV 2023 | [[project]](https://sked-paper.github.io/) [[code]](https://github.com/aryanmikaeili/SKED) |
+| [SketchDream: Sketch-based Text-to-3D Generation and Editing](http://geometrylearning.com/SketchDream/) | SIGGRAPH 2024 | [[project]](http://geometrylearning.com/SketchDream/) |
 
 - CAD sketch
 
