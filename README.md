@@ -34,6 +34,7 @@ A collection of sketch based applications.
 - [21. Cloud Augmentation with Sketches](#21-cloud-augmentation-with-sketches)
 - [22. Sketch and Re-identification](#22-sketch-and-re-identification)
 - [23. Sketch-based Salient Object Detection](#23-sketch-based-salient-object-detection)
+- [24. Study on Strokes](#24-study-on-strokes)
 
 ---
 
@@ -715,3 +716,9 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings](https://arxiv.org/abs/2303.11502) | CVPR 2023 |  |
+
+## 24. Study on Strokes
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools](https://dl.acm.org/doi/abs/10.1145/3550454.3555472) | SIGGRAPH Asia 2022 | [[project]](https://research.nvidia.com/labs/toronto-ai/brushstroke_engine/) |
+| [Ciallo: GPU-Accelerated Rendering of Vector Brush Strokes](https://cislab.hkust-gz.edu.cn/media/documents/Ciallo.pdf) | SIGGRAPH 2024 | [[code]](https://github.com/ShenCiao/Ciallo) |
