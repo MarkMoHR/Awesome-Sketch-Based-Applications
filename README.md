@@ -627,6 +627,7 @@ A collection of sketch based applications.
 | [CreativeFlow+](https://www.cs.toronto.edu/creativeflow/) | [Creative Flow+ Dataset](https://www.cs.toronto.edu/creativeflow/files/2596.pdf) | CVPR 2019 | [[code]](https://github.com/creativefloworg/creativeflow) |
 | [ATD-12K](https://github.com/lisiyao21/AnimeInterp) | [Deep animation video interpolation in the wild](https://arxiv.org/abs/2104.02495) | CVPR 2021 | [[code]](https://github.com/lisiyao21/AnimeInterp) |
 | [AnimeRun](https://lisiyao21.github.io/projects/AnimeRun) | [AnimeRun: 2D Animation Correspondence from Open Source 3D Movies](https://lisiyao21.github.io/projects/AnimeRun) | NeurIPS 2022 | [[code]](https://github.com/lisiyao21/AnimeRun) |
+| [PaintBucket-Character](https://github.com/ykdai/BasicPBC?tab=readme-ov-file#data-download) | [Learning Inclusion Matching for Animation Paint Bucket Colorization](https://arxiv.org/abs/2403.18342) | CVPR 2024 | [[code]](https://github.com/ykdai/BasicPBC) |
 
 - Methods
 
