@@ -309,9 +309,10 @@ A collection of sketch based applications.
 | [Learning a Shared Shape Space for Multimodal Garment Design](https://arxiv.org/abs/1806.11335) | SIGGRAPH Asia 2018 |  [[project]](http://geometry.cs.ucl.ac.uk/projects/2018/garment_design/) |
 | [Garment Ideation: Iterative view-aware sketch-based garment modeling](https://github.com/pinakinathc/multiviewsketch-garment) | 3DV 2022 | [[code]](https://github.com/pinakinathc/multiviewsketch-garment) |
 | [Controllable Visual-Tactile Synthesis](https://arxiv.org/pdf/2305.03051.pdf) | ICCV 2023 | [[project]](https://visual-tactile-synthesis.github.io/) [[code]](https://github.com/RuihanGao/visual-tactile-synthesis) |
-| [Controllable Garment Image Synthesis Integrated with Frequency Domain Features](https://diglib.eg.org/xmlui/bitstream/handle/10.1111/cgf14938/v42i7_10_14938.pdf?sequence=1&isAllowed=y) | PG 2023 |  |
+| [Controllable Garment Image Synthesis Integrated with Frequency Domain Features](https://doi.org/10.1111/cgf.14938) | PG 2023 |  |
 | [Toward Intelligent Interactive Design: A Generation Framework Based on Cross-domain Fashion Elements](https://dl.acm.org/doi/abs/10.1145/3581783.3612376) | ACM MM 2023 |  |
 | [FashionDiff: A Controllable Diffusion Model Using Pairwise Fashion Elements for Intelligent Design](https://dl.acm.org/doi/abs/10.1145/3581783.3612127) | ACM MM 2023 |  |
+| [TexControl: Sketch-Based Two-Stage Fashion Image Generation Using Diffusion Model](https://arxiv.org/abs/2405.04675) | NICOGRAPH 2024 |  |
 
 
 ## 7. Sketch Completion
