@@ -123,6 +123,7 @@ A collection of sketch based applications.
 | [DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample](https://arxiv.org/abs/2109.06151) | ICCV 2021 | [[code]](https://github.com/eliahuhorwitz/DeepSIM) [[project]](http://www.vision.huji.ac.il/deepsim/) |
 | [SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches](https://arxiv.org/abs/2111.15078) | CVPR 2022 | [[code]](https://github.com/zengxianyu/sketchedit) [[project]](https://zengxianyu.github.io/sketchedit/) |
 | [Draw2Edit: Mask-Free Sketch-Guided Image Manipulation](https://dl.acm.org/doi/abs/10.1145/3581783.3612398) | ACM MM 2023 | [[code]](https://github.com/YiwenXu/Draw2Edit)  |
+| [Towards Interactive Image Inpainting via Robust Sketch Refinement](https://ieeexplore.ieee.org/abstract/document/10533842/) | TMM 2024 | [[code]](https://github.com/AlonzoLeeeooo/SketchRefiner) [[project]](https://alonzoleeeooo.github.io/SketchRefiner/)  |
 
 - Human Face / Portrait / Hair
 
