@@ -66,7 +66,7 @@ A collection of sketch based applications.
 | [Picture that Sketch: Photorealistic Image Generation from Abstract Sketches](https://arxiv.org/abs/2303.11162) | CVPR 2023 | [[project]](https://subhadeepkoley.github.io/PictureThatSketch/) [[code]](https://github.com/subhadeepkoley/PictureThatSketch) | 
 
 
-- Human Face / Portrait
+- Human Face / Portrait / Body
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -78,6 +78,7 @@ A collection of sketch based applications.
 | [DeepPortraitDrawing: Generating Human Body Images from Freehand Sketches](https://arxiv.org/abs/2205.02070) | C&G 2023 |  |
 | [Semantics-Preserving Sketch Embedding for Face Generation](https://arxiv.org/abs/2211.13015) | TMM 2023 | [[project]](http://staff.ustc.edu.cn/~xjchen99/sketchFaceTMM/sketchFaceTmm.htm) [[code]](https://github.com/BinxinYang/Semantics-Preserving-Sketch-Embedding-for-Face-Generation) |
 | [Parsing-Conditioned Anime Translation: A New Dataset and Method](https://dl.acm.org/doi/abs/10.1145/3585002) | TOG 2023 | [[code]](https://github.com/zsl2018/StyleAnime) |
+| [Sketch2Human: Deep Human Generation with Disentangled Geometry and Appearance Constraints](https://ieeexplore.ieee.org/abstract/document/10538021) | TVCG 2024 |  |
 
 - 3D image
 
