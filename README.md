@@ -383,6 +383,7 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Deep Sketch-guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/abstract/document/9314221) | TVCG 2021 | [[code]](https://github.com/xiaoyu258/Inbetweening) |
+| [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter?tab=readme-ov-file#12-sparse-sketch-guidance) | Demo | [[code]](https://github.com/ToonCrafter/ToonCrafter?tab=readme-ov-file#12-sparse-sketch-guidance) |
 
 ## 13. Sketch Recognition
 
@@ -663,6 +664,7 @@ A collection of sketch based applications.
 |    |
 | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/abstract/document/8803506) | ICIP 2019 | raster |  |
 | [Bridging the Gap: Fine-to-Coarse Sketch Interpolation Network for High-Quality Animation Sketch Inbetweening](https://arxiv.org/abs/2308.13273) | arxiv 23.08 | raster |  |
+| [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter?tab=readme-ov-file#21-cartoon-sketch-interpolation-see-project-page-for-more-details) | Demo | raster | [[code]](https://github.com/ToonCrafter/ToonCrafter?tab=readme-ov-file#21-cartoon-sketch-interpolation-see-project-page-for-more-details) |
 
 - Animation
 
