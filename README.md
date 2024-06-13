@@ -491,40 +491,6 @@ A collection of sketch based applications.
     <td> <a href="https://github.com/PRIS-CV/Sketch-CS">[code]</a> </td>
   </tr>
 </table>
-
-- Panoptic Segmentation
-                                                   
-<table>
-  <tr>
-    <td><strong>Type</strong></td>
-    <td><strong>Paper</strong></td>
-    <td><strong>Source</strong></td>
-    <td><strong>Code/Project Link</strong></td>
-  </tr>
-  
-  <tr>
-    <td rowspan="4"><strong>Vector</strong></td>
-    <td> <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_FloorPlanCAD_A_Large-Scale_CAD_Drawing_Dataset_for_Panoptic_Symbol_Spotting_ICCV_2021_paper.pdf">FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol Spotting</a> </td> 
-    <td> ICCV 2021 </td> 
-    <td> <a href="https://floorplancad.github.io/">[project]</a> </td>
-  </tr>
-  <tr>
-    <td> <a href="https://arxiv.org/abs/2201.00625">GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings</a> </td> 
-    <td> CVPR 2022 </td> 
-    <td> </td>
-  </tr>
-  <tr>
-    <td> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CADTransformer_Panoptic_Symbol_Spotting_Transformer_for_CAD_Drawings_CVPR_2022_paper.pdf">CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings</a> </td> 
-    <td> CVPR 2022 </td> 
-    <td> <a href="https://github.com/VITA-Group/CADTransformer">[code]</a> </td>
-  </tr>
-  <tr>
-    <td> <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_VectorFloorSeg_Two-Stream_Graph_Attention_Network_for_Vectorized_Roughcast_Floorplan_Segmentation_CVPR_2023_paper.pdf">VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation</a> </td> 
-    <td> CVPR 2023 </td> 
-    <td> <a href="https://github.com/DrZiji/VecFloorSeg">[code]</a> </td>
-  </tr>
-  
-</table>
                                                    
 - Perceptual Grouping
 
@@ -555,6 +521,49 @@ A collection of sketch based applications.
   
 </table>
 
+- FloorPlan 
+                                                   
+<table>
+  <tr>
+    <td><strong>Type</strong></td>
+    <td><strong>Paper</strong></td>
+    <td><strong>Source</strong></td>
+    <td><strong>Code/Project Link</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="6"><strong>Vector</strong></td>
+    <td> <a href="https://proceedings.neurips.cc/paper/2021/hash/cdf1035c34ec380218a8cc9a43d438f9-Abstract.html">Recognizing Vector Graphics without Rasterization</a> </td> 
+    <td> NeurIPS 2021 </td> 
+    <td> <a href="https://github.com/microsoft/YOLaT-VectorGraphicsRecognition">[code]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_FloorPlanCAD_A_Large-Scale_CAD_Drawing_Dataset_for_Panoptic_Symbol_Spotting_ICCV_2021_paper.pdf">FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol Spotting</a> </td> 
+    <td> ICCV 2021 </td> 
+    <td> <a href="https://floorplancad.github.io/">[project]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2201.00625">GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings</a> </td> 
+    <td> CVPR 2022 </td> 
+    <td> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CADTransformer_Panoptic_Symbol_Spotting_Transformer_for_CAD_Drawings_CVPR_2022_paper.pdf">CADTransformer: Panoptic Symbol Spotting Transformer for CAD Drawings</a> </td> 
+    <td> CVPR 2022 </td> 
+    <td> <a href="https://github.com/VITA-Group/CADTransformer">[code]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_VectorFloorSeg_Two-Stream_Graph_Attention_Network_for_Vectorized_Roughcast_Floorplan_Segmentation_CVPR_2023_paper.pdf">VectorFloorSeg: Two-Stream Graph Attention Network for Vectorized Roughcast Floorplan Segmentation</a> </td> 
+    <td> CVPR 2023 </td> 
+    <td> <a href="https://github.com/DrZiji/VecFloorSeg">[code]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/10508965">Hierarchical Recognizing Vector Graphics and A New Chart-based Vector Graphics Dataset</a> </td> 
+    <td> TPAMI 2024 </td> 
+    <td> <a href="https://github.com/microsoft/YOLaT-VectorGraphicsRecognition">[code]</a> </td>
+  </tr>
+  
+</table>
 
 ## 15. Sketch Representation Learning
 
