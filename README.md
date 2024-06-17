@@ -441,7 +441,7 @@ A collection of sketch based applications.
   </tr>
   
   <tr>
-    <td rowspan="10"><strong>Stroke-level</strong></td>
+    <td rowspan="11"><strong>Stroke-level</strong></td>
     <td> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/16-2012-eccv-sketch-segmenation.pdf">Free Hand-Drawn Sketch Segmentation</a> </td> 
     <td> ECCV 2012 </td> 
     <td>  </td>
@@ -487,9 +487,15 @@ A collection of sketch based applications.
     <td> <a href="https://github.com/PRIS-CV/Sketch-SF">[code]</a> </td>
   </tr>
   <tr>
-    <td> <a href="https://pubmed.ncbi.nlm.nih.gov/38470581/">CreativeSeg: Semantic Segmentation of Creative Sketches</a> </td> 
+    <td> <a href="https://ieeexplore.ieee.org/abstract/document/10471272">CreativeSeg: Semantic Segmentation of Creative Sketches</a> </td> 
     <td> TIP 2024 </td> 
     <td> <a href="https://github.com/PRIS-CV/Sketch-CS">[code]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_ContextSeg_Sketch_Semantic_Segmentation_by_Querying_the_Context_with_Attention_CVPR_2024_paper.pdf">ContextSeg: Sketch Semantic Segmentation by Querying the Context with Attention
+</a> </td> 
+    <td> CVPR 2024 </td> 
+    <td> <a href="https://enigma-li.github.io/projects/contextSeg/contextSeg.html">[webpage]</a> </td>
   </tr>
 </table>
                                                    
