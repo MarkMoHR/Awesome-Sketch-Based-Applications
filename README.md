@@ -210,6 +210,7 @@ A collection of sketch based applications.
 | [You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval](https://arxiv.org/abs/2403.07222) | CVPR 2024 | [[project]](https://subhadeepkoley.github.io/SBCIR/) |
 | [How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?](https://arxiv.org/abs/2403.07203) | CVPR 2024 | [[project]](https://subhadeepkoley.github.io/AbstractAway/) |
 | [Asymmetric Mutual Alignment for Unsupervised Zero-Shot Sketch-Based Image Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/29588) | AAAI 2024 |  |
+| [Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2407.01810) | ECCV 2024 |  |
 
 
 - Scene-level
@@ -301,6 +302,7 @@ A collection of sketch based applications.
 | [Reconstruction of Machine-Made Shapes from Bitmap Sketches](https://dl.acm.org/doi/abs/10.1145/3618361) | SIGGRAPH Asia 2023 | [[project]](https://puhachov.xyz/publications/machine-made-sketch-reconstruction/) |
 | [CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention](https://arxiv.org/abs/2402.17678) | CVPR 2024 |  |
 | [SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SfmCAD_Unsupervised_CAD_Reconstruction_by_Learning_Sketch-based_Feature_Modeling_Operations_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/BunnySoCrazy/SfmCAD) |
+|[GroundUp: Rapid Sketch-Based 3D City Massing](https://yulia.gryaditskaya.com/)| ECCV 2024 |  |
 
 
 ## 6. Sketch Based Garment Design
@@ -588,6 +590,7 @@ A collection of sketch based applications.
 | [SketchXAI: A First Look at Explainability for Human Sketches](https://arxiv.org/abs/2304.11744) | CVPR 2023 | [[project]](https://sketchxai.github.io/) | Vector/stroke-level | sketch recognition |
 | [Prediction with Visual Evidence: Sketch Classification Explanation via Stroke-Level Attributions](https://ieeexplore.ieee.org/abstract/document/10194541) | TIP 2023 |  | Vector/stroke-level |  |
 | [What Sketch Explainability Really Means for Downstream Tasks](https://arxiv.org/abs/2403.09480) | CVPR 2024 |  | Vector/stroke-level |  |
+| [Do Generalised Classifiers really work on Human Drawn Sketches?]() | ECCV 2024 |  | Pixel-level |  |
 
 
 - Conventional Representation Learning
