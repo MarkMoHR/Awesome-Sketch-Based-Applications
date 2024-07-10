@@ -302,7 +302,7 @@ A collection of sketch based applications.
 | [Reconstruction of Machine-Made Shapes from Bitmap Sketches](https://dl.acm.org/doi/abs/10.1145/3618361) | SIGGRAPH Asia 2023 | [[project]](https://puhachov.xyz/publications/machine-made-sketch-reconstruction/) |
 | [CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention](https://arxiv.org/abs/2402.17678) | CVPR 2024 |  |
 | [SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SfmCAD_Unsupervised_CAD_Reconstruction_by_Learning_Sketch-based_Feature_Modeling_Operations_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/BunnySoCrazy/SfmCAD) |
-|[GroundUp: Rapid Sketch-Based 3D City Massing](https://yulia.gryaditskaya.com/)| ECCV 2024 |  |
+|[GroundUp: Rapid Sketch-Based 3D City Massing](https://github.com/unlugi/GroundUp-ECCV2024)| ECCV 2024 | [[code]](https://github.com/unlugi/GroundUp-ECCV2024) |
 
 
 ## 6. Sketch Based Garment Design
@@ -590,7 +590,7 @@ A collection of sketch based applications.
 | [SketchXAI: A First Look at Explainability for Human Sketches](https://arxiv.org/abs/2304.11744) | CVPR 2023 | [[project]](https://sketchxai.github.io/) | Vector/stroke-level | sketch recognition |
 | [Prediction with Visual Evidence: Sketch Classification Explanation via Stroke-Level Attributions](https://ieeexplore.ieee.org/abstract/document/10194541) | TIP 2023 |  | Vector/stroke-level |  |
 | [What Sketch Explainability Really Means for Downstream Tasks](https://arxiv.org/abs/2403.09480) | CVPR 2024 |  | Vector/stroke-level |  |
-| [Do Generalised Classifiers really work on Human Drawn Sketches?]() | ECCV 2024 |  | Pixel-level |  |
+| [Do Generalised Classifiers really work on Human Drawn Sketches?](https://arxiv.org/abs/2407.03893) | ECCV 2024 |  | Pixel-level |  |
 
 
 - Conventional Representation Learning
