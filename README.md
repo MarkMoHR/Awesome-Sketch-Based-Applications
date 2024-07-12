@@ -281,6 +281,7 @@ A collection of sketch based applications.
 |[Reality3DSketch: Rapid 3D Modeling of Objects from Single Freehand Sketches](https://arxiv.org/abs/2310.18148)| TMM 2023 |  |
 |[Doodle Your 3D: From Abstract Freehand Sketches to Precise 3D Shapes](https://arxiv.org/abs/2312.04043)| CVPR 2024 | [[project]](https://hmrishavbandy.github.io/doodle23d/) [[code]](https://github.com/hmrishavbandy/dy3d) |
 |[SENS: Part-Aware Sketch-based Implicit Neural Shape Modeling](https://arxiv.org/abs/2306.06088)| EG 2024 | [[code]](https://github.com/AlexandreBinninger/SENS) [[project]](https://alexandrebinninger.com/SENS/) |
+|[3D Reconstruction from a Single Sketch via View-dependent Depth Sampling](https://ieeexplore.ieee.org/abstract/document/10589301)| TPAMI 2024 | [[code]](https://github.com/cjeen/sketchsampler) |
 
 
 - NeRF
