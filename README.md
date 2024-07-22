@@ -20,7 +20,7 @@ A collection of sketch based applications.
 - [7. Sketch Completion](#7-sketch-completion)
 - [8. Sketch Restoration, Retargeting and Inpainting](#8-sketch-restoration-retargeting-and-inpainting)
 - [9. Sketch and Shading](#9-sketch-and-shading)
-- [10. Sketch Enhancement](#10-sketch-enhancement)
+- [10. Sketch Enhancement / Beautification](#10-sketch-enhancement--beautification)
 - [11. Sketch-Guided Object Localization](#11-sketch-guided-object-localization)
 - [12. Sketch-Guided Video Synthesis](#12-sketch-guided-video-synthesis)
 - [13. Sketch Recognition](#13-sketch-recognition)
@@ -304,7 +304,7 @@ A collection of sketch based applications.
 | [Reconstruction of Machine-Made Shapes from Bitmap Sketches](https://dl.acm.org/doi/abs/10.1145/3618361) | SIGGRAPH Asia 2023 | [[project]](https://puhachov.xyz/publications/machine-made-sketch-reconstruction/) |
 | [CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention](https://arxiv.org/abs/2402.17678) | CVPR 2024 |  |
 | [SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SfmCAD_Unsupervised_CAD_Reconstruction_by_Learning_Sketch-based_Feature_Modeling_Operations_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/BunnySoCrazy/SfmCAD) |
-|[GroundUp: Rapid Sketch-Based 3D City Massing](https://github.com/unlugi/GroundUp-ECCV2024)| ECCV 2024 | [[code]](https://github.com/unlugi/GroundUp-ECCV2024) |
+|[GroundUp: Rapid Sketch-Based 3D City Massing](https://arxiv.org/abs/2407.12739)| ECCV 2024 | [[code]](https://github.com/unlugi/GroundUp-ECCV2024) |
 
 
 ## 6. Sketch Based Garment Design
@@ -366,11 +366,25 @@ A collection of sketch based applications.
 | [Learning to Shadow Hand-drawn Sketches](https://arxiv.org/abs/2002.11812) | CVPR 2020 | [[project]](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/index.html) [[code]](https://github.com/qyzdao/ShadeSketch) |
 | [SmartShadow: Artistic Shadow Drawing Tool for Line Drawings](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_SmartShadow_Artistic_Shadow_Drawing_Tool_for_Line_Drawings_ICCV_2021_paper.pdf) | ICCV 2021 | [[project]](https://lllyasviel.github.io/Style2PaintsResearch/iccv2021/index.html)  |
 
-## 10. Sketch Enhancement
+## 10. Sketch Enhancement / Beautification
+
+- Sketch Enhancement
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | ACM MM 2020 | [[code]](https://github.com/LCXCUC/SketchMan2020) |
+
+- Sketch Beautification
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Sketch Beautification: Learning Part Beautification and Structure Refinement for Sketches of Man-made Objects](https://hongbofu.people.ust.hk/doc/Sketch_Beautification_TVCG2024.pdf) | TVCG 2024 |  |
+| [PICASSO: A Feed-Forward Framework for Parametric Inference of CAD Sketches via Rendering Self-Supervision](https://arxiv.org/abs/2407.13394) | arxiv 24.07 |  |
+
+- Super Resolution
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
 | [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598) | CVPR 2024 | [[code]](https://github.com/Kiteretsu77/APISR) |
 
 ## 11. Sketch-Guided Object Localization 
