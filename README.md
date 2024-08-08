@@ -718,6 +718,7 @@ A collection of sketch based applications.
 | [Breathing Life Into Sketches Using Text-to-Video Priors](https://arxiv.org/abs/2311.13608) | CVPR 2024 | stroke | [[code]](https://github.com/yael-vinker/live_sketch) [[project]](https://livesketch.github.io/) |
 | [AniClipart: Clipart Animation with Text-to-Video Priors](https://arxiv.org/abs/2404.12347) | arxiv 24.04 | image | [[project]](https://aniclipart.github.io/) |
 | [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://arxiv.org/abs/2404.11614) | arxiv 24.04 | curve | [[project]](https://animate-your-word.github.io/demo/) [[code]](https://github.com/zliucz/animate-your-word) |
+| [DrawingSpinUp: 3D Animation from Single Character Drawings](https://lordliang.github.io/DrawingSpinUp/) | SIGGRAPH Asia 2024 | image | [[project]](https://lordliang.github.io/DrawingSpinUp/) [[code]](https://github.com/LordLiang/DrawingSpinUp) |
 
 
 ## 18. Sketch and AR/VR
