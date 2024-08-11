@@ -97,6 +97,7 @@ A collection of sketch based applications.
 | [CoGS: Controllable Generation and Search from Sketch and Style](https://arxiv.org/abs/2203.09554) | ECCV 2022 |  |
 | [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675) | WACV 2023 | [[project]](https://cyj407.github.io/DiSS/) [[code]](https://github.com/cyj407/DiSS) |
 | [DemoCaricature: Democratising Caricature Generation with a Rough Sketch](https://arxiv.org/abs/2312.04364) | CVPR 2024 | [[project]](https://democaricature.github.io/) |
+| [SMFS-GAN: Style-Guided Multi-class Freehand Sketch-to-Image Synthesis](https://doi.org/10.1111/cgf.15190) | CGF 2024 |  |
 
 ### 1.3 Text-conditioned
 
@@ -284,6 +285,12 @@ A collection of sketch based applications.
 |[SENS: Part-Aware Sketch-based Implicit Neural Shape Modeling](https://arxiv.org/abs/2306.06088)| EG 2024 | [[code]](https://github.com/AlexandreBinninger/SENS) [[project]](https://alexandrebinninger.com/SENS/) |
 |[3D Reconstruction from a Single Sketch via View-dependent Depth Sampling](https://ieeexplore.ieee.org/abstract/document/10589301)| TPAMI 2024 | [[code]](https://github.com/cjeen/sketchsampler) |
 
+- Scene Generation
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+|[GroundUp: Rapid Sketch-Based 3D City Massing](https://arxiv.org/abs/2407.12739)| ECCV 2024 | [[code]](https://github.com/unlugi/GroundUp-ECCV2024) |
+|[Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches](https://arxiv.org/abs/2408.04567)| arxiv 24.08 | [[webpage]](https://xrvisionlabs.github.io/Sketch2Scene/) |
 
 - NeRF
 
@@ -305,7 +312,6 @@ A collection of sketch based applications.
 | [Reconstruction of Machine-Made Shapes from Bitmap Sketches](https://dl.acm.org/doi/abs/10.1145/3618361) | SIGGRAPH Asia 2023 | [[project]](https://puhachov.xyz/publications/machine-made-sketch-reconstruction/) |
 | [CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention](https://arxiv.org/abs/2402.17678) | CVPR 2024 |  |
 | [SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SfmCAD_Unsupervised_CAD_Reconstruction_by_Learning_Sketch-based_Feature_Modeling_Operations_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/BunnySoCrazy/SfmCAD) |
-|[GroundUp: Rapid Sketch-Based 3D City Massing](https://arxiv.org/abs/2407.12739)| ECCV 2024 | [[code]](https://github.com/unlugi/GroundUp-ECCV2024) |
 
 
 ## 6. Sketch Based Garment Design
