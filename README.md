@@ -213,6 +213,7 @@ A collection of sketch based applications.
 | [Asymmetric Mutual Alignment for Unsupervised Zero-Shot Sketch-Based Image Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/29588) | AAAI 2024 |  |
 | [Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2407.01810) | ECCV 2024 |  |
 | [Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning](https://arxiv.org/abs/2407.04207) | ECCV 2024 | [[code]](https://github.com/mainaksingha01/SpLIP) |
+| [Zero-Shot Sketch Based Image Retrieval via Modality Capacity Guidance](https://www.ijcai.org/proceedings/2024/0197.pdf) | IJCAI-24 | [[code]](https://github.com/YHdian0716/ZS-SBIR-MCC) |
 
 
 - Scene-level
@@ -224,6 +225,8 @@ A collection of sketch based applications.
 | [SceneSketcher-v2: Fine-Grained Scene-Level Sketch-Based Image Retrieval using Adaptive GCNs](https://ieeexplore.ieee.org/abstract/document/9779565) | TIP 2022 |  |
 | [FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context](https://ieeexplore.ieee.org/abstract/document/9779565) | ECCV 2022 | [[code]](https://github.com/pinakinathc/fscoco) [[Dataset]](https://fscoco.github.io/) |
 | [Scene-Level Sketch-Based Image Retrieval with Minimal Pairwise Supervision](https://ojs.aaai.org/index.php/AAAI/article/view/25141) | AAAI 2023 |  |
+| [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://arxiv.org/abs/2312.02428) | ECCV 2024 | [[code]](https://github.com/CuriseJia/FreeStyleRet) |
+
 
 - Video Retrieval
 
@@ -650,6 +653,7 @@ A collection of sketch based applications.
 | [Deep Self-Supervised Representation Learning for Free-Hand Sketch](https://arxiv.org/abs/2002.00867) | TCSVT 2020 | [[Code]](https://github.com/zzz1515151/self-supervised_learning_sketch) | Vector/stroke-level | Retrieval and recognition |
 | [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://arxiv.org/abs/2005.09159) | CVPR 2020 | [[Code]](https://github.com/avalonstrel/SketchBERT) | Vector/stroke-level | Sketch recognition, retrieval, and gestalt |
 | [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://arxiv.org/abs/2103.13716) | CVPR 2021 | [[Code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch) | Both Vector and Raster-level | Recognition |
+| [Self-Supervised Learning for Enhancing Spatial Awareness in Free-Hand Sketches](https://www.ijcai.org/proceedings/2024/0566.pdf) | IJCAI 2024 | [[Code]](https://github.com/CMACH508/SketchGloc) | Vector-level | Synthesis |
 
 
 - Scene-level
