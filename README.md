@@ -105,13 +105,13 @@ A collection of sketch based applications.
 | --- | --- | --- |
 | [Sketch-Guided Text-to-Image Diffusion Models](https://arxiv.org/abs/2211.13752) | SIGGRAPH 2023 | [[project]](https://sketch-guided-diffusion.github.io/) |
 | [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | ICCV 2023 | [[code]](https://github.com/lllyasviel/ControlNet) |
-| [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.08453) | arxiv 23.02 | [[code]](https://github.com/TencentARC/T2I-Adapter) |
 | [UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild](https://arxiv.org/abs/2305.11147) | NeurIPS 2023 | [[code]](https://github.com/salesforce/UniControl) [[project]](https://canqin001.github.io/UniControl-Page/) |
 | [Stable Doodle (ClipDrop)](https://stability.ai/blog/clipdrop-launches-stable-doodle?continueFlag=6b17b7a626134700c01cc2e1afe3158a) |  | [[demo]](https://clipdrop.co/stable-doodle) |
 | [CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing](https://arxiv.org/abs/2402.17624) | arxiv 24.02 |  |
 | [Block and Detail: Scaffolding Sketch-to-Image Generation](https://arxiv.org/abs/2402.18116) | arxiv 24.02 |  |
 | [One-Step Image Translation with Text-to-Image Models](https://arxiv.org/abs/2403.12036) | arxiv 24.03 | [[code]](https://github.com/GaParmar/img2img-turbo) |
 | [It's All About Your Sketch: Democratising Sketch Control in Diffusion Models](https://arxiv.org/abs/2403.07234) | CVPR 2024 | [[code]](https://github.com/subhadeepkoley/StableSketching) |
+| [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.08453) | AAAI 2024 | [[code]](https://github.com/TencentARC/T2I-Adapter) |
 
 ## 2. Sketch Based Image Editing
 
