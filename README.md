@@ -412,7 +412,7 @@ A collection of sketch based applications.
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Deep Sketch-guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/abstract/document/9314221) | TVCG 2021 | [[code]](https://github.com/xiaoyu258/Inbetweening) |
-| [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | arxiv 24.05 | [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
+| [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | SIGGRAPH Asia 2024 | [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
 
 
 ## 13. Sketch Recognition
@@ -712,7 +712,7 @@ A collection of sketch based applications.
 |    |
 | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/abstract/document/8803506) | ICIP 2019 | raster |  |
 | [Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening](https://openreview.net/forum?id=7GPsuT0vyh) | ACM MM 2024 | raster |  |
-| [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | arxiv 24.05 | raster | [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
+| [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | SIGGRAPH Asia 2024 | raster | [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
 
 
 - Animation
