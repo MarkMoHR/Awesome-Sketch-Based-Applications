@@ -96,7 +96,7 @@ A collection of sketch based applications.
 | [Self-Supervised Sketch-to-Image Synthesis](https://arxiv.org/abs/2012.09290) | AAAI 2021 | [[code]](https://github.com/odegeasslbc/Self-Supervised-Sketch-to-Image-Synthesis-PyTorch) |
 | [CoGS: Controllable Generation and Search from Sketch and Style](https://arxiv.org/abs/2203.09554) | ECCV 2022 |  |
 | [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675) | WACV 2023 | [[project]](https://cyj407.github.io/DiSS/) [[code]](https://github.com/cyj407/DiSS) |
-| [DemoCaricature: Democratising Caricature Generation with a Rough Sketch](https://arxiv.org/abs/2312.04364) | CVPR 2024 | [[project]](https://democaricature.github.io/) |
+| [DemoCaricature: Democratising Caricature Generation with a Rough Sketch](https://arxiv.org/abs/2312.04364) | CVPR 2024 | [[project]](https://democaricature.github.io/) [[code]](https://github.com/ChenDarYen/DemoCaricature/) |
 | [SMFS-GAN: Style-Guided Multi-class Freehand Sketch-to-Image Synthesis](https://doi.org/10.1111/cgf.15190) | CGF 2024 |  |
 
 ### 1.3 Text-conditioned
@@ -143,7 +143,6 @@ A collection of sketch based applications.
 | [Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing](https://arxiv.org/abs/2208.08092) | ECCV 2022 | [[code]](https://github.com/1jsingh/paint2pix) [[project]](https://1jsingh.github.io/paint2pix) |
 | [NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://dl.acm.org/doi/abs/10.1145/3550469.3555377) | SIGGRAPH Asia 2022 | [[project]](http://geometrylearning.com/NeRFFaceEditing/) |
 | [SketchFaceNeRF: Sketch-based Facial Generation and Editing in Neural Radiance Fields](https://orca.cardiff.ac.uk/id/eprint/159468/1/NeRFFaceSketch_SIG23.pdf) | SIGGRAPH 2023 |  |
-| [DemoCaricature: Democratising Caricature Generation with a Rough Sketch](https://arxiv.org/abs/2312.04364) | arxiv 23.12 | [[project]](https://democaricature.github.io/) [[code]](https://github.com/ChenDarYen/DemoCaricature/) |
 
 - Anime Editing
 
