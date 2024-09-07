@@ -112,6 +112,7 @@ A collection of sketch based applications.
 | [One-Step Image Translation with Text-to-Image Models](https://arxiv.org/abs/2403.12036) | arxiv 24.03 | [[code]](https://github.com/GaParmar/img2img-turbo) |
 | [It's All About Your Sketch: Democratising Sketch Control in Diffusion Models](https://arxiv.org/abs/2403.07234) | CVPR 2024 | [[code]](https://github.com/subhadeepkoley/StableSketching) |
 | [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.08453) | AAAI 2024 | [[code]](https://github.com/TencentARC/T2I-Adapter) |
+| [Training-Free Sketch-Guided Diffusion with Latent Optimization](https://arxiv.org/abs/2409.00313) | arxiv 24.09 |  |
 
 ## 2. Sketch Based Image Editing
 
