@@ -113,6 +113,7 @@ A collection of sketch based applications.
 | [It's All About Your Sketch: Democratising Sketch Control in Diffusion Models](https://arxiv.org/abs/2403.07234) | CVPR 2024 | [[code]](https://github.com/subhadeepkoley/StableSketching) |
 | [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.08453) | AAAI 2024 | [[code]](https://github.com/TencentARC/T2I-Adapter) |
 | [Training-Free Sketch-Guided Diffusion with Latent Optimization](https://arxiv.org/abs/2409.00313) | arxiv 24.09 |  |
+| [Scribble-Guided Diffusion for Training-free Text-to-Image Generation](https://arxiv.org/abs/2409.08026) | arxiv 24.09 | [[code]](https://github.com/kaist-cvml/scribble-guided-diffusion) |
 
 ## 2. Sketch Based Image Editing
 
