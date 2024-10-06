@@ -289,6 +289,7 @@ A collection of sketch based applications.
 |[SENS: Part-Aware Sketch-based Implicit Neural Shape Modeling](https://arxiv.org/abs/2306.06088)| EG 2024 | [[code]](https://github.com/AlexandreBinninger/SENS) [[project]](https://alexandrebinninger.com/SENS/) |
 |[3D Reconstruction from a Single Sketch via View-dependent Depth Sampling](https://ieeexplore.ieee.org/abstract/document/10589301)| TPAMI 2024 | [[code]](https://github.com/cjeen/sketchsampler) |
 |[S2TD-Face: Reconstruct a Detailed 3D Face with Controllable Texture from a Single Sketch](https://arxiv.org/abs/2408.01218)| ACM MM 2024 | [[code]](https://github.com/wang-zidu/S2TD-Face) |
+|[Sketch2Vox: Learning 3D Reconstruction from a Single Monocular Sketch](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09384.pdf)| ECCV 2024 |  |
 
 - Scene Generation
 
