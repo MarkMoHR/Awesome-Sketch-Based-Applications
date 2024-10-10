@@ -295,8 +295,9 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-|[GroundUp: Rapid Sketch-Based 3D City Massing](https://arxiv.org/abs/2407.12739)| ECCV 2024 | [[code]](https://github.com/unlugi/GroundUp-ECCV2024) |
 |[Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches](https://arxiv.org/abs/2408.04567)| arxiv 24.08 | [[webpage]](https://xrvisionlabs.github.io/Sketch2Scene/) |
+|[GroundUp: Rapid Sketch-Based 3D City Massing](https://arxiv.org/abs/2407.12739)| ECCV 2024 | [[code]](https://github.com/unlugi/GroundUp-ECCV2024) |
+|[External Knowledge Enhanced 3D Scene Generation from Sketch](https://arxiv.org/abs/2403.14121)| ECCV 2024 |  |
 
 - NeRF
 
