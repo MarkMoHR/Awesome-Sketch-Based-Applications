@@ -212,6 +212,7 @@ A collection of sketch based applications.
 | [You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval](https://arxiv.org/abs/2403.07222) | CVPR 2024 | [[project]](https://subhadeepkoley.github.io/SBCIR/) |
 | [How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?](https://arxiv.org/abs/2403.07203) | CVPR 2024 | [[project]](https://subhadeepkoley.github.io/AbstractAway/) |
 | [Asymmetric Mutual Alignment for Unsupervised Zero-Shot Sketch-Based Image Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/29588) | AAAI 2024 |  |
+| [Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions](https://ojs.aaai.org/index.php/AAAI/article/view/27956) | AAAI 2024 | [[project]](https://vl2g.github.io/projects/cstbir/) |
 | [Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2407.01810) | ECCV 2024 |  |
 | [Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning](https://arxiv.org/abs/2407.04207) | ECCV 2024 | [[code]](https://github.com/mainaksingha01/SpLIP) |
 | [Zero-Shot Sketch Based Image Retrieval via Modality Capacity Guidance](https://www.ijcai.org/proceedings/2024/0197.pdf) | IJCAI-24 | [[code]](https://github.com/YHdian0716/ZS-SBIR-MCC) |
@@ -743,6 +744,7 @@ Please refer to repository [MarkMoHR/Awesome-2D-Animation](https://github.com/Ma
 | --- | --- | --- |
 | [Cross-Compatible Embedding and Semantic Consistent Feature Construction for Sketch Re-identification](https://dl.acm.org/doi/abs/10.1145/3503161.3548224) | ACM MM 2022 | [[code]](https://github.com/lhf12278/CCSC) |
 | [SketchTrans: Disentangled Prototype Learning with Transformer for Sketch-Photo Recognition](https://ieeexplore.ieee.org/document/10328884) | TPAMI 2023 | [[code]](https://github.com/ccq195/SketchTrans) |
+| [Differentiable Auxiliary Learning for Sketch Re-Identification](https://ojs.aaai.org/index.php/AAAI/article/view/28165) | AAAI 2024 |  |
 
 ## 23. Sketch-based Salient Object Detection
 | Paper | Source | Code/Project Link  |
