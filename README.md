@@ -300,13 +300,14 @@ A collection of sketch based applications.
 |[GroundUp: Rapid Sketch-Based 3D City Massing](https://arxiv.org/abs/2407.12739)| ECCV 2024 | [[code]](https://github.com/unlugi/GroundUp-ECCV2024) |
 |[External Knowledge Enhanced 3D Scene Generation from Sketch](https://arxiv.org/abs/2403.14121)| ECCV 2024 |  |
 
-- NeRF
+- NeRF & 3DGS
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation](https://arxiv.org/abs/2401.14257) | arxiv 24.01 |  |
 | [SKED: Sketch-guided Text-based 3D Editing](https://arxiv.org/abs/2303.10735) | ICCV 2023 | [[project]](https://sked-paper.github.io/) [[code]](https://github.com/aryanmikaeili/SKED) |
 | [SketchDream: Sketch-based Text-to-3D Generation and Editing](http://geometrylearning.com/SketchDream/) | SIGGRAPH 2024 | [[project]](http://geometrylearning.com/SketchDream/) |
+| [Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168) | arxiv 24.11 |  |
 
 - CAD sketch
 
