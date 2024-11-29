@@ -421,6 +421,7 @@ A collection of sketch based applications.
 | [Deep Sketch-guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/abstract/document/9314221) | TVCG 2021 | [[code]](https://github.com/xiaoyu258/Inbetweening) |
 | [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | SIGGRAPH Asia 2024 | [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
 | [LVCD: Reference-based Lineart Video Colorization with Diffusion Models](https://arxiv.org/abs/2409.12960) | SIGGRAPH Asia 2024 | [[webpage]](https://luckyhzt.github.io/lvcd) |
+| [VIRES: Video Instance Repainting with Sketch and Text Guidance](https://arxiv.org/abs/2411.16199) | arxiv 24.11 | [[webpage]](https://suimuc.github.io/suimu.github.io/projects/VIRES/) |
 
 
 ## 13. Sketch Recognition
@@ -675,7 +676,7 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
-| [SketchINR: A First Look into Sketches as Implicit Neural Representations](https://arxiv.org/abs/2403.09344) | CVPR 2024 |  |                                                                             
+| [SketchINR: A First Look into Sketches as Implicit Neural Representations](https://arxiv.org/abs/2403.09344) | CVPR 2024 | [[code]](https://github.com/hmrishavbandy/SketchINR-Code) |                                                                             
                                                                                        
 ## 16. Sketch and Visual Correspondence
 
