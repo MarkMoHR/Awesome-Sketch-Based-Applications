@@ -255,6 +255,7 @@ A collection of sketch based applications.
 | [Retrieval-Specific View Learning for Sketch-to-Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/10155453) | TMM 2023 |  |
 | [Doodle to Object: Practical Zero-Shot Sketch-Based 3D Shape Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/25344) | AAAI 2023 | [[code]](https://github.com/yigohw/doodle2object) |
 | [Democratising 2D Sketch to 3D Shape Retrieval Through Pivoting](https://openaccess.thecvf.com/content/ICCV2023/papers/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.pdf) | ICCV 2023 |  |
+| [SCDL: Sketch Causal Disentangled Learning for Sketch-based 3D Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/10847755) | TCSVT 2025 |  |
 
 
 ## 5. Sketch Based 3D Shape Modeling
@@ -414,6 +415,7 @@ A collection of sketch based applications.
 | [What Can Human Sketches Do for Object Detection?](https://arxiv.org/abs/2303.15149) | CVPR 2023 | [[project]](http://www.pinakinathc.me/sketch-detect/) |
 | [Sketch-based Video Object Segmentation: Benchmark and Analysis](https://arxiv.org/abs/2311.07261) | BMVC 2023 | [[code]](https://github.com/YRlin-12/Sketch-VOS-datasets) |
 | [Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch](https://arxiv.org/abs/2303.08784) | WACV 2024 | [[project]](https://vcl-iisc.github.io/locformer/) [[code]](https://github.com/vcl-iisc/locformer-SGOL) |
+| [Freestyle Sketch-in-the-Loop Image Segmentation](https://arxiv.org/abs/2501.16022) | arxiv 25.01 | |
 
 ## 12. Sketch-Guided Video Synthesis
 
