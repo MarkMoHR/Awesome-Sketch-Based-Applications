@@ -460,7 +460,7 @@ A collection of sketch based applications.
     <td><strong>Code/Project Link</strong></td>
   </tr>
   <tr>
-    <td rowspan=4"><strong>Pixelwise</strong></td>
+    <td rowspan=5"><strong>Pixelwise</strong></td>
     <td> <a href="https://ieeexplore.ieee.org/abstract/document/8784880">SPFusionNet: Sketch Segmentation Using Multi-modal Data Fusion</a> </td> 
     <td> ICME 2019 </td> 
     <td>  </td>
@@ -479,6 +479,11 @@ A collection of sketch based applications.
     <td> <a href="https://arxiv.org/abs/2312.12463">Open Vocabulary Semantic Scene Sketch Understanding</a> (scene-level) </td> 
     <td> CVPR 2024 </td> 
     <td> <a href="https://github.com/AhmedBourouis/Scene-Sketch-Segmentation">[code]</a> <a href="https://ahmedbourouis.github.io/Scene_Sketch_Segmentation/">[project]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://arxiv.org/abs/2502.09608">Instance Segmentation of Scene Sketches Using Natural Image Priors</a> (scene-level) </td> 
+    <td> arxiv 25.02 </td> 
+    <td> <a href="https://github.com/SketchSeg/SketchSeg-Natural-Prior">[code]</a> <a href="https://sketchseg.github.io/sketch-seg/">[project]</a> </td>
   </tr>
   
   <tr>
