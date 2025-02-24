@@ -419,14 +419,21 @@ A collection of sketch based applications.
 
 ## 12. Sketch-Guided Video Synthesis
 
+- Cartoon
+
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Deep Sketch-guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/abstract/document/9314221) | TVCG 2021 | [[code]](https://github.com/xiaoyu258/Inbetweening) |
 | [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | SIGGRAPH Asia 2024 | [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
 | [LVCD: Reference-based Lineart Video Colorization with Diffusion Models](https://arxiv.org/abs/2409.12960) | SIGGRAPH Asia 2024 | [[webpage]](https://luckyhzt.github.io/lvcd) |
+
+- Normal images
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
 | [VIRES: Video Instance Repainting with Sketch and Text Guidance](https://arxiv.org/abs/2411.16199) | arxiv 24.11 | [[webpage]](https://suimuc.github.io/suimu.github.io/projects/VIRES/) |
 | [VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control](https://arxiv.org/abs/2502.01101) | arxiv 25.02 | [[webpage]](https://csfufu.github.io/vid_sketch/) [[code]](https://github.com/CSfufu/VidSketch) |
-
+| [Controllable Human Video Generation from Sparse Sketches](https://ieeexplore.ieee.org/abstract/document/10892030) | TVCG 2025 |  |
 
 ## 13. Sketch Recognition
 
