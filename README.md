@@ -293,6 +293,7 @@ A collection of sketch based applications.
 |[S2TD-Face: Reconstruct a Detailed 3D Face with Controllable Texture from a Single Sketch](https://arxiv.org/abs/2408.01218)| ACM MM 2024 | [[code]](https://github.com/wang-zidu/S2TD-Face) |
 |[Sketch2Vox: Learning 3D Reconstruction from a Single Monocular Sketch](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09384.pdf)| ECCV 2024 |  |
 |[Doodle Your Motion: Sketch-Guided Human Motion Generation](https://ieeexplore.ieee.org/abstract/document/10812894)| TVCG 2024 |  |
+|[MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425)| arxiv 25.03 | [[webpage]](https://derkleineli.github.io/meshpad/) |
 
 - Scene Generation
 
