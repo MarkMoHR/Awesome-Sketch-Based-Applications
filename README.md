@@ -644,6 +644,7 @@ A collection of sketch based applications.
 | [Prediction with Visual Evidence: Sketch Classification Explanation via Stroke-Level Attributions](https://ieeexplore.ieee.org/abstract/document/10194541) | TIP 2023 |  | Vector/stroke-level |  |
 | [What Sketch Explainability Really Means for Downstream Tasks](https://arxiv.org/abs/2403.09480) | CVPR 2024 |  | Vector/stroke-level |  |
 | [Do Generalised Classifiers really work on Human Drawn Sketches?](https://arxiv.org/abs/2407.03893) | ECCV 2024 |  | Pixel-level |  |
+| [SketchFusion: Learning Universal Sketch Features through Fusing Foundation Models](https://arxiv.org/abs/2503.14129) | CVPR 2025 | [[webpage]](https://subhadeepkoley.github.io/SketchFusion/) | Pixel-level | sketch retrieval, recognition, segmentation,  correspondence learning  |
 
 
 - Conventional Representation Learning
