@@ -114,6 +114,7 @@ A collection of sketch based applications.
 | [T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.08453) | AAAI 2024 | [[code]](https://github.com/TencentARC/T2I-Adapter) |
 | [Training-Free Sketch-Guided Diffusion with Latent Optimization](https://arxiv.org/abs/2409.00313) | arxiv 24.09 |  |
 | [Scribble-Guided Diffusion for Training-free Text-to-Image Generation](https://arxiv.org/abs/2409.08026) | arxiv 24.09 | [[code]](https://github.com/kaist-cvml/scribble-guided-diffusion) |
+| [SketchFlex: Facilitating Spatial-Semantic Coherence in Text-to-Image Generation with Region-Based Sketches](https://arxiv.org/abs/2502.07556) | CHI 2025 | [[code]](https://github.com/SellLin/SketchFlex) |
 
 ## 2. Sketch Based Image Editing
 
@@ -436,6 +437,7 @@ A collection of sketch based applications.
 | [VIRES: Video Instance Repainting with Sketch and Text Guidance](https://arxiv.org/abs/2411.16199) | arxiv 24.11 | [[webpage]](https://suimuc.github.io/suimu.github.io/projects/VIRES/) |
 | [VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control](https://arxiv.org/abs/2502.01101) | arxiv 25.02 | [[webpage]](https://csfufu.github.io/vid_sketch/) [[code]](https://github.com/CSfufu/VidSketch) |
 | [Controllable Human Video Generation from Sparse Sketches](https://ieeexplore.ieee.org/abstract/document/10892030) | TVCG 2025 |  |
+| [SketchVideo: Sketch-based Video Generation and Editing](https://arxiv.org/abs/2503.23284) | CVPR 2025 | [[webpage]](http://geometrylearning.com/SketchVideo/) [[code]](https://github.com/IGLICT/SketchVideo) |
 
 ## 13. Sketch Recognition
 
