@@ -723,11 +723,16 @@ Please refer to repository [MarkMoHR/Awesome-2D-Animation](https://github.com/Ma
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
+| [Experimental Evaluation of Sketching on Surfaces in VR](http://fraseranderson.ca/files/C-2017-VR-Sketching.pdf) | CHI 2017 |  |
 | [SweepCanvas: Sketch-based 3D Prototyping on an RGB-D Image](http://sweb.cityu.edu.hk/hongbofu/doc/sweep_canvas_UIST2017.pdf) | UIST 2017 | [[video]](https://youtu.be/Xnp3_eMYXj0) |
 | [Model-Guided 3D Sketching](http://sweb.cityu.edu.hk/hongbofu/doc/model-guided_3D_sketching_TVCG.pdf) | TVCG 2018 | [[video]](https://youtu.be/STredKjB_Bk) |
+| [SymbiosisSketch: Combining 2D & 3D Sketching for Designing Detailed 3D Objects in Situ](https://dl.acm.org/doi/abs/10.1145/3173574.3173759) | CHI 2018 | [[webpage]](https://rubaiathabib.me/2018/02/24/symbiosissketch-chi-2018/) |
 | [Mobi3DSketch: 3D Sketching in Mobile AR](http://sweb.cityu.edu.hk/hongbofu/doc/mobi3Dsketch_CHI2019.pdf) | CHI 2019 | [[video]](https://youtu.be/JdP0nkeMEog) |
+| [Interactive Body-Driven Graphics for Augmented Video Performance](https://dl.acm.org/doi/abs/10.1145/3290605.3300852) | CHI 2019 | [[webpage]](https://rubaiathabib.me/2019/03/04/body-driven-graphics/) |
 | [Interactive Liquid Splash Modeling by User Sketches](https://dl.acm.org/doi/abs/10.1145/3414685.3417832) | SIGGRAPH Asia 2020 | [[video]](https://youtu.be/HXAxNrfk_w0) |
 | [Towards 3D VR-Sketch to 3D Shape Retrieval](https://rowl1ng.com/assets/pdf/3DV_VRSketch.pdf) | 3DV 2020 | [[code]](https://github.com/ygryadit/Towards3DVRSketch) [[project]](https://rowl1ng.com/projects/3DSketch3DV/) |
+| [Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction](https://dl.acm.org/doi/10.1145/3313831.3376160) | CHI 2020 | [[project]](https://rubaiathabib.me/2020/05/04/pronto-rapid-ar-prototypingn-chi-2020/) |
+| [RealitySketch: Embedding Responsive Graphics and Visualizations in AR through Dynamic Sketching](https://dl.acm.org/doi/abs/10.1145/3379337.3415892) | UIST 2020 | [[project]](https://ryosuzuki.org/realitysketch/) |
 | [3D Curve Creation on and around Physical Objects with Mobile AR](http://sweb.cityu.edu.hk/hongbofu/doc/3D_Curve_Creation_Mobile_AR_TVCG.pdf) | TVCG 2021 | [[video]](https://youtu.be/zyh4pEvK7j8) |
 | [HandPainter - 3D Sketching in VR with Hand-based Physical Proxy](https://dl.acm.org/doi/abs/10.1145/3411764.3445302) | CHI 2021 | [[video]](https://youtu.be/x5VAU-471P8) |
 | [Fine-Grained VR Sketching: Dataset and Insights](https://ieeexplore.ieee.org/abstract/document/9665875/) | 3DV 2021 | [[code]](https://github.com/Rowl1ng/Fine-Grained_VR_Sketching) |
