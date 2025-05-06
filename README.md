@@ -261,28 +261,28 @@ A collection of sketch based applications.
 
 ## 5. Sketch Based 3D Shape Modeling
 
-- Free-hand sketch
+- Free-hand sketch to 3D models
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
-| [3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks](https://people.cs.umass.edu/~zlun/papers/SketchModeling/SketchModeling.pdf) | 3DV 2017 | [[code]](https://github.com/happylun/SketchModeling) [[project]](https://people.cs.umass.edu/~zlun/SketchModeling/) |
-| [Shape Synthesis from Sketches via Procedural Models and Convolutional Networks](https://people.cs.umass.edu/~kalo/papers/shapepmconvnet/shapepmconvnet.pdf) | TVCG 2017 |  |
+| [3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/8374559) | 3DV 2017 | [[code]](https://github.com/happylun/SketchModeling) [[project]](https://people.cs.umass.edu/~zlun/SketchModeling/) |
+| [Shape Synthesis from Sketches via Procedural Models and Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/7530838) | TVCG 2017 |  |
 | [DeepSketch2Face: A Deep Learning Based Sketching System for 3D Face and Caricature Modeling](https://i.cs.hku.hk/~xghan/papers/deepske2face.pdf) | SIGGRAPH 2017 | [[project]](https://i.cs.hku.hk/~xghan/Projects/ske2face.htm) [[code]](https://github.com/changgyhub/deepsketch2face) |
 | [BendSketch: Modeling Freeform Surfaces Through 2D Sketching](http://haopan.github.io/papers/bendsketch.pdf) | SIGGRAPH 2017 | [[project]](http://haopan.github.io/bendsketch.html) |
 | [Robust Flow-Guided Neural Prediction for Sketch-Based Freeform Surface Modeling](http://haopan.github.io/papers/SketchCNN.pdf) | SIGGRAPH Asia 2018 | [[code]](https://github.com/Enigma-li/SketchCNN) [[project]](http://haopan.github.io/sketchCNN.html) |
 | [DeepSketchHair: Deep Sketch-based 3D Hair Modeling](https://arxiv.org/abs/1908.07198) | TVCG 2019 |  |
-| [Interactive Liquid Splash Modeling by User Sketches](https://dl.acm.org/doi/abs/10.1145/3414685.3417832) | SIGGRAPH Asia 2020 |  |
 | [Monster Mash: A Single-View Approach to Casual 3D Modeling and Animation](https://dcgi.fel.cvut.cz/home/sykorad/Dvoroznak20-SA.pdf) | SIGGRAPH Asia 2020 | [[project]](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash) [[code]](https://github.com/google/monster-mash) [[demo]](http://monstermash.zone/) |
-| [SAniHead: Sketching Animal-like 3D Character Heads Using a View-surface Collaborative Mesh Generative Network](http://sweb.cityu.edu.hk/hongbofu/doc/2020TVCG_SAniHead.pdf) | TVCG 2020 |  |
+| [Interactive Liquid Splash Modeling by User Sketches](https://dl.acm.org/doi/abs/10.1145/3414685.3417832) | SIGGRAPH Asia 2020 |  |
+| [SAniHead: Sketching Animal-like 3D Character Heads Using a View-surface Collaborative Mesh Generative Network](https://ieeexplore.ieee.org/abstract/document/9222121) | TVCG 2020 |  |
 | [Towards Practical Sketch-Based 3D Shape Generation: The Role of Professional Sketches](https://ieeexplore.ieee.org/abstract/document/9272370) | TCSVT 2020 |  |
 | [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663) | CVPR 2021 |  |
 | [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/abs/2104.00482v1) | ICCV 2021 |  |
 | [Real-time Skeletonization for Sketch-based Modeling](https://arxiv.org/abs/2110.05805) | SMI 2021 | [[code]](https://github.com/jingma-git/RealSkel) |
-| [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-labs.iro.umontreal.ca/~bmpix/sketch2pose/sketch2pose.pdf) | SIGGRAPH 2022 | [[project]](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/) [[code]](https://github.com/kbrodt/sketch2pose) |
+| [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](https://dl.acm.org/doi/abs/10.1145/3528223.3530106) | SIGGRAPH 2022 | [[project]](http://www-labs.iro.umontreal.ca/~bmpix/sketch2pose/) [[code]](https://github.com/kbrodt/sketch2pose) |
 | [Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch](https://arxiv.org/abs/2201.09367) | TVCG 2022 |  |
 | [Structure-aware Editable Morphable Model for 3D Facial Detail Animation and Manipulation](https://arxiv.org/abs/2207.09019) | ECCV 2022 | [[code]](https://github.com/gerwang/facial-detail-manipulation) |
 | [SketchSampler: Sketch-based 3D Reconstruction via View-dependent Depth Sampling](https://arxiv.org/abs/2208.06880) | ECCV 2022 | [[code]](https://github.com/cjeen/sketchsampler) |
-| [Deep Reconstruction of 3D Smoke Densities from Artist Sketches](http://www.byungsoo.me/project/sketch2density/paper.pdf) | EG 2022 | [[project]](http://www.byungsoo.me/project/sketch2density/) [[code]](https://github.com/byungsook/sketch2fluid) |
+| [Deep Reconstruction of 3D Smoke Densities from Artist Sketches](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14461) | EG 2022 | [[code]](https://github.com/byungsook/sketch2fluid) |
 |[A Diffusion-ReFinement Model for Sketch-to-Point Modeling](https://openaccess.thecvf.com/content/ACCV2022/papers/Kong_A_Diffusion-ReFinement_Model_for_Sketch-to-Point_Modeling_ACCV_2022_paper.pdf)| ACCV 2022 | [[code]](https://github.com/Walterkd/diffusion-refine-sketch2point) |
 |[RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset](https://arxiv.org/abs/2303.12564)| CVPR 2023 | [[project]](https://gaplab.cuhk.edu.cn/projects/RaBit/) |
 |[SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling](https://arxiv.org/abs/2307.00804)| TVCG 2023 | [[project]](https://zhongjinluo.github.io/SketchMetaFace/) [[code]](https://github.com/zhongjinluo/SketchMetaFace) |
@@ -293,8 +293,6 @@ A collection of sketch based applications.
 |[3D Reconstruction from a Single Sketch via View-dependent Depth Sampling](https://ieeexplore.ieee.org/abstract/document/10589301)| TPAMI 2024 | [[code]](https://github.com/cjeen/sketchsampler) |
 |[S2TD-Face: Reconstruct a Detailed 3D Face with Controllable Texture from a Single Sketch](https://arxiv.org/abs/2408.01218)| ACM MM 2024 | [[code]](https://github.com/wang-zidu/S2TD-Face) |
 |[Sketch2Vox: Learning 3D Reconstruction from a Single Monocular Sketch](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09384.pdf)| ECCV 2024 |  |
-|[Doodle Your Motion: Sketch-Guided Human Motion Generation](https://ieeexplore.ieee.org/abstract/document/10812894)| TVCG 2024 |  |
-|[StickMotion: Generating 3D Human Motions by Drawing a Stickman](https://arxiv.org/abs/2503.04829)| CVPR 2025. | [[code]](https://github.com/InvertedForest/StickMotion) |
 |[MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425)| arxiv 25.03 | [[webpage]](https://derkleineli.github.io/meshpad/) |
 
 - Scene Generation
@@ -304,6 +302,15 @@ A collection of sketch based applications.
 |[Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches](https://arxiv.org/abs/2408.04567)| arxiv 24.08 | [[webpage]](https://xrvisionlabs.github.io/Sketch2Scene/) |
 |[GroundUp: Rapid Sketch-Based 3D City Massing](https://arxiv.org/abs/2407.12739)| ECCV 2024 | [[code]](https://github.com/unlugi/GroundUp-ECCV2024) |
 |[External Knowledge Enhanced 3D Scene Generation from Sketch](https://arxiv.org/abs/2403.14121)| ECCV 2024 |  |
+
+- Motion Generation
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+|[Doodle Your Motion: Sketch-Guided Human Motion Generation](https://ieeexplore.ieee.org/abstract/document/10812894)| TVCG 2024 |  |
+|[StickMotion: Generating 3D Human Motions by Drawing a Stickman](https://arxiv.org/abs/2503.04829)| CVPR 2025 | [[code]](https://github.com/InvertedForest/StickMotion) |
+|[Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation](https://arxiv.org/abs/2504.19189)| SIGGRAPH 2025 | [[project]](https://zhongleilz.github.io/Sketch2Anim/) |
+
 
 - NeRF & 3DGS
 
