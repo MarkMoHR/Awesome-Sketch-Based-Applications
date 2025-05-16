@@ -491,7 +491,7 @@ A collection of sketch based applications.
   </tr>
   <tr>
     <td> <a href="https://arxiv.org/abs/2502.09608">Instance Segmentation of Scene Sketches Using Natural Image Priors</a> (scene-level) </td> 
-    <td> arxiv 25.02 </td> 
+    <td> SIGGRAPH 2025 </td> 
     <td> <a href="https://github.com/SketchSeg/SketchSeg-Natural-Prior">[code]</a> <a href="https://sketchseg.github.io/sketch-seg/">[project]</a> </td>
   </tr>
   
