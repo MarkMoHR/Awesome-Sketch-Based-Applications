@@ -29,12 +29,11 @@ A collection of sketch based applications.
 - [16. Sketch and Visual Correspondence](#16-sketch-and-visual-correspondence)
 - [17. Sketch Animation/Inbetweening](#17-sketch-animationinbetweening)
 - [18. Sketch and AR/VR](#18-sketch-and-arvr)
-- [19. Sketch Based Incremental Learning](#19-sketch-based-incremental-learning)
 - [20. Sketch Quality Measurement](#20-sketch-quality-measurement)
-- [21. Cloud Augmentation with Sketches](#21-cloud-augmentation-with-sketches)
 - [22. Sketch and Re-identification](#22-sketch-and-re-identification)
 - [23. Sketch-based Salient Object Detection](#23-sketch-based-salient-object-detection)
 - [24. Study on Strokes](#24-study-on-strokes)
+- [25. Study on Drawing Behavior](#25-study-on-drawing-behavior)
 
 ---
 
@@ -749,23 +748,13 @@ Please refer to repository [MarkMoHR/Awesome-2D-Animation](https://github.com/Ma
 | [3D VR Sketch Guided 3D Shape Prototyping and Exploration](https://arxiv.org/abs/2306.10830) | ICCV 2023 | [[code]](https://github.com/Rowl1ng/3Dsketch2shape) |
 | [VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting](https://arxiv.org/abs/2503.12383) | arxiv 25.03 |  |
 
-
-## 19. Sketch Based Incremental Learning
-| Paper | Source | Code/Project Link  |
-| --- | --- | --- |
-| [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://arxiv.org/abs/2203.14843) | CVPR 2022 | [[code]](https://github.com/AyanKumarBhunia/DIY-FSCIL) |
-
-                                                                                       
+                                                                       
 ## 20. Sketch Quality Measurement
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Annotation-Free Human Sketch Quality Assessment](https://link.springer.com/article/10.1007/s11263-024-02001-1) | IJCV 2024 | [[code]](https://github.com/yanglan0225/SketchX-Quantifying-Sketch-Quality) |
 | [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf) | CVPR 2022 | [[code]](https://github.com/yanglan0225/SketchX-Quantifying-Sketch-Quality) |
 
-## 21. Cloud Augmentation with Sketches
-| Paper | Source | Code/Project Link  |
-| --- | --- | --- |
-| [Cloud2Sketch: Augmenting Clouds with Imaginary Sketches](https://dl.acm.org/doi/abs/10.1145/3503161.3547810) | ACM MM 2022 | [[project]](https://wanzy.me/research/cloud2sketch) |
 
 ## 22. Sketch and Re-identification
 | Paper | Source | Code/Project Link  |
@@ -784,3 +773,9 @@ Please refer to repository [MarkMoHR/Awesome-2D-Animation](https://github.com/Ma
 | --- | --- | --- |
 | [Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools](https://dl.acm.org/doi/abs/10.1145/3550454.3555472) | SIGGRAPH Asia 2022 | [[project]](https://research.nvidia.com/labs/toronto-ai/brushstroke_engine/) |
 | [Ciallo: GPU-Accelerated Rendering of Vector Brush Strokes](https://cislab.hkust-gz.edu.cn/media/documents/Ciallo.pdf) | SIGGRAPH 2024 | [[code]](https://github.com/ShenCiao/Ciallo) |
+
+## 25. Study on Drawing Behavior
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Tracing Versus Freehand for Evaluating Computer-Generated Drawings](https://dl.acm.org/doi/abs/10.1145/3450626.3459819) | SIGGRAPH 2021 | [[code]](https://github.com/zachzeyuwang/tracing-vs-freehand) |
+| [Learning to Draw Is Learning to See: Analyzing Eye Tracking Patterns for Assisted Observational Drawing](https://cislab.hkust-gz.edu.cn/media/documents/_SIGGRAPH_2025__Learning_to_Draw_Is_Learning_to_See_4.pdf) | SIGGRAPH 2025 | [[code]](https://github.com/CISLab-HKUST/Learning-to-Draw-Is-Learning-to-See) |
