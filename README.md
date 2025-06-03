@@ -216,6 +216,7 @@ A collection of sketch based applications.
 | [Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2407.01810) | ECCV 2024 |  |
 | [Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning](https://arxiv.org/abs/2407.04207) | ECCV 2024 | [[code]](https://github.com/mainaksingha01/SpLIP) |
 | [Zero-Shot Sketch Based Image Retrieval via Modality Capacity Guidance](https://www.ijcai.org/proceedings/2024/0197.pdf) | IJCAI-24 | [[code]](https://github.com/YHdian0716/ZS-SBIR-MCC) |
+| [Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch](https://arxiv.org/abs/2505.23763) | CVPR 2025 | [[webpage]](https://subhajitmaity.me/SketchDownTheFLOPs/) |
 
 
 - Scene-level
