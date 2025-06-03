@@ -349,6 +349,7 @@ A collection of sketch based applications.
 | [Toward Intelligent Interactive Design: A Generation Framework Based on Cross-domain Fashion Elements](https://dl.acm.org/doi/abs/10.1145/3581783.3612376) | ACM MM 2023 |  |
 | [FashionDiff: A Controllable Diffusion Model Using Pairwise Fashion Elements for Intelligent Design](https://dl.acm.org/doi/abs/10.1145/3581783.3612127) | ACM MM 2023 |  |
 | [TexControl: Sketch-Based Two-Stage Fashion Image Generation Using Diffusion Model](https://arxiv.org/abs/2405.04675) | NICOGRAPH 2024 |  |
+| [HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image](https://arxiv.org/abs/2505.23186) | arxiv 25.05 |  |
 
 
 ## 7. Sketch Completion
