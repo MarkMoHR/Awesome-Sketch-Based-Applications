@@ -21,7 +21,7 @@ A collection of sketch based applications.
 - [8. Sketch Restoration, Retargeting and Inpainting](#8-sketch-restoration-retargeting-and-inpainting)
 - [9. Sketch and Shading](#9-sketch-and-shading)
 - [10. Sketch Enhancement / Beautification](#10-sketch-enhancement--beautification)
-- [11. Sketch-Guided Object Localization](#11-sketch-guided-object-localization)
+- [11. Sketch-Guided Detection](#11-sketch-guided-detection)
 - [12. Sketch-Guided Video Synthesis](#12-sketch-guided-video-synthesis)
 - [13. Sketch Recognition](#13-sketch-recognition)
 - [14. Sketch Segmentation and Perceptual Grouping](#14-sketch-segmentation-and-perceptual-grouping)
@@ -29,11 +29,9 @@ A collection of sketch based applications.
 - [16. Sketch and Visual Correspondence](#16-sketch-and-visual-correspondence)
 - [17. Sketch Animation/Inbetweening](#17-sketch-animationinbetweening)
 - [18. Sketch and AR/VR](#18-sketch-and-arvr)
-- [20. Sketch Quality Measurement](#20-sketch-quality-measurement)
-- [22. Sketch and Re-identification](#22-sketch-and-re-identification)
-- [23. Sketch-based Salient Object Detection](#23-sketch-based-salient-object-detection)
-- [24. Study on Strokes](#24-study-on-strokes)
-- [25. Study on Drawing Behavior](#25-study-on-drawing-behavior)
+- [19. Sketch Quality Measurement](#19-sketch-quality-measurement)
+- [20. Study on Strokes](#20-study-on-strokes)
+- [21. Study on Drawing Behavior](#21-study-on-drawing-behavior)
 
 ---
 
@@ -418,7 +416,9 @@ A collection of sketch based applications.
 | --- | --- | --- |
 | [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598) | CVPR 2024 | [[code]](https://github.com/Kiteretsu77/APISR) |
 
-## 11. Sketch-Guided Object Localization 
+## 11. Sketch-Guided Detection
+
+- Object Localization 
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
@@ -428,6 +428,28 @@ A collection of sketch based applications.
 | [Sketch-based Video Object Segmentation: Benchmark and Analysis](https://arxiv.org/abs/2311.07261) | BMVC 2023 | [[code]](https://github.com/YRlin-12/Sketch-VOS-datasets) |
 | [Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch](https://arxiv.org/abs/2303.08784) | WACV 2024 | [[project]](https://vcl-iisc.github.io/locformer/) [[code]](https://github.com/vcl-iisc/locformer-SGOL) |
 | [Freestyle Sketch-in-the-Loop Image Segmentation](https://arxiv.org/abs/2501.16022) | arxiv 25.01 | |
+
+- Salient Object Detection
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings](https://arxiv.org/abs/2303.11502) | CVPR 2023 |  |
+
+- Re-identification
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Cross-Compatible Embedding and Semantic Consistent Feature Construction for Sketch Re-identification](https://dl.acm.org/doi/abs/10.1145/3503161.3548224) | ACM MM 2022 | [[code]](https://github.com/lhf12278/CCSC) |
+| [SketchTrans: Disentangled Prototype Learning with Transformer for Sketch-Photo Recognition](https://ieeexplore.ieee.org/document/10328884) | TPAMI 2023 | [[code]](https://github.com/ccq195/SketchTrans) |
+| [Differentiable Auxiliary Learning for Sketch Re-Identification](https://ojs.aaai.org/index.php/AAAI/article/view/28165) | AAAI 2024 |  |
+
+
+- Keypoint Detection
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection](https://arxiv.org/abs/2507.07994) | ICCV 2025 | [[webpage]](https://subhajitmaity.me/DYKp/) [[code]](https://github.com/MaitySubhajit/DYKp) |
+
 
 ## 12. Sketch-Guided Video Synthesis
 
@@ -751,32 +773,20 @@ Please refer to repository [MarkMoHR/Awesome-2D-Animation](https://github.com/Ma
 | [VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting](https://arxiv.org/abs/2503.12383) | arxiv 25.03 |  |
 
                                                                        
-## 20. Sketch Quality Measurement
+## 19. Sketch Quality Measurement
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Annotation-Free Human Sketch Quality Assessment](https://link.springer.com/article/10.1007/s11263-024-02001-1) | IJCV 2024 | [[code]](https://github.com/yanglan0225/SketchX-Quantifying-Sketch-Quality) |
 | [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf) | CVPR 2022 | [[code]](https://github.com/yanglan0225/SketchX-Quantifying-Sketch-Quality) |
 
 
-## 22. Sketch and Re-identification
-| Paper | Source | Code/Project Link  |
-| --- | --- | --- |
-| [Cross-Compatible Embedding and Semantic Consistent Feature Construction for Sketch Re-identification](https://dl.acm.org/doi/abs/10.1145/3503161.3548224) | ACM MM 2022 | [[code]](https://github.com/lhf12278/CCSC) |
-| [SketchTrans: Disentangled Prototype Learning with Transformer for Sketch-Photo Recognition](https://ieeexplore.ieee.org/document/10328884) | TPAMI 2023 | [[code]](https://github.com/ccq195/SketchTrans) |
-| [Differentiable Auxiliary Learning for Sketch Re-Identification](https://ojs.aaai.org/index.php/AAAI/article/view/28165) | AAAI 2024 |  |
-
-## 23. Sketch-based Salient Object Detection
-| Paper | Source | Code/Project Link  |
-| --- | --- | --- |
-| [Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings](https://arxiv.org/abs/2303.11502) | CVPR 2023 |  |
-
-## 24. Study on Strokes
+## 20. Study on Strokes
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools](https://dl.acm.org/doi/abs/10.1145/3550454.3555472) | SIGGRAPH Asia 2022 | [[project]](https://research.nvidia.com/labs/toronto-ai/brushstroke_engine/) |
 | [Ciallo: GPU-Accelerated Rendering of Vector Brush Strokes](https://cislab.hkust-gz.edu.cn/media/documents/Ciallo.pdf) | SIGGRAPH 2024 | [[code]](https://github.com/ShenCiao/Ciallo) |
 
-## 25. Study on Drawing Behavior
+## 21. Study on Drawing Behavior
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Tracing Versus Freehand for Evaluating Computer-Generated Drawings](https://dl.acm.org/doi/abs/10.1145/3450626.3459819) | SIGGRAPH 2021 | [[code]](https://github.com/zachzeyuwang/tracing-vs-freehand) |
