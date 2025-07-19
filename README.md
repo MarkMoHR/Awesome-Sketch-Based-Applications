@@ -215,6 +215,7 @@ A collection of sketch based applications.
 | [Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning](https://arxiv.org/abs/2407.04207) | ECCV 2024 | [[code]](https://github.com/mainaksingha01/SpLIP) |
 | [Zero-Shot Sketch Based Image Retrieval via Modality Capacity Guidance](https://www.ijcai.org/proceedings/2024/0197.pdf) | IJCAI-24 | [[code]](https://github.com/YHdian0716/ZS-SBIR-MCC) |
 | [Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch](https://arxiv.org/abs/2505.23763) | CVPR 2025 | [[webpage]](https://subhajitmaity.me/SketchDownTheFLOPs/) |
+| [Unified Category and Style Generalization for Instance-Level Sketch Retrieval](https://dl.acm.org/doi/abs/10.1145/3726302.3730108) | SIGIR 2025 | [[code]](https://github.com/hzcted/DAP) |
 
 
 - Scene-level
@@ -255,6 +256,7 @@ A collection of sketch based applications.
 | [Doodle to Object: Practical Zero-Shot Sketch-Based 3D Shape Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/25344) | AAAI 2023 | [[code]](https://github.com/yigohw/doodle2object) |
 | [Democratising 2D Sketch to 3D Shape Retrieval Through Pivoting](https://openaccess.thecvf.com/content/ICCV2023/papers/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.pdf) | ICCV 2023 |  |
 | [SCDL: Sketch Causal Disentangled Learning for Sketch-based 3D Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/10847755) | TCSVT 2025 |  |
+| [Multi-level Encoding with Hierarchical Alignment for Sketch-Based 3D Shape Retrieval](https://dl.acm.org/doi/abs/10.1145/3726302.3730043) | SIGIR 2025 |  |
 
 
 ## 5. Sketch Based 3D Shape Modeling
