@@ -756,6 +756,14 @@ Please refer to repository [MarkMoHR/Awesome-2D-Animation](https://github.com/Ma
 
 ## 18. Sketch and AR/VR
 
+- Review
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [A Review: 3D Sketching Technology and Applications in Augmented Reality](https://ieeexplore.ieee.org/abstract/document/11124858) | IEEE Access 2025 |  |
+
+- Papers
+
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Experimental Evaluation of Sketching on Surfaces in VR](http://fraseranderson.ca/files/C-2017-VR-Sketching.pdf) | CHI 2017 |  |
