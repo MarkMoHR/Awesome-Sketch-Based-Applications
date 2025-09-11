@@ -462,7 +462,7 @@ A collection of sketch based applications.
 | [Controllable Human Video Generation from Sparse Sketches](https://ieeexplore.ieee.org/abstract/document/10892030) | TVCG 2025 |  |
 | [SketchVideo: Sketch-based Video Generation and Editing](https://arxiv.org/abs/2503.23284) | CVPR 2025 | [[webpage]](http://geometrylearning.com/SketchVideo/) [[code]](https://github.com/IGLICT/SketchVideo) |
 | [VIRES: Video Instance Repainting via Sketch and Text Guided Generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Weng_VIRES_Video_Instance_Repainting_via_Sketch_and_Text_Guided_Generation_CVPR_2025_paper.pdf) | CVPR 2025 | [[webpage]](https://hjzheng.net/projects/VIRES/) [[code]](https://github.com/suimuc/VIRES/) |
-| [Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing](https://dl.acm.org/doi/full/10.1145/3721238.3730623) | SIGGRAPH 2025 |  |
+| [Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing](https://dl.acm.org/doi/full/10.1145/3721238.3730623) | SIGGRAPH 2025 | [[webpage]](http://geometrylearning.com/Sketch3DVE/) [[code]](https://github.com/IGLICT/Sketch3DVE) |
 
 ## 13. Sketch Recognition
 
