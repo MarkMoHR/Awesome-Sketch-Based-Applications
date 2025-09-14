@@ -228,6 +228,7 @@ A collection of sketch based applications.
 | [FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context](https://ieeexplore.ieee.org/abstract/document/9779565) | ECCV 2022 | [[code]](https://github.com/pinakinathc/fscoco) [[Dataset]](https://fscoco.github.io/) |
 | [Scene-Level Sketch-Based Image Retrieval with Minimal Pairwise Supervision](https://ojs.aaai.org/index.php/AAAI/article/view/25141) | AAAI 2023 |  |
 | [FreestyleRet: Retrieving Images from Style-Diversified Queries](https://arxiv.org/abs/2312.02428) | ECCV 2024 | [[code]](https://github.com/CuriseJia/FreeStyleRet) |
+| [Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval](https://arxiv.org/abs/2509.06566) | BMVC 2025 | [[code]](https://github.com/Emil-Demic/SketchScape) |
 
 
 - Video Retrieval
