@@ -337,6 +337,7 @@ A collection of sketch based applications.
 | [CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention](https://arxiv.org/abs/2402.17678) | CVPR 2024 |  |
 | [SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SfmCAD_Unsupervised_CAD_Reconstruction_by_Learning_Sketch-based_Feature_Modeling_Operations_CVPR_2024_paper.pdf) | CVPR 2024 | [[code]](https://github.com/BunnySoCrazy/SfmCAD) |
 | [Sketch2Seq: Reconstruct CAD models from Feature-based Sketch Segmentation](https://ieeexplore.ieee.org/abstract/document/10982215) | TVCG 2025 |  |
+| [From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach](https://ojs.aaai.org/index.php/AAAI/article/view/32858) | AAAI 2025 | [[webpage]](https://manycore-research.github.io/CAD2Program/) |
 
 
 ## 6. Sketch Based Garment Design
