@@ -296,6 +296,7 @@ A collection of sketch based applications.
 |[Sketch2Vox: Learning 3D Reconstruction from a Single Monocular Sketch](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09384.pdf)| ECCV 2024 |  |
 |[MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425)| ICCV 2025 | [[webpage]](https://derkleineli.github.io/meshpad/) |
 |[StrandDesigner: Towards Practical Strand Generation with Sketch Guidance](https://arxiv.org/abs/2508.01650)| ACM MM 2025 | [[code]](https://github.com/fighting-Zhang/StrandDesigner) |
+| [Efficient and Generalized Sketch to 3D Human Pose Prediction](https://wangli000.github.io/files/Sketch2Pose.pdf)| SIGGRAPH Asia 2025 |  |
 
 - Scene Generation
 
