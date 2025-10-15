@@ -816,3 +816,5 @@ Please refer to repository [MarkMoHR/Awesome-2D-Animation](https://github.com/Ma
 | --- | --- | --- |
 | [Tracing Versus Freehand for Evaluating Computer-Generated Drawings](https://dl.acm.org/doi/abs/10.1145/3450626.3459819) | SIGGRAPH 2021 | [[code]](https://github.com/zachzeyuwang/tracing-vs-freehand) |
 | [Learning to Draw Is Learning to See: Analyzing Eye Tracking Patterns for Assisted Observational Drawing](https://cislab.hkust-gz.edu.cn/media/documents/_SIGGRAPH_2025__Learning_to_Draw_Is_Learning_to_See_4.pdf) | SIGGRAPH 2025 | [[code]](https://github.com/CISLab-HKUST/Learning-to-Draw-Is-Learning-to-See) |
+| [Learning Human Perspective in Line Drawings from Single Sketches](https://arxiv.org/abs/2504.03099v2) | SIGGRAPH Asia 2025 |  |
+
