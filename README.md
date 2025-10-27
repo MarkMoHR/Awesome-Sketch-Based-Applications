@@ -112,6 +112,7 @@ A collection of sketch based applications.
 | [Training-Free Sketch-Guided Diffusion with Latent Optimization](https://arxiv.org/abs/2409.00313) | arxiv 24.09 |  |
 | [Scribble-Guided Diffusion for Training-free Text-to-Image Generation](https://arxiv.org/abs/2409.08026) | arxiv 24.09 | [[code]](https://github.com/kaist-cvml/scribble-guided-diffusion) |
 | [SketchFlex: Facilitating Spatial-Semantic Coherence in Text-to-Image Generation with Region-Based Sketches](https://arxiv.org/abs/2502.07556) | CHI 2025 | [[code]](https://github.com/SellLin/SketchFlex) |
+| [Subjective Camera 1.0: Bridging Human Cognition and Visual Reconstruction through Sequence-Aware Sketch-Guided Diffusion](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Subjective_Camera_1.0_Bridging_Human_Cognition_and_Visual_Reconstruction_through_ICCV_2025_paper.pdf) | ICCV 2025 |  |
 
 ## 2. Sketch Based Image Editing
 
@@ -288,6 +289,7 @@ A collection of sketch based applications.
 |[3D Reconstruction from a Single Sketch via View-dependent Depth Sampling](https://ieeexplore.ieee.org/abstract/document/10589301)| TPAMI 2024 | [[code]](https://github.com/cjeen/sketchsampler) |
 |[Sketch2Vox: Learning 3D Reconstruction from a Single Monocular Sketch](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09384.pdf)| ECCV 2024 |  |
 |[MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425)| ICCV 2025 | [[webpage]](https://derkleineli.github.io/meshpad/) |
+|[PASTA: Part-Aware Sketch-to-3D Shape Generation with Text-Aligned Prior](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_PASTA_Part-Aware_Sketch-to-3D_Shape_Generation_with_Text-Aligned_Prior_ICCV_2025_paper.pdf)| ICCV 2025 | [[webpage]](https://kuai-lab.github.io/iccv2025pasta/) [[code]](https://github.com/kuai-lab/iccv25_pasta) |
 
 
 - Face/Head/Hair Generation
@@ -324,6 +326,7 @@ A collection of sketch based applications.
 |[GroundUp: Rapid Sketch-Based 3D City Massing](https://arxiv.org/abs/2407.12739)| ECCV 2024 | [[code]](https://github.com/unlugi/GroundUp-ECCV2024) |
 |[External Knowledge Enhanced 3D Scene Generation from Sketch](https://arxiv.org/abs/2403.14121)| ECCV 2024 |  |
 |[CymbaDiff: Structured Spatial Diffusion for Sketch-based 3D Semantic Urban Scene Generation](https://arxiv.org/abs/2510.13245)| NeurIPS 2025 | [[code]](https://github.com/Lillian-research-hub/CymbaDiff) |
+|[HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Models](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_HouseCrafter_Lifting_Floorplans_to_3D_Scenes_with_2D_Diffusion_Models_ICCV_2025_paper.pdf)| ICCV 2025 |  |
 
 
 - NeRF & 3DGS
@@ -335,6 +338,7 @@ A collection of sketch based applications.
 | [SketchDream: Sketch-based Text-to-3D Generation and Editing](http://geometrylearning.com/SketchDream/) | SIGGRAPH 2024 | [[project]](http://geometrylearning.com/SketchDream/) |
 | [Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation](https://dl.acm.org/doi/abs/10.1145/3664647.3680641) | ACM MM 2024 |  |
 | [Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168) | arxiv 24.11 |  |
+| [SketchSplat: 3D Edge Reconstruction via Differentiable Multi-view Sketch Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Ying_SketchSplat_3D_Edge_Reconstruction_via_Differentiable_Multi-view_Sketch_Splatting_ICCV_2025_paper.pdf) | ICCV 2025 | [[webpage]](https://oceanying.github.io/SketchSplat/) [[code]](https://github.com/OceanYing/SketchSplat) |
 
 - CAD sketch
 
@@ -365,7 +369,8 @@ A collection of sketch based applications.
 | [Toward Intelligent Interactive Design: A Generation Framework Based on Cross-domain Fashion Elements](https://dl.acm.org/doi/abs/10.1145/3581783.3612376) | ACM MM 2023 |  |
 | [FashionDiff: A Controllable Diffusion Model Using Pairwise Fashion Elements for Intelligent Design](https://dl.acm.org/doi/abs/10.1145/3581783.3612127) | ACM MM 2023 |  |
 | [TexControl: Sketch-Based Two-Stage Fashion Image Generation Using Diffusion Model](https://arxiv.org/abs/2405.04675) | NICOGRAPH 2024 |  |
-| [HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image](https://arxiv.org/abs/2505.23186) | arxiv 25.05 |  |
+| [HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image](https://openaccess.thecvf.com/content/ICCV2025/papers/Guo_HiGarment_Cross-modal_Harmony_Based_Diffusion_Model_for_Flat_Sketch_to_ICCV_2025_paper.pdf) | ICCV 2025 | [[code]](https://github.com/Maple498/HiGarment) |
+| [LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing](https://openaccess.thecvf.com/content/ICCV2025/papers/Girella_LOTS_of_Fashion_Multi-Conditioning_for_Image_Generation_via_Sketch-Text_Pairing_ICCV_2025_paper.pdf) | ICCV 2025 | [[webpage]](https://intelligolabs.github.io/lots/) [[code]](https://huggingface.co/federicogirella/lots) |
 
 
 ## 7. Sketch Completion
@@ -459,6 +464,7 @@ A collection of sketch based applications.
 | [Cross-Compatible Embedding and Semantic Consistent Feature Construction for Sketch Re-identification](https://dl.acm.org/doi/abs/10.1145/3503161.3548224) | ACM MM 2022 | [[code]](https://github.com/lhf12278/CCSC) |
 | [SketchTrans: Disentangled Prototype Learning with Transformer for Sketch-Photo Recognition](https://ieeexplore.ieee.org/document/10328884) | TPAMI 2023 | [[code]](https://github.com/ccq195/SketchTrans) |
 | [Differentiable Auxiliary Learning for Sketch Re-Identification](https://ojs.aaai.org/index.php/AAAI/article/view/28165) | AAAI 2024 |  |
+| [Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Cross-Category_Subjectivity_Generalization_for_Style-Adaptive_Sketch_Re-ID_ICCV_2025_paper.pdf) | ICCV 2025 |  |
 
 
 - Keypoint Detection
@@ -704,6 +710,7 @@ A collection of sketch based applications.
 | [Enhance Sketch Recognition's Explainability via Semantic Component-Level Parsing](https://arxiv.org/abs/2312.07875) | AAAI 2024 | [[code]](https://github.com/GuangmingZhu/SketchESC) | Vector/Stroke-level | recognition and segmentation |
 | [Modelling complex vector drawings with stroke-clouds](https://openreview.net/forum?id=O2jyuo89CK) | ICLR 2024 | [[code]](https://github.com/Co-do/Stroke-Cloud) | Vector/Stroke-level | reconstruction and generation |
 | [Sketchformer++: A Hierarchical Transformer Architecture for Vector Sketch Representation](https://link.springer.com/chapter/10.1007/978-981-97-2095-8_2) | CVM 2024 | | Vector/Stroke-level | reconstruction, recognition and semantic segmentation |
+| [VQ-SGen: A Vector Quantized Stroke Representation for Creative Sketch Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_VQ-SGen_A_Vector_Quantized_Stroke_Representation_for_Creative_Sketch_Generation_ICCV_2025_paper.pdf) | ICCV 2025 | [[webpage]](https://enigma-li.github.io/projects/VQ-SGen/VQ-SGen.html) | Vector/Stroke-level | generation and completion |
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
