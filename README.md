@@ -149,6 +149,7 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
+| [DoodleAssist: Progressive Interactive Line Art Generation with Latent Distribution Alignment](https://ieeexplore.ieee.org/abstract/document/11216020) | TVCG 2025 | [[code]](https://github.com/MarkMoHR/DoodleAssist) |
 | [AniFaceDrawing: Anime Portrait Exploration during Your Sketching](https://arxiv.org/abs/2306.07476) | SIGGRAPH 2023 | [[project]](http://www.jaist.ac.jp/~xie/AniFaceDrawing.html) |
 
 - Video Editing
@@ -424,6 +425,7 @@ A collection of sketch based applications.
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
+| [DoodleAssist: Progressive Interactive Line Art Generation with Latent Distribution Alignment](https://ieeexplore.ieee.org/abstract/document/11216020) | TVCG 2025 | [[code]](https://github.com/MarkMoHR/DoodleAssist) |
 | [SketchMan: Learning to Create Professional Sketches](https://dl.acm.org/doi/abs/10.1145/3394171.3413720) | ACM MM 2020 | [[code]](https://github.com/LCXCUC/SketchMan2020) |
 
 - Sketch Beautification
