@@ -316,6 +316,7 @@ A collection of sketch based applications.
 |[Doodle Your Motion: Sketch-Guided Human Motion Generation](https://ieeexplore.ieee.org/abstract/document/10812894)| TVCG 2024 | Motion |  |
 |[StickMotion: Generating 3D Human Motions by Drawing a Stickman](https://arxiv.org/abs/2503.04829)| CVPR 2025 | Motion | [[code]](https://github.com/InvertedForest/StickMotion) |
 |[Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation](https://arxiv.org/abs/2504.19189)| SIGGRAPH 2025 | Motion | [[project]](https://zhongleilz.github.io/Sketch2Anim/) |
+|[SMACC: Sketching Motion for Articulated Characters with Comics-based annotations](https://hal.science/hal-05323494/document)| PG 2025 | Motion |  |
 
 
 - Scene Generation
