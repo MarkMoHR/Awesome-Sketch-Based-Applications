@@ -312,7 +312,7 @@ A collection of sketch based applications.
 | Paper | Source | Type | Code/Project Link  |
 | --- | --- | --- | --- |
 | [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](https://dl.acm.org/doi/abs/10.1145/3528223.3530106) | SIGGRAPH 2022 | Pose | [[project]](http://www-labs.iro.umontreal.ca/~bmpix/sketch2pose/) [[code]](https://github.com/kbrodt/sketch2pose) |
-| [Efficient and Generalized Sketch to 3D Human Pose Prediction](https://wangli000.github.io/files/Sketch2Pose.pdf)| SIGGRAPH Asia 2025 | Pose |  |
+| [Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction](https://wangli000.github.io/files/Sketch2Pose.pdf)| SIGGRAPH Asia 2025 | Pose |  |
 |  |  |  |
 |[Doodle Your Motion: Sketch-Guided Human Motion Generation](https://ieeexplore.ieee.org/abstract/document/10812894)| TVCG 2024 | Motion |  |
 |[StickMotion: Generating 3D Human Motions by Drawing a Stickman](https://arxiv.org/abs/2503.04829)| CVPR 2025 | Motion | [[code]](https://github.com/InvertedForest/StickMotion) |
