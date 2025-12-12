@@ -814,6 +814,7 @@ Please refer to repository [MarkMoHR/Awesome-2D-Animation](https://github.com/Ma
 | [GestureSurface: VR Sketching through Assembling Scaffold Surface with Non-Dominant Hand](https://ieeexplore.ieee.org/abstract/document/10049645) | TVCG 2023 |  |
 | [3D VR Sketch Guided 3D Shape Prototyping and Exploration](https://arxiv.org/abs/2306.10830) | ICCV 2023 | [[code]](https://github.com/Rowl1ng/3Dsketch2shape) |
 | [VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting](https://arxiv.org/abs/2503.12383) | arxiv 25.03 |  |
+| [Order Matters: 3D Shape Generation from Sequential VR Sketches](https://arxiv.org/abs/2512.04761) | arxiv 25.12 | [[code]](https://github.com/chenyizi086/VRSketch2Shape) [[webpage]](https://chenyizi086.github.io/VRSketch2Shape_website/) |
 
                                                                        
 ## 19. Sketch Quality Measurement
