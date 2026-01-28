@@ -475,6 +475,7 @@ A collection of sketch based applications.
 | [SketchTrans: Disentangled Prototype Learning with Transformer for Sketch-Photo Recognition](https://ieeexplore.ieee.org/document/10328884) | TPAMI 2023 | [[code]](https://github.com/ccq195/SketchTrans) |
 | [Differentiable Auxiliary Learning for Sketch Re-Identification](https://ojs.aaai.org/index.php/AAAI/article/view/28165) | AAAI 2024 |  |
 | [Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Cross-Category_Subjectivity_Generalization_for_Style-Adaptive_Sketch_Re-ID_ICCV_2025_paper.pdf) | ICCV 2025 |  |
+| [A Theory-Inspired Framework for Few-Shot Cross-Modal Sketch Person Re-Identification](https://arxiv.org/abs/2511.18677) | AAAI 2026 | [[code]](https://github.com/finger-monkey/REID_KTCAA) |
 
 
 - Keypoint Detection
@@ -694,7 +695,6 @@ A collection of sketch based applications.
 | [Goal-Driven Sequential Data Abstraction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Muhammad_Goal-Driven_Sequential_Data_Abstraction_ICCV_2019_paper.pdf) | ICCV 2019 |  | Vector/stroke-level | Sketch recognition |
 | [Pixelor: a competitive sketching AI agent. So you think you can sketch?](https://dl.acm.org/doi/pdf/10.1145/3414685.3417840) | SIGGRAPH Asia 2020 | [[Project]](http://sketchx.ai/pixelor) [[Code]](https://github.com/dasayan05/neuralsort-siggraph) | Vector/stroke-level | Sketch synthesis and recognition |
 | [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf) | ICCV 2021 |  | Vector/stroke-level | Sketch recognition, FB-SBIR, sketch healing |
-| [CLIPasso: Semantically-Aware Object Sketching](https://arxiv.org/abs/2202.05822) | SIGGRAPH 2022 | [[project]](https://clipasso.github.io/clipasso/) [[code]](https://github.com/yael-vinker/CLIPasso) | Vector/stroke-level |  |
 | [Abstracting Sketches through Simple Primitives](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_23) | ECCV 2022 | [[code]](https://github.com/ExplainableML/sketch-primitives) | Vector/stroke-level | Sketch recognition, FG-SBIR |
 | [Learning Geometry-aware Representations by Sketching](https://arxiv.org/abs/2304.08204) | CVPR 2023 | [[code]](https://github.com/illhyhl1111/LearningBySketching) | Vector/stroke-level | object attribute classification, domain transfer, stroke-based generation, FG-SBIR |
 | [SketchXAI: A First Look at Explainability for Human Sketches](https://arxiv.org/abs/2304.11744) | CVPR 2023 | [[project]](https://sketchxai.github.io/) | Vector/stroke-level | sketch recognition |
@@ -704,7 +704,7 @@ A collection of sketch based applications.
 | [SketchFusion: Learning Universal Sketch Features through Fusing Foundation Models](https://arxiv.org/abs/2503.14129) | CVPR 2025 | [[webpage]](https://subhadeepkoley.github.io/SketchFusion/) | Pixel-level | sketch retrieval, recognition, segmentation,  correspondence learning  |
 
 
-- Conventional Representation Learning
+- Latent Representation Learning
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
@@ -742,10 +742,11 @@ A collection of sketch based applications.
 | [Self-Supervised Learning for Enhancing Spatial Awareness in Free-Hand Sketches](https://www.ijcai.org/proceedings/2024/0566.pdf) | IJCAI 2024 | [[Code]](https://github.com/CMACH508/SketchGloc) | Vector-level | Synthesis |
 
 
-- Scene-level
+- Multi-modality Learning
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
+| [O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model](https://arxiv.org/abs/2511.14368) | AAAI 2026 | [[webpage]](https://vcl-iisc.github.io/O3SLM/) [[code]](https://github.com/vcl-iisc/O3SLM_code) |
 | [SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text](https://arxiv.org/abs/2204.11964) | CVPR 2023 |  |
           
 
