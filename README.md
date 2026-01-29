@@ -30,7 +30,7 @@ A collection of sketch based applications.
 - [17. Sketch Animation/Inbetweening](#17-sketch-animationinbetweening)
 - [18. Sketch and AR/VR](#18-sketch-and-arvr)
 - [19. Sketch Quality Measurement](#19-sketch-quality-measurement)
-- [20. Study on Strokes](#20-study-on-strokes)
+- [20. Stroke Stylization](#20-stroke-stylization)
 - [21. Study on Drawing Behavior](#21-study-on-drawing-behavior)
 
 ---
@@ -825,7 +825,7 @@ Please refer to repository [MarkMoHR/Awesome-2D-Animation](https://github.com/Ma
 | [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf) | CVPR 2022 | [[code]](https://github.com/yanglan0225/SketchX-Quantifying-Sketch-Quality) |
 
 
-## 20. Study on Strokes
+## 20. Stroke Stylization
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools](https://dl.acm.org/doi/abs/10.1145/3550454.3555472) | SIGGRAPH Asia 2022 | [[project]](https://research.nvidia.com/labs/toronto-ai/brushstroke_engine/) |
