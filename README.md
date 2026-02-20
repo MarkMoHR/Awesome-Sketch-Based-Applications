@@ -37,9 +37,10 @@ A collection of sketch based applications.
 
 ## 0. Survey
 
-| Paper | Source | Code/Project Link  |
+| Paper/Blog | Source | Code/Project Link  |
 | --- | --- | --- |
 | [Deep Learning for Free-Hand Sketch: A Survey](https://ieeexplore.ieee.org/abstract/document/9706366) | TPAMI 2022 | [[code]](https://github.com/PengBoXiangShang/torchsketch) |
+| [Sketches in Computer Vision (Blog)](https://heartbeat.comet.ml/sketches-in-computer-vision-74e6d8d84bee) | Heartbeat | |
 
 ## 1. Sketch Based Image Synthesis
 
