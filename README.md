@@ -265,6 +265,12 @@ A collection of sketch based applications.
 
 ## 5. Sketch Based 3D Shape Modeling
 
+- Survey
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Deep Sketch-Based 3D Modeling: A Survey](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70302) | CGF 2026 |  |
+
 - Object/Shape Generation
 
 | Paper | Source | Code/Project Link  |
@@ -293,6 +299,7 @@ A collection of sketch based applications.
 |[MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing](https://arxiv.org/abs/2503.01425)| ICCV 2025 | [[webpage]](https://derkleineli.github.io/meshpad/) |
 |[PASTA: Part-Aware Sketch-to-3D Shape Generation with Text-Aligned Prior](https://openaccess.thecvf.com/content/ICCV2025/papers/Lee_PASTA_Part-Aware_Sketch-to-3D_Shape_Generation_with_Text-Aligned_Prior_ICCV_2025_paper.pdf)| ICCV 2025 | [[webpage]](https://kuai-lab.github.io/iccv2025pasta/) [[code]](https://github.com/kuai-lab/iccv25_pasta) |
 |[Variational Neural Surfacing of 3D Sketches](http://www-labs.iro.umontreal.ca/~bmpix/pdf/surfacing_3d_sketches.pdf)| SIGGRAPH Asia 2025 |  |
+|[From Sketch to Reality: Enabling High-Quality, Cross-Category 3D Model Generation from Free-Hand Sketches with Minimal Data](https://ieeexplore.ieee.org/abstract/document/11372956)| TVCG 2026 |  |
 
 
 - Face/Head/Hair Generation
