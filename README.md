@@ -114,6 +114,7 @@ A collection of sketch based applications.
 | [SketchFlex: Facilitating Spatial-Semantic Coherence in Text-to-Image Generation with Region-Based Sketches](https://arxiv.org/abs/2502.07556) | CHI 2025 | [[code]](https://github.com/SellLin/SketchFlex) |
 | [Subjective Camera 1.0: Bridging Human Cognition and Visual Reconstruction through Sequence-Aware Sketch-Guided Diffusion](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Subjective_Camera_1.0_Bridging_Human_Cognition_and_Visual_Reconstruction_through_ICCV_2025_paper.pdf) | ICCV 2025 |  |
 | [VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis](https://arxiv.org/abs/2412.11594) | AAAI 2025 | [[code]](https://github.com/FelixChan9527/VersaGen_official) |
+| [SketchingReality: From Freehand Scene Sketches To Photorealistic Images](https://arxiv.org/abs/2602.14648) | ICLR 2026 | [[webpage]](https://ahmedbourouis.github.io/SketchingReality_ICLR26/) |
 
 ## 2. Sketch Based Image Editing
 
