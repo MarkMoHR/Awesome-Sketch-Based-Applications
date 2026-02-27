@@ -388,6 +388,7 @@ A collection of sketch based applications.
 | [TexControl: Sketch-Based Two-Stage Fashion Image Generation Using Diffusion Model](https://arxiv.org/abs/2405.04675) | NICOGRAPH 2024 |  |
 | [HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image](https://openaccess.thecvf.com/content/ICCV2025/papers/Guo_HiGarment_Cross-modal_Harmony_Based_Diffusion_Model_for_Flat_Sketch_to_ICCV_2025_paper.pdf) | ICCV 2025 | [[code]](https://github.com/Maple498/HiGarment) |
 | [LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing](https://openaccess.thecvf.com/content/ICCV2025/papers/Girella_LOTS_of_Fashion_Multi-Conditioning_for_Image_Generation_via_Sketch-Text_Pairing_ICCV_2025_paper.pdf) | ICCV 2025 | [[webpage]](https://intelligolabs.github.io/lots/) [[code]](https://huggingface.co/federicogirella/lots) |
+| [Multi-Level Conditioning by Pairing Localized Text and Sketch for Fashion Image Generation](https://arxiv.org/abs/2602.18309) | arxiv 26.02 | [[webpage]](https://intelligolabs.github.io/lots/) [[code]](https://huggingface.co/federicogirella/lots) |
 
 
 ## 7. Sketch Completion
