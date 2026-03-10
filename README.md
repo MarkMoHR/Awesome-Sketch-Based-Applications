@@ -328,6 +328,7 @@ A collection of sketch based applications.
 |[StickMotion: Generating 3D Human Motions by Drawing a Stickman](https://arxiv.org/abs/2503.04829)| CVPR 2025 | Motion | [[code]](https://github.com/InvertedForest/StickMotion) |
 |[Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation](https://arxiv.org/abs/2504.19189)| SIGGRAPH 2025 | Motion | [[project]](https://zhongleilz.github.io/Sketch2Anim/) |
 |[SMACC: Sketching Motion for Articulated Characters with Comics-based annotations](https://hal.science/hal-05323494/document)| PG 2025 | Motion |  |
+|[Sketch2Colab: Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation](https://arxiv.org/abs/2603.02190)| CVPR 2026 | Motion | [[webpage]](https://sketch2colab.github.io/) |
 
 
 - Scene Generation
