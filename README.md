@@ -665,7 +665,7 @@ A collection of sketch based applications.
   </tr>
 
   <tr>
-    <td rowspan="6"><strong>Vector</strong></td>
+    <td rowspan="7"><strong>Vector</strong></td>
     <td> <a href="https://proceedings.neurips.cc/paper/2021/hash/cdf1035c34ec380218a8cc9a43d438f9-Abstract.html">Recognizing Vector Graphics without Rasterization</a> </td> 
     <td> NeurIPS 2021 </td> 
     <td> <a href="https://github.com/microsoft/YOLaT-VectorGraphicsRecognition">[code]</a> </td>
@@ -694,6 +694,10 @@ A collection of sketch based applications.
     <td> <a href="https://ieeexplore.ieee.org/abstract/document/10508965">Hierarchical Recognizing Vector Graphics and A New Chart-based Vector Graphics Dataset</a> </td> 
     <td> TPAMI 2024 </td> 
     <td> <a href="https://github.com/microsoft/YOLaT-VectorGraphicsRecognition">[code]</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://iccvm.org/2026/files/papers/297.pdf">CADSpotting: Robust Panoptic Symbol Spotting on Large-Scale CAD Drawings</a> </td> 
+    <td> CVM 2026 </td> 
   </tr>
   
 </table>
