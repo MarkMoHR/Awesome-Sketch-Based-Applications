@@ -698,6 +698,7 @@ A collection of sketch based applications.
   <tr>
     <td> <a href="https://iccvm.org/2026/files/papers/297.pdf">CADSpotting: Robust Panoptic Symbol Spotting on Large-Scale CAD Drawings</a> </td> 
     <td> CVM 2026 </td> 
+    <td>  </td>
   </tr>
   
 </table>
