@@ -147,7 +147,7 @@ A collection of sketch based applications.
 | [Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing](https://arxiv.org/abs/2208.08092) | ECCV 2022 | [[code]](https://github.com/1jsingh/paint2pix) [[project]](https://1jsingh.github.io/paint2pix) |
 | [NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://dl.acm.org/doi/abs/10.1145/3550469.3555377) | SIGGRAPH Asia 2022 | [[project]](http://geometrylearning.com/NeRFFaceEditing/) |
 | [SketchFaceNeRF: Sketch-based Facial Generation and Editing in Neural Radiance Fields](https://orca.cardiff.ac.uk/id/eprint/159468/1/NeRFFaceSketch_SIG23.pdf) | SIGGRAPH 2023 |  |
-| [SketchFaceGS: Real-Time Sketch-Driven Face Editing and Generation with Gaussian Splatting](https://github.com/gogoneural/SketchFaceGS) | CVPR 2026 | [[code]](https://github.com/gogoneural/SketchFaceGS) |
+| [SketchFaceGS: Real-Time Sketch-Driven Face Editing and Generation with Gaussian Splatting](https://arxiv.org/abs/2604.19202) | CVPR 2026 | [[code]](https://github.com/gogoneural/SketchFaceGS) |
 
 - Anime Editing
 
@@ -264,6 +264,8 @@ A collection of sketch based applications.
 | [Democratising 2D Sketch to 3D Shape Retrieval Through Pivoting](https://openaccess.thecvf.com/content/ICCV2023/papers/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.pdf) | ICCV 2023 |  |
 | [SCDL: Sketch Causal Disentangled Learning for Sketch-based 3D Shape Retrieval](https://ieeexplore.ieee.org/abstract/document/10847755) | TCSVT 2025 |  |
 | [Multi-level Encoding with Hierarchical Alignment for Sketch-Based 3D Shape Retrieval](https://dl.acm.org/doi/abs/10.1145/3726302.3730043) | SIGIR 2025 |  |
+| [Diff-SBSR: Learning Multimodal Feature-Enhanced Diffusion Models for Zero-Shot Sketch-Based 3D Shape Retrieval](https://arxiv.org/abs/2604.19135) | arxiv 26.04 |  |
+| [Multi-View Hierarchical Graph Neural Network for Sketch-Based 3D Shape Retrieval](https://arxiv.org/abs/2604.18019) | arxiv 26.04 |  |
 
 
 ## 5. Sketch Based 3D Shape Modeling
@@ -304,6 +306,7 @@ A collection of sketch based applications.
 |[Variational Neural Surfacing of 3D Sketches](http://www-labs.iro.umontreal.ca/~bmpix/pdf/surfacing_3d_sketches.pdf)| SIGGRAPH Asia 2025 |  |
 |[From Sketch to Reality: Enabling High-Quality, Cross-Category 3D Model Generation from Free-Hand Sketches with Minimal Data](https://ieeexplore.ieee.org/abstract/document/11372956)| TVCG 2026 |  |
 |[Part-level Semantic Fusion for Sketch-based 3D Voxel Reconstruction](https://ieeexplore.ieee.org/abstract/document/11447317)| TCSVT 2026 |  |
+|[Sketch and Vector-Guided 3D Shape Generation via Cross-Modal Diffusion](https://ieeexplore.ieee.org/abstract/document/11464088)| ICASSP 2026 |  |
 
 
 - Face/Head/Hair Generation
@@ -315,6 +318,7 @@ A collection of sketch based applications.
 | [Structure-aware Editable Morphable Model for 3D Facial Detail Animation and Manipulation](https://arxiv.org/abs/2207.09019) | ECCV 2022 | Face/Head | [[code]](https://github.com/gerwang/facial-detail-manipulation) |
 | [SketchMetaFace: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling](https://arxiv.org/abs/2307.00804)| TVCG 2023 | Face/Head | [[project]](https://zhongjinluo.github.io/SketchMetaFace/) [[code]](https://github.com/zhongjinluo/SketchMetaFace) |
 | [S2TD-Face: Reconstruct a Detailed 3D Face with Controllable Texture from a Single Sketch](https://arxiv.org/abs/2408.01218)| ACM MM 2024 | Face/Head | [[code]](https://github.com/wang-zidu/S2TD-Face) |
+| [SketchFaceGS: Real-Time Sketch-Driven Face Editing and Generation with Gaussian Splatting](https://arxiv.org/abs/2604.19202)| CVPR 2026 | Face/Head | [[code]](https://github.com/gogoneural/SketchFaceGS_jittor) |
 |  |  |  |
 | [DeepSketchHair: Deep Sketch-based 3D Hair Modeling](https://arxiv.org/abs/1908.07198) | TVCG 2019 | Hair |  |
 | [StrandDesigner: Towards Practical Strand Generation with Sketch Guidance](https://arxiv.org/abs/2508.01650)| ACM MM 2025 | Hair | [[code]](https://github.com/fighting-Zhang/StrandDesigner) |
@@ -834,6 +838,7 @@ Please refer to repository [MarkMoHR/Awesome-2D-Animation](https://github.com/Ma
 | [3D VR Sketch Guided 3D Shape Prototyping and Exploration](https://arxiv.org/abs/2306.10830) | ICCV 2023 | [[code]](https://github.com/Rowl1ng/3Dsketch2shape) |
 | [VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting](https://arxiv.org/abs/2503.12383) | arxiv 25.03 |  |
 | [Order Matters: 3D Shape Generation from Sequential VR Sketches](https://arxiv.org/abs/2512.04761) | arxiv 25.12 | [[code]](https://github.com/chenyizi086/VRSketch2Shape) [[webpage]](https://chenyizi086.github.io/VRSketch2Shape_website/) |
+| [HolmeSketcher: Generative 3D Sketch Mapping for Spatial Reconstruction in Crime Scene Investigation](https://arxiv.org/abs/2604.18039) | arxiv 26.04 |  |
 
                                                                        
 ## 19. Sketch Quality Measurement
