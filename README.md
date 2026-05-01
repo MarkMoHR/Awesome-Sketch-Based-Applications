@@ -379,6 +379,7 @@ A collection of sketch based applications.
 | [Sketch2Seq: Reconstruct CAD models from Feature-based Sketch Segmentation](https://ieeexplore.ieee.org/abstract/document/10982215) | TVCG 2025 |  |
 | [From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach](https://ojs.aaai.org/index.php/AAAI/article/view/32858) | AAAI 2025 | [[webpage]](https://manycore-research.github.io/CAD2Program/) |
 | [DAFU-CAD: Depth-assisted Feature Unraveling for Sketch-based Robust CAD Modeling](https://dl.acm.org/doi/abs/10.1145/3746027.3755252) | MM 2025 |  |
+| [Sketch2Arti: Sketch-based Articulation Modeling of CAD Objects](https://arxiv.org/abs/2604.25781) | SIGGRAPH 2026 | [[webpage]](https://arlo-yang.github.io/Sketch2Arti/)  |
 
 
 ## 6. Sketch Based Garment Design
