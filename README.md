@@ -131,6 +131,7 @@ A collection of sketch based applications.
 | [Draw2Edit: Mask-Free Sketch-Guided Image Manipulation](https://dl.acm.org/doi/abs/10.1145/3581783.3612398) | ACM MM 2023 | [[code]](https://github.com/YiwenXu/Draw2Edit)  |
 | [Towards Interactive Image Inpainting via Robust Sketch Refinement](https://ieeexplore.ieee.org/abstract/document/10533842/) | TMM 2024 | [[code]](https://github.com/AlonzoLeeeooo/SketchRefiner) [[project]](https://alonzoleeeooo.github.io/SketchRefiner/)  |
 | [Harnessing Diffusion Models for Image Manipulation With Partial Sketches](https://ieeexplore.ieee.org/abstract/document/11495049) | TIP 2026 | [[code]](https://github.com/CMACH508/DiffStroke)  |
+| [ScribbleEdit: Synthetic Data for Image Editing with Scribbles and Text](https://arxiv.org/abs/2605.01135) | arxiv 26.05 |  |
 
 - Human Face / Portrait / Hair
 
