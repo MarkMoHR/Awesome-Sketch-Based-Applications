@@ -309,6 +309,7 @@ A collection of sketch based applications.
 |[From Sketch to Reality: Enabling High-Quality, Cross-Category 3D Model Generation from Free-Hand Sketches with Minimal Data](https://ieeexplore.ieee.org/abstract/document/11372956)| TVCG 2026 |  |
 |[Part-level Semantic Fusion for Sketch-based 3D Voxel Reconstruction](https://ieeexplore.ieee.org/abstract/document/11447317)| TCSVT 2026 |  |
 |[Sketch and Vector-Guided 3D Shape Generation via Cross-Modal Diffusion](https://ieeexplore.ieee.org/abstract/document/11464088)| ICASSP 2026 |  |
+|[NeuralSketch2Surf: Fast Neural Surfacing of Unoriented 3D Sketches](https://inria.hal.science/hal-05615004)| SIGGRAPH 2026 | [[code]](https://github.com/Hongsheng-Y/NeuralSketch2Surf) |
 
 
 - Face/Head/Hair Generation
