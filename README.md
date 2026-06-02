@@ -95,6 +95,7 @@ A collection of sketch based applications.
 | [Adaptively-Realistic Image Generation from Stroke and Sketch with Diffusion Model](https://arxiv.org/abs/2208.12675) | WACV 2023 | [[project]](https://cyj407.github.io/DiSS/) [[code]](https://github.com/cyj407/DiSS) |
 | [DemoCaricature: Democratising Caricature Generation with a Rough Sketch](https://arxiv.org/abs/2312.04364) | CVPR 2024 | [[project]](https://democaricature.github.io/) [[code]](https://github.com/ChenDarYen/DemoCaricature/) |
 | [SMFS-GAN: Style-Guided Multi-class Freehand Sketch-to-Image Synthesis](https://doi.org/10.1111/cgf.15190) | CGF 2024 |  |
+| [CaricHarmony: Contrastive Diffusion Paths for Identity-Preserving Caricature Synthesis](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_CaricHarmony_Contrastive_Diffusion_Paths_for_Identity-Preserving_Caricature_Synthesis_CVPR_2026_paper.pdf) | CVPR 2026 | [[project]](https://dongyuuw.github.io/CaricHarmony/) |
 
 ### 1.3 Text-conditioned
 
@@ -383,6 +384,7 @@ A collection of sketch based applications.
 | [From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach](https://ojs.aaai.org/index.php/AAAI/article/view/32858) | AAAI 2025 | [[webpage]](https://manycore-research.github.io/CAD2Program/) |
 | [DAFU-CAD: Depth-assisted Feature Unraveling for Sketch-based Robust CAD Modeling](https://dl.acm.org/doi/abs/10.1145/3746027.3755252) | MM 2025 |  |
 | [Sketch2Arti: Sketch-based Articulation Modeling of CAD Objects](https://arxiv.org/abs/2604.25781) | SIGGRAPH 2026 | [[webpage]](https://arlo-yang.github.io/Sketch2Arti/)  |
+| [Bidirectional Query-Driven Generation of Parametric CAD Sketch](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Bidirectional_Query-Driven_Generation_of_Parametric_CAD_Sketch_CVPR_2026_paper.pdf) | CVPR 2026 |  |
 
 
 ## 6. Sketch Based Garment Design
@@ -413,6 +415,7 @@ A collection of sketch based applications.
 | [SketchHealer: A Graph-to-Sequence Network for Recreating Partial Human Sketches](https://core.ac.uk/download/pdf/334949144.pdf) | BMVC 2020 | [[code]](https://github.com/sgybupt/SketchHealer) | 
 | [Sketch-BERT: Learning Sketch Bidirectional Encoder Representation from Transformers by Self-supervised Learning of Sketch Gestalt](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Sketch-BERT_Learning_Sketch_Bidirectional_Encoder_Representation_From_Transformers_by_Self-Supervised_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/avalonstrel/SketchBERT) |
 | [Generative Sketch Healing](https://link.springer.com/article/10.1007/s11263-022-01623-7) | IJCV 2022 |  | 
+| [SketchRevive: Fine-Grained Pixel-to-Vector Sketch Completion with Diffusion-Prior-Guided Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2026/papers/Zuo_SketchRevive_Fine-Grained_Pixel-to-Vector_Sketch_Completion_with_Diffusion-Prior-Guided_Multimodal_LLMs_CVPR_2026_paper.pdf) | CVPR 2026 |  | 
 
 
 - Sketch gap / connectivity detection
