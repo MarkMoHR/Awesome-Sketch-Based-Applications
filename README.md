@@ -716,24 +716,7 @@ A collection of sketch based applications.
 
 ## 15. Sketch Representation Learning
 
-- Stroke order importance/saliency, sketch abstraction
-
-| Paper | Source | Code/Project Link | Data Manner | Related Applications |
-| --- | --- | --- | --- | --- |
-| [Learning Deep Sketch Abstraction](http://openaccess.thecvf.com/content_cvpr_2018/papers/Muhammad_Learning_Deep_Sketch_CVPR_2018_paper.pdf) | CVPR 2018 |  | Vector/stroke-level | FG-SBIR |
-| [Goal-Driven Sequential Data Abstraction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Muhammad_Goal-Driven_Sequential_Data_Abstraction_ICCV_2019_paper.pdf) | ICCV 2019 |  | Vector/stroke-level | Sketch recognition |
-| [Pixelor: a competitive sketching AI agent. So you think you can sketch?](https://dl.acm.org/doi/pdf/10.1145/3414685.3417840) | SIGGRAPH Asia 2020 | [[Project]](http://sketchx.ai/pixelor) [[Code]](https://github.com/dasayan05/neuralsort-siggraph) | Vector/stroke-level | Sketch synthesis and recognition |
-| [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf) | ICCV 2021 |  | Vector/stroke-level | Sketch recognition, FB-SBIR, sketch healing |
-| [Abstracting Sketches through Simple Primitives](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_23) | ECCV 2022 | [[code]](https://github.com/ExplainableML/sketch-primitives) | Vector/stroke-level | Sketch recognition, FG-SBIR |
-| [Learning Geometry-aware Representations by Sketching](https://arxiv.org/abs/2304.08204) | CVPR 2023 | [[code]](https://github.com/illhyhl1111/LearningBySketching) | Vector/stroke-level | object attribute classification, domain transfer, stroke-based generation, FG-SBIR |
-| [SketchXAI: A First Look at Explainability for Human Sketches](https://arxiv.org/abs/2304.11744) | CVPR 2023 | [[project]](https://sketchxai.github.io/) | Vector/stroke-level | sketch recognition |
-| [Prediction with Visual Evidence: Sketch Classification Explanation via Stroke-Level Attributions](https://ieeexplore.ieee.org/abstract/document/10194541) | TIP 2023 |  | Vector/stroke-level |  |
-| [What Sketch Explainability Really Means for Downstream Tasks](https://arxiv.org/abs/2403.09480) | CVPR 2024 |  | Vector/stroke-level |  |
-| [Do Generalised Classifiers really work on Human Drawn Sketches?](https://arxiv.org/abs/2407.03893) | ECCV 2024 |  | Pixel-level |  |
-| [SketchFusion: Learning Universal Sketch Features through Fusing Foundation Models](https://arxiv.org/abs/2503.14129) | CVPR 2025 | [[webpage]](https://subhadeepkoley.github.io/SketchFusion/) | Pixel-level | sketch retrieval, recognition, segmentation,  correspondence learning  |
-
-
-- Latent Representation Learning
+### 15.1 Latent Representation Learning
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
@@ -758,8 +741,8 @@ A collection of sketch based applications.
 | [SVGformer: Representation Learning for Continuous Vector Graphics using Transformers](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_SVGformer_Representation_Learning_for_Continuous_Vector_Graphics_Using_Transformers_CVPR_2023_paper.pdf) | CVPR 2023 |  | SVG | Reconstruction, classification, interpolation, retrieval |
 | [StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis](https://arxiv.org/abs/2401.17093) | arxiv 24.01 |  | SVG | generation |
 
+### 15.2 Self-supervised or Few/Zero-shot Learning
 
-- Self-supervised or few/zero-shot learning
 
 | Paper | Source | Code/Project Link | Data Manner | Related Applications |
 | --- | --- | --- | --- | --- |
@@ -771,20 +754,44 @@ A collection of sketch based applications.
 | [Self-Supervised Learning for Enhancing Spatial Awareness in Free-Hand Sketches](https://www.ijcai.org/proceedings/2024/0566.pdf) | IJCAI 2024 | [[Code]](https://github.com/CMACH508/SketchGloc) | Vector-level | Synthesis |
 
 
-- Multi-modality Learning
+### 15.3 Sketch Abstraction Learning
+
+
+| Paper | Source | Code/Project Link | Data Manner | Related Applications |
+| --- | --- | --- | --- | --- |
+| [Learning Deep Sketch Abstraction](http://openaccess.thecvf.com/content_cvpr_2018/papers/Muhammad_Learning_Deep_Sketch_CVPR_2018_paper.pdf) | CVPR 2018 |  | Vector/stroke-level | FG-SBIR |
+| [Goal-Driven Sequential Data Abstraction](http://openaccess.thecvf.com/content_ICCV_2019/papers/Muhammad_Goal-Driven_Sequential_Data_Abstraction_ICCV_2019_paper.pdf) | ICCV 2019 |  | Vector/stroke-level | Sketch recognition |
+| [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf) | ICCV 2021 |  | Vector/stroke-level | Sketch recognition, FB-SBIR, sketch healing |
+| [Abstracting Sketches through Simple Primitives](https://link.springer.com/chapter/10.1007/978-3-031-19818-2_23) | ECCV 2022 | [[code]](https://github.com/ExplainableML/sketch-primitives) | Vector/stroke-level | Sketch recognition, FG-SBIR |
+| [SEA: Evaluating Sketch Abstraction Efficiency via Element-level Commonsense Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2026/papers/Park_SEA_Evaluating_Sketch_Abstraction_Efficiency_via_Element-level_Commonsense_Visual_Question_CVPR_2026_paper.pdf) | CVPR 2026 | [[code]](https://github.com/zihos/SEA) [[webpage]](https://zihos.github.io/SEA/) | Pixel-level |  |
+
+### 15.4 Multi-modality Learning
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
 | [O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model](https://arxiv.org/abs/2511.14368) | AAAI 2026 | [[webpage]](https://vcl-iisc.github.io/O3SLM/) [[code]](https://github.com/vcl-iisc/O3SLM_code) |
 | [SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text](https://arxiv.org/abs/2204.11964) | CVPR 2023 |  |
           
-
-- Implicit Neural Representations
+### 15.5 Implicit Neural Representations
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
-| [SketchINR: A First Look into Sketches as Implicit Neural Representations](https://arxiv.org/abs/2403.09344) | CVPR 2024 | [[code]](https://github.com/hmrishavbandy/SketchINR-Code) |                                                                             
+| [SketchINR: A First Look into Sketches as Implicit Neural Representations](https://arxiv.org/abs/2403.09344) | CVPR 2024 | [[code]](https://github.com/hmrishavbandy/SketchINR-Code) |                                                            
                                                                                        
+
+### 15.6 Miscellaneous
+
+| Paper | Source | Code/Project Link | Data Manner | Related Applications |
+| --- | --- | --- | --- | --- |
+| [Pixelor: a competitive sketching AI agent. So you think you can sketch?](https://dl.acm.org/doi/pdf/10.1145/3414685.3417840) | SIGGRAPH Asia 2020 | [[Project]](http://sketchx.ai/pixelor) [[Code]](https://github.com/dasayan05/neuralsort-siggraph) | Vector/stroke-level | Sketch synthesis and recognition |
+| [Learning Geometry-aware Representations by Sketching](https://arxiv.org/abs/2304.08204) | CVPR 2023 | [[code]](https://github.com/illhyhl1111/LearningBySketching) | Vector/stroke-level | object attribute classification, domain transfer, stroke-based generation, FG-SBIR |
+| [SketchXAI: A First Look at Explainability for Human Sketches](https://arxiv.org/abs/2304.11744) | CVPR 2023 | [[project]](https://sketchxai.github.io/) | Vector/stroke-level | sketch recognition |
+| [Prediction with Visual Evidence: Sketch Classification Explanation via Stroke-Level Attributions](https://ieeexplore.ieee.org/abstract/document/10194541) | TIP 2023 |  | Vector/stroke-level |  |
+| [What Sketch Explainability Really Means for Downstream Tasks](https://arxiv.org/abs/2403.09480) | CVPR 2024 |  | Vector/stroke-level |  |
+| [Do Generalised Classifiers really work on Human Drawn Sketches?](https://arxiv.org/abs/2407.03893) | ECCV 2024 |  | Pixel-level |  |
+| [SketchFusion: Learning Universal Sketch Features through Fusing Foundation Models](https://arxiv.org/abs/2503.14129) | CVPR 2025 | [[webpage]](https://subhadeepkoley.github.io/SketchFusion/) | Pixel-level | sketch retrieval, recognition, segmentation,  correspondence learning  |
+| [Modeling the Visual Ambiguity of Human Sketches](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Modeling_the_Visual_Ambiguity_of_Human_Sketches_CVPR_2026_paper.pdf) | CVPR 2026 |  | Pixel-level | SBIR |
+
 ## 16. Sketch and Visual Correspondence
 
 - Datasets
