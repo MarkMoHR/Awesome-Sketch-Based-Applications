@@ -810,6 +810,7 @@ A collection of sketch based applications.
 | Region | [Globally optimal toon tracking](https://dl.acm.org/doi/abs/10.1145/2897824.2925872) | SIGGRAPH 2016 | [[project]](https://www.cse.cuhk.edu.hk/~ttwong/papers/toontrack/toontrack.html) |
 | Region | [The Animation Transformer: Visual Correspondence via Segment Matching](https://openaccess.thecvf.com/content/ICCV2021/papers/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.pdf) | ICCV 2021 |  | 
 | Region | [Learning Inclusion Matching for Animation Paint Bucket Colorization](https://arxiv.org/abs/2403.18342) | CVPR 2024 | [[code]](https://github.com/ykdai/BasicPBC) [[project]](https://ykdai.github.io/projects/InclusionMatching) | 
+| Region | [Region-Wise Correspondence Prediction between Manga Line Art Images](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Region-Wise_Correspondence_Prediction_between_Manga_Line_Art_Images_CVPR_2026_paper.pdf) | CVPR 2026 | [[code]](https://github.com/liyingxuan1012/r2r-lineart-correspondence) | 
 |  |  |  |  | 
 | Point | [SketchDesc: Learning Local Sketch Descriptors for Multi-view Correspondence](http://sweb.cityu.edu.hk/hongbofu/doc/SketchDesc_TCSVT2020.pdf) | TCSVT 2020 |  | 
 | Point | [SketchZooms: Deep Multi-view Descriptors for Matching Line Drawings](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14197) | CGF 2021 | [[project]](https://emmanueliarussi.github.io/index_sz.html) | 
