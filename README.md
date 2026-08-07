@@ -7,7 +7,7 @@ A collection of sketch based applications.
 
 **Outline**
 
-- [0. Survey](#0-survey)
+- [0. Survey & Toolkit](#0-survey--toolkit)
 - [1. Sketch Based Image Synthesis](#1-sketch-based-image-synthesis)
   - [1.1 Automatic Synthesis](#11-automatic-synthesis)
   - [1.2 Style-conditioned](#12-style-conditioned)
@@ -35,13 +35,21 @@ A collection of sketch based applications.
 
 ---
 
-## 0. Survey
+## 0. Survey & Toolkit
+
+- Survey
 
 | Paper | Source | Code/Project Link  |
 | --- | --- | --- |
 | [A critical review of sketch collection methods: Remembering how humans really sketch](https://www.sciencedirect.com/science/article/pii/S0097849326000749) | C&G 2026 |  |
 | [State-of-the-art Report in Sketch Processing](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70079) | CGF 2025 | [[code]](https://github.com/squidrice21/sketch-processing-papers) |
 | [Deep Learning for Free-Hand Sketch: A Survey](https://ieeexplore.ieee.org/abstract/document/9706366) | TPAMI 2022 | [[code]](https://github.com/PengBoXiangShang/torchsketch) |
+
+- Toolkit
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| SketchKit | 2026 | [[code]](https://github.com/CISLab-HKUST/SketchKit) |
 
 ## 1. Sketch Based Image Synthesis
 
@@ -388,6 +396,7 @@ A collection of sketch based applications.
 | [DAFU-CAD: Depth-assisted Feature Unraveling for Sketch-based Robust CAD Modeling](https://dl.acm.org/doi/abs/10.1145/3746027.3755252) | MM 2025 |  |
 | [Sketch2Arti: Sketch-based Articulation Modeling of CAD Objects](https://arxiv.org/abs/2604.25781) | SIGGRAPH 2026 | [[webpage]](https://arlo-yang.github.io/Sketch2Arti/)  |
 | [Bidirectional Query-Driven Generation of Parametric CAD Sketch](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Bidirectional_Query-Driven_Generation_of_Parametric_CAD_Sketch_CVPR_2026_paper.pdf) | CVPR 2026 |  |
+| [CADrawer: Autoregressive CAD Generation from 3D Sketches](http://www-sop.inria.fr/reves/Basilic/2026/LMKHXBR26/CADrawerAuthors.pdf) | EG 2026 | [[webpage]](http://www-sop.inria.fr/reves/Basilic/2026/LMKHXBR26/) |
 
 
 ## 6. Sketch Based Garment Design
