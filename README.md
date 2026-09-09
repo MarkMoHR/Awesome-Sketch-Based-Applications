@@ -39,11 +39,12 @@ A collection of sketch based applications.
 
 - Survey
 
-| Paper | Source | Code/Project Link  |
+| Paper/Blog | Source | Code/Project Link  |
 | --- | --- | --- |
 | [A critical review of sketch collection methods: Remembering how humans really sketch](https://www.sciencedirect.com/science/article/pii/S0097849326000749) | C&G 2026 |  |
 | [State-of-the-art Report in Sketch Processing](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70079) | CGF 2025 | [[code]](https://github.com/squidrice21/sketch-processing-papers) |
 | [Deep Learning for Free-Hand Sketch: A Survey](https://ieeexplore.ieee.org/abstract/document/9706366) | TPAMI 2022 | [[code]](https://github.com/PengBoXiangShang/torchsketch) |
+| [Sketches in Computer Vision (Blog)](https://heartbeat.comet.ml/sketches-in-computer-vision-74e6d8d84bee) | Heartbeat | |
 
 - Toolkit
 
