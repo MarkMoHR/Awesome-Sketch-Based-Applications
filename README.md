@@ -127,6 +127,7 @@ A collection of sketch based applications.
 | [VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis](https://arxiv.org/abs/2412.11594) | AAAI 2025 | [[code]](https://github.com/FelixChan9527/VersaGen_official) |
 | [SketchingReality: From Freehand Scene Sketches To Photorealistic Images](https://arxiv.org/abs/2602.14648) | ICLR 2026 | [[webpage]](https://ahmedbourouis.github.io/SketchingReality_ICLR26/) |
 | [SketchEvo: Leveraging Drawing Dynamics for Enhanced Image Synthesis](https://openreview.net/forum?id=Tsfxd4jDwJ) | ICLR 2026 |  |
+| [SketchDiff: Progressive Diffusion for Photorealistic Portrait Generation From Rough Sketches](https://doi.org/10.1109/TNNLS.2026.3734953) | TNNLS 2026 |  |
 
 ## 2. Sketch Based Image Editing
 
