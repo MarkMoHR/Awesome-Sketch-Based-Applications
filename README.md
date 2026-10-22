@@ -323,6 +323,11 @@ A collection of sketch based applications.
 |[Sketch and Vector-Guided 3D Shape Generation via Cross-Modal Diffusion](https://ieeexplore.ieee.org/abstract/document/11464088)| ICASSP 2026 |  |
 |[NeuralSketch2Surf: Fast Neural Surfacing of Unoriented 3D Sketches](https://dl.acm.org/doi/full/10.1145/3799902.3811227)| SIGGRAPH 2026 | [[code]](https://github.com/Hongsheng-Y/NeuralSketch2Surf) |
 
+- Hand-Object Interaction (HOI)
+
+| Paper | Source | Code/Project Link  |
+| --- | --- | --- |
+| [Sketch2HOI: Sketch-Based Modeling of 3D Hand-Object Interaction with Hierarchical Attentive Fusion](https://ieeexplore.ieee.org/abstract/document/11737569) | TVCG 2026 |  |
 
 - Face/Head/Hair Generation
 
@@ -416,6 +421,7 @@ A collection of sketch based applications.
 | [HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image](https://openaccess.thecvf.com/content/ICCV2025/papers/Guo_HiGarment_Cross-modal_Harmony_Based_Diffusion_Model_for_Flat_Sketch_to_ICCV_2025_paper.pdf) | ICCV 2025 | [[code]](https://github.com/Maple498/HiGarment) |
 | [LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing](https://openaccess.thecvf.com/content/ICCV2025/papers/Girella_LOTS_of_Fashion_Multi-Conditioning_for_Image_Generation_via_Sketch-Text_Pairing_ICCV_2025_paper.pdf) | ICCV 2025 | [[webpage]](https://intelligolabs.github.io/lots/) [[code]](https://huggingface.co/federicogirella/lots) |
 | [Multi-Level Conditioning by Pairing Localized Text and Sketch for Fashion Image Generation](https://arxiv.org/abs/2602.18309) | arxiv 26.02 | [[webpage]](https://intelligolabs.github.io/lots/) [[code]](https://huggingface.co/federicogirella/lots) |
+| [From Sketch to Scene: Relightable Garment Reconstruction from Marked Sketches](https://arxiv.org/abs/2610.21865) | arxiv 26.10 |  |
 
 
 ## 7. Sketch Completion
