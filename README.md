@@ -128,6 +128,7 @@ A collection of sketch based applications.
 | [SketchingReality: From Freehand Scene Sketches To Photorealistic Images](https://arxiv.org/abs/2602.14648) | ICLR 2026 | [[webpage]](https://ahmedbourouis.github.io/SketchingReality_ICLR26/) |
 | [SketchEvo: Leveraging Drawing Dynamics for Enhanced Image Synthesis](https://openreview.net/forum?id=Tsfxd4jDwJ) | ICLR 2026 |  |
 | [SketchDiff: Progressive Diffusion for Photorealistic Portrait Generation From Rough Sketches](https://doi.org/10.1109/TNNLS.2026.3734953) | TNNLS 2026 |  |
+| [LaCon: Late-Constraint Controllable Visual Generation](https://ieeexplore.ieee.org/document/11360571) | TIP 2026 | [[code]](https://github.com/AlonzoLeeeooo/LCDG) [[project]](https://alonzoleeeooo.github.io/LCDG/) |
 
 ## 2. Sketch Based Image Editing
 
