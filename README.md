@@ -352,6 +352,7 @@ A collection of sketch based applications.
 | [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](https://dl.acm.org/doi/abs/10.1145/3528223.3530106) | SIGGRAPH 2022 | Pose | [[project]](http://www-labs.iro.umontreal.ca/~bmpix/sketch2pose/) [[code]](https://github.com/kbrodt/sketch2pose) |
 | [Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction](https://wangli000.github.io/files/Sketch2Pose.pdf)| SIGGRAPH Asia 2025 | Pose |  |
 | [SketchBodyNet++: Sketch-Based 3D Human Mesh Reconstruction Via Hybrid Parametric Networks](https://ieeexplore.ieee.org/abstract/document/11568724)| TVCG 2026 | Pose |  |
+| [Language as a Universal Anchor for Cross-Domain Sketch-Based 3D Human Mesh Recovery](https://ieeexplore.ieee.org/abstract/document/11763506)| TVCG 2026 | Pose |  |
 |  |  |  |
 |[Doodle Your Motion: Sketch-Guided Human Motion Generation](https://ieeexplore.ieee.org/abstract/document/10812894)| TVCG 2024 | Motion |  |
 |[StickMotion: Generating 3D Human Motions by Drawing a Stickman](https://arxiv.org/abs/2503.04829)| CVPR 2025 | Motion | [[code]](https://github.com/InvertedForest/StickMotion) |
@@ -423,6 +424,7 @@ A collection of sketch based applications.
 | [LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing](https://openaccess.thecvf.com/content/ICCV2025/papers/Girella_LOTS_of_Fashion_Multi-Conditioning_for_Image_Generation_via_Sketch-Text_Pairing_ICCV_2025_paper.pdf) | ICCV 2025 | [[webpage]](https://intelligolabs.github.io/lots/) [[code]](https://huggingface.co/federicogirella/lots) |
 | [Multi-Level Conditioning by Pairing Localized Text and Sketch for Fashion Image Generation](https://arxiv.org/abs/2602.18309) | arxiv 26.02 | [[webpage]](https://intelligolabs.github.io/lots/) [[code]](https://huggingface.co/federicogirella/lots) |
 | [From Sketch to Scene: Relightable Garment Reconstruction from Marked Sketches](https://arxiv.org/abs/2610.21865) | arxiv 26.10 |  |
+| [Sketch, Edit, Flatten: Bridging the Gap in Fashion Design](https://dl.acm.org/doi/full/10.1145/3830398.3830554) | UIST 2026 |  |
 
 
 ## 7. Sketch Completion
