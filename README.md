@@ -353,6 +353,7 @@ A collection of sketch based applications.
 | [Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction](https://wangli000.github.io/files/Sketch2Pose.pdf)| SIGGRAPH Asia 2025 | Pose |  |
 | [SketchBodyNet++: Sketch-Based 3D Human Mesh Reconstruction Via Hybrid Parametric Networks](https://ieeexplore.ieee.org/abstract/document/11568724)| TVCG 2026 | Pose |  |
 | [Language as a Universal Anchor for Cross-Domain Sketch-Based 3D Human Mesh Recovery](https://ieeexplore.ieee.org/abstract/document/11763506)| TVCG 2026 | Pose |  |
+| [ControlPose: Quality-adaptive Sketch Optimization and Text Complexity-guided 3D Human Body Reconstruction](https://dl.acm.org/doi/abs/10.1145/3767308.3835346)| MM 2026 | Pose |  |
 |  |  |  |
 |[Doodle Your Motion: Sketch-Guided Human Motion Generation](https://ieeexplore.ieee.org/abstract/document/10812894)| TVCG 2024 | Motion |  |
 |[StickMotion: Generating 3D Human Motions by Drawing a Stickman](https://arxiv.org/abs/2503.04829)| CVPR 2025 | Motion | [[code]](https://github.com/InvertedForest/StickMotion) |
